@@ -1,0 +1,4975 @@
+ἀγαθοεργέω:
+    present.act.actual: ἀγαθοεργεῖν
+    present.mp1.generated: ἀγαθοεργεῖσθαι
+ἀγαθοποιέω:
+    aorist.act.actual: ἀγαθοποιῆσαι
+    aorist.mp1.generated: ἀγαθοποιήσασθαι
+    aorist.mp2.generated: ἀγαθοποιησῆναι
+    present.act.generated: ἀγαθοποιεῖν
+    present.mp1.generated: ἀγαθοποιεῖσθαι
+ἀγαθουργέω:
+    present.act.generated: ἀγαθουργεῖν
+    present.mp1.generated: ἀγαθουργεῖσθαι
+ἀγαλλιάω:
+    aorist.act.generated: ἠγαλλιάσαι
+    aorist.mp1.generated: ἠγαλλιάσασθαι
+    aorist.mp2.actual: ἀγαλλιαθῆναι
+    present.act.generated: ἀγαλλιᾶν
+    present.mp1.generated: ἀγαλλιᾶσθαι
+ἀγανακτέω:
+    aorist.act.generated: ἠγανακτῆσαι
+    aorist.mp1.generated: ἠγανακτήσασθαι
+    aorist.mp2.generated: ἠγανακτησῆναι
+    present.act.actual: ἀγανακτεῖν
+    present.mp1.generated: ἀγανακτεῖσθαι
+ἀγαπάω:
+    aorist.act.generated: ἀγαπῆσαι
+    aorist.mp1.generated: ἀγαπήσασθαι
+    aorist.mp2.generated: ἠγαπησῆναι
+    present.act.actual: ἀγαπᾶν
+    present.mp1.generated: ἀγαπᾶσθαι
+ἀγγαρεύω:
+    aorist.act.generated: ἠγγαρεῦσαι
+    aorist.mp1.generated: ἠγγαρεύσασθαι
+    aorist.mp2.generated: ἠγγαρευσῆναι
+    present.act.generated: ἀγγαρεύειν
+    present.mp1.generated: ἀγγαρεύεσθαι
+ἀγγέλλω:
+    aorist.act.generated: ἀγγεῖλαι
+    aorist.mp1.generated: ἀγγείλασθαι
+    aorist.mp2.generated: ἀγγελῆναι
+    present.act.generated: ἀγγέλλειν
+    present.mp1.generated: ἀγγέλλεσθαι
+ἁγιάζω:
+    aorist.act.generated: ἁγιάσαι
+    aorist.mp1.generated: ἁγιάσασθαι
+    aorist.mp2.generated: ἁγιασθῆναι
+    present.act.generated: ἁγιάζειν
+    present.mp1.generated: ἁγιάζεσθαι
+ἁγνίζω:
+    aorist.act.generated: ἁγνίσαι
+    aorist.mp1.generated: ἁγνίσασθαι
+    aorist.mp2.generated: ἁγνισθῆναι
+    present.act.generated: ἁγνίζειν
+    present.mp1.generated: ἁγνίζεσθαι
+ἀγνοέω:
+    aorist.act.generated: ἀγνοῆσαι
+    aorist.mp1.generated: ἀγνοήσασθαι
+    present.act.actual: ἀγνοεῖν
+    present.mp1.generated: ἀγνοεῖσθαι
+ἀγοράζω:
+    aorist.act.actual: ἀγοράσαι
+    aorist.mp1.generated: ἀγοράσασθαι
+    aorist.mp2.generated: ἠγορασθῆναι
+    present.act.generated: ἀγοράζειν
+    present.mp1.generated: ἀγοράζεσθαι
+ἀγραυλέω:
+    present.act.generated: ἀγραυλεῖν
+    present.mp1.generated: ἀγραυλεῖσθαι
+ἀγρυπνέω:
+    present.act.generated: ἀγρυπνεῖν
+    present.mp1.generated: ἀγρυπνεῖσθαι
+ἄγω:
+    aorist.act.actual: ἀγαγεῖν
+    aorist.mp1.generated: ἀγαγέσθαι
+    aorist.mp2.actual: ἀχθῆναι
+    present.act.actual: ἄγειν
+    present.mp1.actual: ἄγεσθαι
+ἀγωνίζομαι:
+    aorist.act.generated: ἀγωνίσαι
+    aorist.mp1.generated: ἀγωνίσασθαι
+    aorist.mp2.generated: ἠγωνισῆναι
+    present.act.generated: ἀγωνίζειν
+    present.mp1.generated: ἀγωνίζεσθαι
+ἀδημονέω:
+    present.act.actual: ἀδημονεῖν
+    present.mp1.generated: ἀδημονεῖσθαι
+ἀδικέω:
+    aorist.act.actual: ἀδικῆσαι
+    aorist.mp1.generated: ἀδικήσασθαι
+    aorist.mp2.generated: ἀδικηθῆναι
+    present.act.generated: ἀδικεῖν
+    present.mp1.generated: ἀδικεῖσθαι
+ἀδυνατέω:
+    present.act.generated: ἀδυνατεῖν
+    present.mp1.generated: ἀδυνατεῖσθαι
+ᾄδω:
+    present.act.generated: ᾄδειν
+    present.mp1.generated: ᾄδεσθαι
+ἀθετέω:
+    aorist.act.actual: ἀθετῆσαι
+    aorist.mp1.generated: ἀθετήσασθαι
+    aorist.mp2.generated: ἠθετησῆναι
+    present.act.generated: ἀθετεῖν
+    present.mp1.generated: ἀθετεῖσθαι
+αἱμορροέω:
+    present.act.generated: αἱμορροεῖν
+    present.mp1.generated: αἱμορροεῖσθαι
+αἰνέω:
+    aorist.act.generated: αἰνέσαι
+    aorist.mp1.generated: αἰνέσασθαι
+    aorist.mp2.generated: ἠνεσῆναι
+    present.act.actual: αἰνεῖν
+    present.mp1.generated: αἰνεῖσθαι
+αἱρέομαι:
+    aorist.act.generated: ἑλεῖν
+    aorist.mp1.generated: ἑλέσθαι
+    aorist.mp2.generated: εἱλῆναι
+    present.act.generated: αἱρεῖν
+    present.mp1.generated: αἱρεῖσθαι
+αἱρετίζω:
+    aorist.act.generated: ᾑρετίσαι
+    aorist.mp1.generated: ᾑρετίσασθαι
+    aorist.mp2.generated: ᾑρετισῆναι
+αἴρω:
+    aorist.act.actual: ἆραι
+    aorist.mp1.generated: ἄρασθαι
+    aorist.mp2.generated: ἀρθῆναι
+    present.act.generated: αἴρειν
+    present.mp1.generated: αἴρεσθαι
+αἰσθάνομαι:
+    present.act.generated: αἰσθάνειν
+    present.mp1.generated: αἰσθάνεσθαι
+αἰσχύνομαι:
+    aorist.mp2.generated: αἰσχυνθῆναι
+    present.act.generated: αἰσχύνειν
+    present.mp1.generated: αἰσχύνεσθαι
+αἰτέω:
+    aorist.act.actual: αἰτῆσαι
+    aorist.mp1.generated: αἰτήσασθαι
+    aorist.mp2.generated: ᾐτησῆναι
+    present.act.actual: αἰτεῖν
+    present.mp1.actual: αἰτεῖσθαι
+αἰχμαλωτεύω:
+    aorist.act.generated: ᾐχμαλωτεῦσαι
+    aorist.mp1.generated: ᾐχμαλωτεύσασθαι
+    aorist.mp2.generated: ᾐχμαλωτευσῆναι
+αἰχμαλωτίζω:
+    present.act.generated: αἰχμαλωτίζειν
+    present.mp1.generated: αἰχμαλωτίζεσθαι
+ἀκαιρέομαι:
+    present.act.generated: ἀκαιρεῖν
+    present.mp1.generated: ἀκαιρεῖσθαι
+ἀκμάζω:
+    aorist.act.generated: ἠκμάσαι
+    aorist.mp1.generated: ἠκμάσασθαι
+    aorist.mp2.generated: ἠκμασῆναι
+ἀκολουθέω:
+    aorist.act.actual: ἀκολουθῆσαι
+    aorist.mp1.generated: ἀκολουθήσασθαι
+    aorist.mp2.generated: ἠκολουθησῆναι
+    present.act.generated: ἀκολουθεῖν
+    present.mp1.generated: ἀκολουθεῖσθαι
+ἀκούω:
+    aorist.act.actual: ἀκοῦσαι
+    aorist.mp1.generated: ἀκούσασθαι
+    aorist.mp2.generated: ἀκουσθῆναι
+    present.act.actual: ἀκούειν
+    present.mp1.generated: ἀκούεσθαι
+ἀκριβόω:
+    aorist.act.generated: ἠκριβῶσαι
+    aorist.mp1.generated: ἠκριβώσασθαι
+    aorist.mp2.generated: ἠκριβωσῆναι
+ἀκυρόω:
+    aorist.act.generated: ἠκυρῶσαι
+    aorist.mp1.generated: ἠκυρώσασθαι
+    aorist.mp2.generated: ἠκυρωσῆναι
+    present.act.generated: ἀκυροῦν
+    present.mp1.generated: ἀκυροῦσθαι
+ἀλαλάζω:
+    present.act.generated: ἀλαλάζειν
+    present.mp1.generated: ἀλαλάζεσθαι
+ἀλείφω:
+    aorist.act.generated: ἀλεῖψαι
+    aorist.mp1.generated: ἀλείψασθαι
+    aorist.mp2.generated: ἠλειψῆναι
+    present.act.generated: ἀλείφειν
+    present.mp1.generated: ἀλείφεσθαι
+ἀληθεύω:
+    present.act.generated: ἀληθεύειν
+    present.mp1.generated: ἀληθεύεσθαι
+ἀλήθω:
+    present.act.generated: ἀλήθειν
+    present.mp1.generated: ἀλήθεσθαι
+ἁλιεύω:
+    present.act.actual: ἁλιεύειν
+    present.mp1.generated: ἁλιεύεσθαι
+ἁλίζω:
+    present.act.generated: ἁλίζειν
+    present.mp1.generated: ἁλίζεσθαι
+ἀλλάσσω:
+    aorist.act.actual: ἀλλάξαι
+    aorist.mp1.generated: ἀλλάξασθαι
+    aorist.mp2.generated: ἀλλαγῆναι
+    present.act.generated: ἀλλάσσειν
+    present.mp1.generated: ἀλλάσσεσθαι
+ἀλληγορέω:
+    present.act.generated: ἀλληγορεῖν
+    present.mp1.generated: ἀλληγορεῖσθαι
+ἅλλομαι:
+    aorist.act.generated: ἧλαι
+    aorist.mp1.generated: ἥλασθαι
+    aorist.mp2.generated: ἡλῆναι
+    present.act.generated: ἅλλειν
+    present.mp1.generated: ἅλλεσθαι
+ἀλοάω:
+    present.act.generated: ἀλοᾶν
+    present.mp1.generated: ἀλοᾶσθαι
+ἁμαρτάνω:
+    aorist.act.generated: ἁμαρτῆσαι
+    aorist.mp1.generated: ἁμαρτήσασθαι
+    aorist.mp2.generated: ἡμαρτ%ῆναι
+    present.act.actual: ἁμαρτάνειν
+    present.mp1.generated: ἁμαρτάνεσθαι
+ἀμάω:
+    aorist.act.generated: ἀμῆσαι
+    aorist.mp1.generated: ἀμήσασθαι
+ἀμελέω:
+    aorist.act.generated: ἀμελῆσαι
+    aorist.mp1.generated: ἀμελήσασθαι
+    aorist.mp2.generated: ἠμελησῆναι
+    present.act.generated: ἀμελεῖν
+    present.mp1.generated: ἀμελεῖσθαι
+ἀμύνομαι:
+    aorist.act.generated: ἠμύναι
+    aorist.mp1.generated: ἠμύνασθαι
+    aorist.mp2.generated: ἠμυνῆναι
+ἀμφιάζω:
+    present.act.generated: ἀμφιάζειν/ἀμφιέζειν
+    present.mp1.generated: ἀμφιάζεσθαι/ἀμφιέζεσθαι
+ἀμφιβάλλω:
+    present.act.generated: ἀμφιβάλλειν
+    present.mp1.generated: ἀμφιβάλλεσθαι
+ἀμφιέννυμι:
+    present.act.generated: ἀμφιεννύναι
+    present.mp1.generated: ἀμφιέννυσθαι
+ἀναβαίνω:
+    present.act.actual: ἀναβαίνειν
+ἀναβιβάζω:
+    aorist.act.generated: ἀναβιβάσαι
+    aorist.mp1.generated: ἀναβιβάσασθαι
+ἀναγγέλλω:
+    aorist.act.actual: ἀναγγεῖλαι
+ἀναγεννάω:
+    aorist.act.generated: ἀναγεννῆσαι
+    aorist.mp1.generated: ἀναγεννήσασθαι
+ἀναγινώσκω:
+    aorist.act.actual: ἀναγνῶναι
+    aorist.mp2.actual: ἀναγνωσθῆναι
+ἀναγκάζω:
+    aorist.act.generated: ἀναγκάσαι
+    aorist.mp1.generated: ἀναγκάσασθαι
+    aorist.mp2.generated: ἠναγκασθῆναι
+    present.act.generated: ἀναγκάζειν
+    present.mp1.generated: ἀναγκάζεσθαι
+ἀνάγω:
+    aorist.act.actual: ἀναγαγεῖν
+    aorist.mp2.actual: ἀναχθῆναι
+    present.mp1.actual: ἀνάγεσθαι
+ἀναδέχομαι:
+    aorist.act.generated: ἀναδέξαι
+    aorist.mp1.generated: ἀναδέξασθαι
+ἀναδίδωμι:
+    aorist.act.generated: ἀναδόναι
+    aorist.mp1.generated: ἀνάδοσθαι
+ἀναζητέω:
+    aorist.act.actual: ἀναζητῆσαι
+ἀναζώννυμι:
+    aorist.act.generated: ἀναζῶσαι
+    aorist.mp1.generated: ἀναζώσασθαι
+ἀναζωπυρέω:
+    present.act.actual: ἀναζωπυρεῖν
+    present.mp1.generated: ἀναζωπυρεῖσθαι
+ἀναθάλλω:
+    aorist.act.generated: ἀνεθαλεῖν
+    aorist.mp1.generated: ἀνεθαλέσθαι
+    aorist.mp2.generated: ἀνεθαλ%ῆναι
+ἀναθεματίζω:
+    aorist.act.generated: ἀνεθεματίσαι
+    aorist.mp1.generated: ἀνεθεματίσασθαι
+    aorist.mp2.generated: ἀνεθεματισῆναι
+    present.act.actual: ἀναθεματίζειν
+    present.mp1.generated: ἀναθεματίζεσθαι
+ἀναθεωρέω:
+    present.act.generated: ἀναθεωρεῖν
+    present.mp1.generated: ἀναθεωρεῖσθαι
+ἀναιρέω:
+    aorist.act.actual: ἀνελεῖν
+    aorist.mp2.actual: ἀναιρεθῆναι
+    present.act.actual: ἀναιρεῖν
+    present.mp1.actual: ἀναιρεῖσθαι
+ἀνακαινίζω:
+    present.act.actual: ἀνακαινίζειν
+ἀνακαινόω:
+    present.act.generated: ἀνακαινοῦν
+    present.mp1.generated: ἀνακαινοῦσθαι
+ἀνακαλύπτω:
+    present.act.generated: ἀνακαλύπτειν
+    present.mp1.generated: ἀνακαλύπτεσθαι
+ἀνακάμπτω:
+    aorist.act.actual: ἀνακάμψαι
+ἀνακεφαλαιόω:
+    aorist.act.generated: ἀνακεφαλαιῶσαι
+    aorist.mp1.actual: ἀνακεφαλαιώσασθαι
+    present.act.generated: ἀνακεφαλαιοῦν
+    present.mp1.generated: ἀνακεφαλαιοῦσθαι
+ἀνακλίνω:
+    aorist.act.actual: ἀνακλῖναι
+    aorist.mp2.actual: ἀνακλιθῆναι
+ἀνακύπτω:
+    aorist.act.actual: ἀνακύψαι
+ἀναλαμβάνω:
+    present.act.actual: ἀναλαμβάνειν
+ἀναλίσκω:
+    aorist.act.actual: ἀναλῶσαι
+    aorist.mp1.generated: ἀναλώσασθαι
+    aorist.mp2.generated: ἀναλωθῆναι
+ἀναλύω:
+    aorist.act.actual: ἀναλῦσαι
+ἀναμένω:
+    present.act.actual: ἀναμένειν
+ἀνανεόω:
+    present.act.generated: ἀνανεοῦν
+    present.mp1.actual: ἀνανεοῦσθαι
+ἀναπηδάω:
+    aorist.act.generated: ἀναπηδῆσαι
+    aorist.mp1.generated: ἀναπηδήσασθαι
+ἀναπίπτω:
+    aorist.act.actual: ἀναπεσεῖν
+ἀναπληρόω:
+    aorist.act.actual: ἀναπληρῶσαι
+ἀναπτύσσω:
+    aorist.act.generated: ἀναπτύξαι
+    aorist.mp1.generated: ἀναπτύξασθαι
+ἀνασκευάζω:
+    present.act.generated: ἀνασκευάζειν
+    present.mp1.generated: ἀνασκευάζεσθαι
+ἀναστατόω:
+    aorist.act.generated: ἀναστατῶσαι
+    aorist.mp1.generated: ἀναστατώσασθαι
+    present.act.generated: ἀναστατοῦν
+    present.mp1.generated: ἀναστατοῦσθαι
+ἀνασταυρόω:
+    present.act.generated: ἀνασταυροῦν
+    present.mp1.generated: ἀνασταυροῦσθαι
+ἀναστενάζω:
+    aorist.act.generated: ἀναστενάξαι
+    aorist.mp1.generated: ἀναστενάξασθαι
+ἀναστρέφω:
+    present.mp1.actual: ἀναστρέφεσθαι
+ἀνατάσσομαι:
+    aorist.mp1.actual: ἀνατάξασθαι
+ἀναφαίνω:
+    present.mp1.actual: ἀναφαίνεσθαι
+ἀναφέρω:
+    aorist.act.actual: ἀνενέγκαι/ἀνενεγκεῖν
+    present.act.actual: ἀναφέρειν
+ἀνεμίζομαι:
+    present.act.generated: ἀνεμίζειν
+    present.mp1.generated: ἀνεμίζεσθαι
+ἀνετάζω:
+    present.act.actual: ἀνετάζειν
+    present.mp1.actual: ἀνετάζεσθαι
+ἀνθίστημι:
+    aorist.act.actual: ἀντιστῆναι
+ἀνίστημι:
+    aorist.act.actual: ἀναστῆναι
+    present.mp1.actual: ἀνίστασθαι
+ἀνοίγω:
+    aorist.act.actual: ἀνοῖξαι
+    aorist.mp1.generated: ἀνοίξασθαι
+    aorist.mp2.actual: ἀνεῳχθῆναι
+    present.act.actual: ἀνοίγειν
+    present.mp1.generated: ἀνοίγεσθαι
+ἀνταγωνίζομαι:
+    present.act.generated: ἀνταγωνίζειν
+    present.mp1.generated: ἀνταγωνίζεσθαι
+ἀνταποδίδωμι:
+    aorist.act.actual: ἀνταποδοῦναι
+ἀνταποκρίνομαι:
+    aorist.mp2.actual: ἀνταποκριθῆναι
+ἀντιδιατίθεμαι:
+    present.act.generated: ἀντιδιατιθέναι
+    present.mp1.generated: ἀντιδιατίθεσθαι
+ἀντιλαμβάνομαι:
+    present.mp1.actual: ἀντιλαμβάνεσθαι
+ἀντιλέγω:
+    aorist.act.actual: ἀντειπεῖν
+ἀντιστρατεύομαι:
+    present.act.generated: ἀντιστρατεύειν
+    present.mp1.generated: ἀντιστρατεύεσθαι
+ἀντλέω:
+    aorist.act.actual: ἀντλῆσαι
+    aorist.mp1.generated: ἀντλήσασθαι
+    present.act.actual: ἀντλεῖν
+    present.mp1.generated: ἀντλεῖσθαι
+ἀντοφθαλμέω:
+    present.act.actual: ἀντοφθαλμεῖν
+    present.mp1.generated: ἀντοφθαλμεῖσθαι
+ἀξιόω:
+    aorist.act.generated: ἀξιῶσαι
+    aorist.mp1.generated: ἀξιώσασθαι
+    aorist.mp2.generated: ἀξιωθῆναι
+    present.act.generated: ἀξιοῦν
+    present.mp1.generated: ἀξιοῦσθαι
+ἀπαγγέλλω:
+    aorist.act.actual: ἀπαγγεῖλαι
+ἀπάγχομαι:
+    aorist.act.generated: ἀπῆγξαι
+    aorist.mp1.generated: ἀπήγξασθαι
+    aorist.mp2.generated: ἀπηγξῆναι
+ἀπάγω:
+    aorist.mp2.actual: ἀπαχθῆναι
+ἀπαλλάσσω:
+    present.mp1.actual: ἀπαλλάσσεσθαι
+ἀπαρνέομαι:
+    aorist.act.generated: ἀπαρνῆσαι
+    aorist.mp1.generated: ἀπαρνήσασθαι
+    present.act.generated: ἀπαρνεῖν
+    present.mp1.generated: ἀπαρνεῖσθαι
+ἀπατάω:
+    aorist.act.generated: ἀπατῆσαι
+    aorist.mp1.generated: ἀπατήσασθαι
+    aorist.mp2.generated: ἠπατηθῆναι
+    present.act.generated: ἀπατᾶν
+    present.mp1.generated: ἀπατᾶσθαι
+ἀπειθέω:
+    aorist.act.generated: ἀπειθῆσαι
+    aorist.mp1.generated: ἀπειθήσασθαι
+    aorist.mp2.generated: ἠπειθησῆναι
+    present.act.generated: ἀπειθεῖν
+    present.mp1.generated: ἀπειθεῖσθαι
+ἀπειλέω:
+    aorist.act.generated: ἀπειλῆσαι
+    aorist.mp1.generated: ἀπειλήσασθαι
+    present.act.generated: ἀπειλεῖν
+    present.mp1.generated: ἀπειλεῖσθαι
+ἄπειμι:
+    present.act.generated: ἀπεῖναι
+    present.mp1.generated: ἄπεισθαι
+ἀπεῖπον:
+    aorist.act.generated: ἀπεῖπαι
+    aorist.mp1.generated: ἀπείπασθαι
+    aorist.mp2.generated: ἀπειπῆναι
+ἀπεκδύομαι:
+    aorist.act.generated: ἀπεκδύσαι
+    aorist.mp1.generated: ἀπεκδύσασθαι
+ἀπελπίζω:
+    present.act.generated: ἀπελπίζειν
+    present.mp1.generated: ἀπελπίζεσθαι
+ἀπέρχομαι:
+    aorist.act.actual: ἀπελθεῖν
+    present.mp1.actual: ἀπέρχεσθαι
+ἀπέχω:
+    present.mp1.actual: ἀπέχεσθαι
+ἀπιστέω:
+    aorist.act.generated: ἀπιστῆσαι
+    aorist.mp1.generated: ἀπιστήσασθαι
+    aorist.mp2.generated: ἠπιστησῆναι
+    present.act.generated: ἀπιστεῖν
+    present.mp1.generated: ἀπιστεῖσθαι
+ἀπογίνομαι:
+    aorist.act.generated: ἀπογενεῖν
+    aorist.mp1.generated: ἀπογενέσθαι
+ἀπογράφω:
+    aorist.mp1.actual: ἀπογράψασθαι
+    present.mp1.actual: ἀπογράφεσθαι
+ἀποδείκνυμι:
+    aorist.act.actual: ἀποδεῖξαι
+ἀποδεκατόω:
+    present.act.actual: ἀποδεκατοῦν
+ἀποδέχομαι:
+    aorist.mp1.actual: ἀποδέξασθαι
+ἀποδίδωμι:
+    aorist.act.actual: ἀποδοῦναι
+    aorist.mp2.actual: ἀποδοθῆναι
+    present.act.actual: ἀποδιδόναι
+ἀποδιορίζω:
+    present.act.generated: ἀποδιορίζειν
+    present.mp1.generated: ἀποδιορίζεσθαι
+ἀποδοκιμάζω:
+    aorist.mp2.actual: ἀποδοκιμασθῆναι
+ἀποθησαυρίζω:
+    present.act.generated: ἀποθησαυρίζειν
+    present.mp1.generated: ἀποθησαυρίζεσθαι
+ἀποθνῄσκω:
+    aorist.act.actual: ἀποθανεῖν
+    present.act.actual: ἀποθνῄσκειν
+    present.mp1.generated: ἀποθνῄσκεσθαι
+ἀποκαλύπτω:
+    aorist.act.actual: ἀποκαλύψαι
+    aorist.mp2.actual: ἀποκαλυφθῆναι
+    present.mp1.actual: ἀποκαλύπτεσθαι
+ἀποκαταλλάσσω:
+    aorist.act.actual: ἀποκαταλλάξαι
+ἀποκεφαλίζω:
+    aorist.act.generated: ἀπεκεφαλίσαι
+    aorist.mp1.generated: ἀπεκεφαλίσασθαι
+    aorist.mp2.generated: ἀπεκεφαλισῆναι
+ἀποκρίνομαι:
+    aorist.mp2.actual: ἀποκριθῆναι
+    present.mp1.actual: ἀποκρίνεσθαι
+ἀποκτείνω:
+    aorist.act.actual: ἀποκτεῖναι
+    aorist.mp1.generated: ἀποκτείνασθαι
+    aorist.mp2.actual: ἀποκτανθῆναι
+    present.act.generated: ἀποκτείνειν
+    present.mp1.actual: ἀποκτέννεσθαι
+ἀποκυέω:
+    aorist.act.generated: ἀπεκυῆσαι
+    aorist.mp1.generated: ἀπεκυήσασθαι
+    aorist.mp2.generated: ἀπεκυησῆναι
+    present.act.generated: ἀποκυεῖν
+    present.mp1.generated: ἀποκυεῖσθαι
+ἀπόλλυμι:
+    aorist.act.actual: ἀπολέσαι
+    aorist.mp1.actual: ἀπολέσθαι
+ἀπολογέομαι:
+    aorist.act.generated: ἀπολογῆσαι
+    aorist.mp1.generated: ἀπολογήσασθαι
+    aorist.mp2.actual: ἀπολογηθῆναι
+    present.act.generated: ἀπολογεῖν
+    present.mp1.actual: ἀπολογεῖσθαι
+ἀπολύω:
+    aorist.act.actual: ἀπολῦσαι
+    present.act.actual: ἀπολύειν
+ἀπονέμω:
+    present.act.generated: ἀπονέμειν
+    present.mp1.generated: ἀπονέμεσθαι
+ἀποπλανάω:
+    present.act.actual: ἀποπλανᾶν
+ἀποπλέω:
+    present.act.actual: ἀποπλεῖν
+ἀπορέω:
+    aorist.mp2.generated: ἀπορηθῆναι
+    present.act.generated: ἀπορεῖν
+    present.mp1.actual: ἀπορεῖσθαι
+ἀπορίπτω:
+    aorist.act.generated: ἀπορίψαι
+    aorist.mp1.generated: ἀπορίψασθαι
+ἀπορφανίζω:
+    aorist.mp2.generated: ἀπορφανισθῆναι
+ἀποσπάω:
+    present.act.actual: ἀποσπᾶν
+ἀποστεγάζω:
+    aorist.act.generated: ἀπεστεγάσαι
+    aorist.mp1.generated: ἀπεστεγάσασθαι
+    aorist.mp2.generated: ἀπεστεγασῆναι
+ἀποστέλλω:
+    aorist.act.actual: ἀποστεῖλαι
+    present.act.actual: ἀποστέλλειν
+ἀποστερέω:
+    aorist.act.generated: ἀποστερῆσαι
+    aorist.mp1.generated: ἀποστερήσασθαι
+    present.act.generated: ἀποστερεῖν
+    present.mp1.generated: ἀποστερεῖσθαι
+ἀποστοματίζω:
+    present.act.actual: ἀποστοματίζειν
+    present.mp1.generated: ἀποστοματίζεσθαι
+ἀποστρέφω:
+    present.act.actual: ἀποστρέφειν
+ἀποστυγέω:
+    present.act.generated: ἀποστυγεῖν
+    present.mp1.generated: ἀποστυγεῖσθαι
+ἀποτάσσομαι:
+    aorist.mp1.actual: ἀποτάξασθαι
+ἀποτελέω:
+    aorist.mp2.generated: ἀποτελεσθῆναι
+    present.act.generated: ἀποτελεῖν
+    present.mp1.generated: ἀποτελεῖσθαι
+ἀποτίθημι:
+    aorist.mp1.actual: ἀποθέσθαι
+ἀποφέρω:
+    aorist.act.actual: ἀπενεγκεῖν
+    aorist.mp2.actual: ἀπενεχθῆναι
+    present.mp1.actual: ἀποφέρεσθαι
+ἀποφεύγω:
+    aorist.act.generated: ἀποφυγεῖν
+    aorist.mp1.generated: ἀποφυγέσθαι
+    present.act.generated: ἀποφεύγειν
+    present.mp1.generated: ἀποφεύγεσθαι
+ἀποφθέγγομαι:
+    aorist.act.generated: ἀπεφθέγξαι
+    aorist.mp1.generated: ἀπεφθέγξασθαι
+    aorist.mp2.generated: ἀπεφθεγξῆναι
+    present.act.generated: ἀποφθέγγειν
+    present.mp1.actual: ἀποφθέγγεσθαι
+ἀποφορτίζομαι:
+    present.act.generated: ἀποφορτίζειν
+    present.mp1.generated: ἀποφορτίζεσθαι
+ἀποχωρίζομαι:
+    aorist.mp2.actual: ἀποχωρισθῆναι
+ἀποψύχω:
+    present.act.generated: ἀποψύχειν
+    present.mp1.generated: ἀποψύχεσθαι
+ἅπτω:
+    aorist.act.generated: ἅψαι
+    aorist.mp1.generated: ἅψασθαι
+    aorist.mp2.generated: ἡφθῆναι
+    present.act.generated: ἅπτειν
+    present.mp1.actual: ἅπτεσθαι
+ἀργέω:
+    aorist.act.generated: ἀργῆσαι
+    aorist.mp1.generated: ἀργήσασθαι
+    aorist.mp2.generated: ἀργηθῆναι
+    present.act.generated: ἀργεῖν
+    present.mp1.generated: ἀργεῖσθαι
+ἀρέσκω:
+    aorist.act.actual: ἀρέσαι
+    aorist.mp1.generated: ἀρέσασθαι
+    aorist.mp2.generated: ἠρεσῆναι
+    present.act.actual: ἀρέσκειν
+    present.mp1.generated: ἀρέσκεσθαι
+ἀριθμέω:
+    aorist.act.actual: ἀριθμῆσαι
+    aorist.mp1.generated: ἀριθμήσασθαι
+ἀριστάω:
+    aorist.act.generated: ἀριστῆσαι
+    aorist.mp1.generated: ἀριστήσασθαι
+    aorist.mp2.generated: ἠριστησῆναι
+ἀρκέω:
+    aorist.act.generated: ἀρκέσαι
+    aorist.mp1.generated: ἀρκέσασθαι
+    aorist.mp2.generated: ἠρκεσῆναι
+    present.act.generated: ἀρκεῖν
+    present.mp1.generated: ἀρκεῖσθαι
+ἁρμόζομαι:
+    aorist.act.generated: ἡρμόσαι
+    aorist.mp1.generated: ἡρμόσασθαι
+    aorist.mp2.generated: ἡρμοσῆναι
+ἀρνέομαι:
+    aorist.act.generated: ἀρνῆσαι
+    aorist.mp1.actual: ἀρνήσασθαι
+    aorist.mp2.generated: ἠρνησῆναι
+    present.act.generated: ἀρνεῖν
+    present.mp1.actual: ἀρνεῖσθαι
+ἀροτριάω:
+    present.act.actual: ἀροτριᾶν
+    present.mp1.generated: ἀροτριᾶσθαι
+ἁρπάζω:
+    aorist.act.actual: ἁρπάσαι
+    aorist.mp1.generated: ἁρπάσασθαι
+    aorist.mp2.generated: ἁρπαγῆναι
+    present.act.actual: ἁρπάζειν
+    present.mp1.generated: ἁρπάζεσθαι
+ἀρτύω:
+    present.act.generated: ἀρτύειν
+    present.mp1.generated: ἀρτύεσθαι
+ἄρχω:
+    aorist.act.generated: ἄρξαι
+    aorist.mp1.actual: ἄρξασθαι
+    aorist.mp2.generated: ἠρξῆναι
+    present.act.actual: ἄρχειν
+    present.mp1.generated: ἄρχεσθαι
+ἀσεβέω:
+    aorist.act.generated: ἠσεβῆσαι
+    aorist.mp1.generated: ἠσεβήσασθαι
+    aorist.mp2.generated: ἠσεβησῆναι
+ἀσθενέω:
+    aorist.act.generated: ἀσθενῆσαι
+    aorist.mp1.generated: ἀσθενήσασθαι
+    aorist.mp2.generated: ἠσθενησῆναι
+    present.act.generated: ἀσθενεῖν
+    present.mp1.generated: ἀσθενεῖσθαι
+ἀσκέω:
+    present.act.generated: ἀσκεῖν
+    present.mp1.generated: ἀσκεῖσθαι
+ἀσπάζομαι:
+    aorist.act.generated: ἀσπάσαι
+    aorist.mp1.generated: ἀσπάσασθαι
+    aorist.mp2.generated: ἠσπασῆναι
+    present.act.generated: ἀσπάζειν
+    present.mp1.actual: ἀσπάζεσθαι
+ἀστατέω:
+    present.act.generated: ἀστατεῖν
+    present.mp1.generated: ἀστατεῖσθαι
+ἀστοχέω:
+    aorist.act.generated: ἀστοχῆσαι
+    aorist.mp1.generated: ἀστοχήσασθαι
+    aorist.mp2.generated: ἠστοχησῆναι
+ἀστράπτω:
+    present.act.generated: ἀστράπτειν
+    present.mp1.generated: ἀστράπτεσθαι
+ἀσφαλίζω:
+    aorist.act.generated: ἀσφαλίσαι
+    aorist.mp1.generated: ἀσφαλίσασθαι
+    aorist.mp2.actual: ἀσφαλισθῆναι
+ἀσχημονέω:
+    present.act.actual: ἀσχημονεῖν
+    present.mp1.generated: ἀσχημονεῖσθαι
+ἀτακτέω:
+    aorist.act.generated: ἠτακτῆσαι
+    aorist.mp1.generated: ἠτακτήσασθαι
+    aorist.mp2.generated: ἠτακτησῆναι
+ἀτενίζω:
+    aorist.act.actual: ἀτενίσαι
+    aorist.mp1.generated: ἀτενίσασθαι
+    present.act.generated: ἀτενίζειν
+    present.mp1.generated: ἀτενίζεσθαι
+ἀτιμάζω:
+    aorist.act.generated: ἀτιμάσαι
+    aorist.mp1.generated: ἀτιμάσασθαι
+    aorist.mp2.actual: ἀτιμασθῆναι
+    present.act.generated: ἀτιμάζειν
+    present.mp1.actual: ἀτιμάζεσθαι
+αὐγάζω:
+    aorist.act.actual: αὐγάσαι
+    aorist.mp1.generated: αὐγάσασθαι
+αὐθεντέω:
+    present.act.actual: αὐθεντεῖν
+    present.mp1.generated: αὐθεντεῖσθαι
+αὐλέω:
+    aorist.act.generated: ηὐλῆσαι
+    aorist.mp1.generated: ηὐλήσασθαι
+    aorist.mp2.generated: ηὐλησῆναι
+αὐλίζομαι:
+    aorist.mp2.generated: ηὐλισθῆναι
+    present.act.generated: αὐλίζειν
+    present.mp1.generated: αὐλίζεσθαι
+αὐξάνω:
+    aorist.act.generated: αὐξῆσαι
+    aorist.mp1.generated: αὐξήσασθαι
+    aorist.mp2.generated: αὐξηθῆναι
+    present.act.actual: αὐξάνειν
+    present.mp1.generated: αὐξάνεσθαι
+αὔξω:
+    present.act.generated: αὔξειν
+    present.mp1.generated: αὔξεσθαι
+αὐχέω:
+    present.act.generated: αὐχεῖν
+    present.mp1.generated: αὐχεῖσθαι
+ἀφαιρέω:
+    aorist.act.actual: ἀφελεῖν
+    present.act.actual: ἀφαιρεῖν
+ἀφανίζω:
+    aorist.mp2.generated: ἀφανισθῆναι
+    present.act.generated: ἀφανίζειν
+    present.mp1.generated: ἀφανίζεσθαι
+ἀφίημι:
+    aorist.act.actual: ἀφεῖναι
+    aorist.mp1.generated: ἄφεσθαι
+    aorist.mp2.generated: ἀφεθῆναι
+    present.act.actual: ἀφιέναι
+    present.mp1.generated: ἀφίεσθαι
+ἀφίσταμαι:
+    aorist.act.actual: ἀποστῆναι
+ἀφρίζω:
+    present.act.generated: ἀφρίζειν
+    present.mp1.generated: ἀφρίζεσθαι
+ἀφυπνόω:
+    aorist.act.generated: ἀφυπνῶσαι
+    aorist.mp1.generated: ἀφυπνώσασθαι
+    aorist.mp2.generated: ἀφυπνωσῆναι
+ἀχρειόομαι:
+    aorist.mp2.generated: ἠχρεωθῆναι
+βαθύνω:
+    aorist.act.generated: ἐβαθύναι
+    aorist.mp1.generated: ἐβαθύνασθαι
+    aorist.mp2.generated: ἐβαθυνῆναι
+βάλλω:
+    aorist.act.actual: βαλεῖν
+    aorist.mp1.generated: βαλέσθαι
+    aorist.mp2.actual: βληθῆναι
+    present.act.actual: βάλλειν
+    present.mp1.generated: βάλλεσθαι
+βαπτίζω:
+    aorist.act.generated: βαπτίσαι
+    aorist.mp1.generated: βαπτίσασθαι
+    aorist.mp2.actual: βαπτισθῆναι
+    present.act.actual: βαπτίζειν
+    present.mp1.generated: βαπτίζεσθαι
+βάπτω:
+    aorist.act.generated: βάψαι
+    aorist.mp1.generated: βάψασθαι
+    present.act.generated: βάπτειν
+    present.mp1.generated: βάπτεσθαι
+βαρέω:
+    aorist.act.generated: βαρῆσαι
+    aorist.mp1.generated: βαρήσασθαι
+    aorist.mp2.generated: βαρηθῆναι
+    present.act.generated: βαρεῖν
+    present.mp1.generated: βαρεῖσθαι
+βασανίζω:
+    aorist.act.actual: βασανίσαι
+    aorist.mp1.generated: βασανίσασθαι
+    aorist.mp2.generated: ἐβασανισῆναι
+    present.act.generated: βασανίζειν
+    present.mp1.generated: βασανίζεσθαι
+βασιλεύω:
+    aorist.act.actual: βασιλεῦσαι
+    aorist.mp1.generated: βασιλεύσασθαι
+    aorist.mp2.generated: ἐβασιλευσῆναι
+    present.act.actual: βασιλεύειν
+    present.mp1.generated: βασιλεύεσθαι
+βασκαίνω:
+    aorist.act.generated: ἐβασκάναι
+    aorist.mp1.generated: ἐβασκάνασθαι
+    aorist.mp2.generated: ἐβασκανῆναι
+βαστάζω:
+    aorist.act.actual: βαστάσαι
+    aorist.mp1.generated: βαστάσασθαι
+    aorist.mp2.generated: ἐβαστασῆναι
+    present.act.actual: βαστάζειν
+    present.mp1.actual: βαστάζεσθαι
+βδελύσσομαι:
+    present.act.generated: βδελύσσειν
+    present.mp1.generated: βδελύσσεσθαι
+βεβαιόω:
+    aorist.act.actual: βεβαιῶσαι
+    aorist.mp1.generated: βεβαιώσασθαι
+    aorist.mp2.generated: ἐβεβαιωθῆναι
+    present.act.generated: βεβαιοῦν
+    present.mp1.actual: βεβαιοῦσθαι
+βεβηλόω:
+    aorist.act.actual: βεβηλῶσαι
+    aorist.mp1.generated: βεβηλώσασθαι
+    present.act.generated: βεβηλοῦν
+    present.mp1.generated: βεβηλοῦσθαι
+βιάζω:
+    aorist.act.generated: ἐβιάσαι
+    aorist.mp1.generated: ἐβιάσασθαι
+    aorist.mp2.generated: ἐβιασῆναι
+    present.act.generated: βιάζειν
+    present.mp1.generated: βιάζεσθαι
+βιόω:
+    aorist.act.actual: βιῶσαι
+    aorist.mp1.generated: βιώσασθαι
+βλάπτω:
+    aorist.act.generated: βλάψαι
+    aorist.mp1.generated: βλάψασθαι
+βλαστάνω:
+    aorist.act.generated: βλαστῆσαι
+    aorist.mp1.generated: βλαστήσασθαι
+    aorist.mp2.generated: ἐβλαστησῆναι
+    present.act.generated: βλαστάνειν
+    present.mp1.generated: βλαστάνεσθαι
+βλασφημέω:
+    aorist.act.actual: βλασφημῆσαι
+    aorist.mp1.generated: βλασφημήσασθαι
+    aorist.mp2.generated: ἐβλασφημησῆναι
+    present.act.actual: βλασφημεῖν
+    present.mp1.generated: βλασφημεῖσθαι
+βλέπω:
+    aorist.act.generated: βλέψαι
+    aorist.mp1.generated: βλέψασθαι
+    aorist.mp2.generated: ἐβλεψῆναι
+    present.act.actual: βλέπειν
+    present.mp1.generated: βλέπεσθαι
+βοάω:
+    aorist.act.generated: βοῆσαι
+    aorist.mp1.generated: βοήσασθαι
+    aorist.mp2.generated: ἐβοησῆναι
+    present.act.generated: βοᾶν
+    present.mp1.generated: βοᾶσθαι
+βοηθέω:
+    aorist.act.actual: βοηθῆσαι
+    aorist.mp1.generated: βοηθήσασθαι
+    aorist.mp2.generated: ἐβοηθησῆναι
+    present.act.generated: βοηθεῖν
+    present.mp1.generated: βοηθεῖσθαι
+βολίζω:
+    aorist.act.generated: βολίσαι
+    aorist.mp1.generated: βολίσασθαι
+βόσκω:
+    present.act.actual: βόσκειν
+    present.mp1.generated: βόσκεσθαι
+βουλεύομαι:
+    aorist.act.generated: ἐβουλεῦσαι
+    aorist.mp1.generated: ἐβουλεύσασθαι
+    aorist.mp2.generated: ἐβουλευσῆναι
+    present.act.generated: βουλεύειν
+    present.mp1.generated: βουλεύεσθαι
+βούλομαι:
+    aorist.mp2.generated: βουληθῆναι
+    present.act.generated: βούλειν
+    present.mp1.generated: βούλεσθαι
+βραδύνω:
+    present.act.generated: βραδύνειν
+    present.mp1.generated: βραδύνεσθαι
+βραδυπλοέω:
+    present.act.generated: βραδυπλοεῖν
+    present.mp1.generated: βραδυπλοεῖσθαι
+βρέχω:
+    aorist.act.actual: βρέξαι
+    aorist.mp1.generated: βρέξασθαι
+    aorist.mp2.generated: ἐβρεξῆναι
+    present.act.actual: βρέχειν
+    present.mp1.generated: βρέχεσθαι
+βρύχω:
+    present.act.generated: βρύχειν
+    present.mp1.generated: βρύχεσθαι
+βρύω:
+    present.act.generated: βρύειν
+    present.mp1.generated: βρύεσθαι
+βυθίζω:
+    present.act.generated: βυθίζειν
+    present.mp1.actual: βυθίζεσθαι
+γαμέω:
+    aorist.act.actual: γαμῆσαι
+    aorist.mp2.actual: γαμηθῆναι
+    present.act.actual: γαμεῖν
+    present.mp1.generated: γαμεῖσθαι
+γαμίζω:
+    present.act.generated: γαμίζειν
+    present.mp1.generated: γαμίζεσθαι
+γαμίσκω:
+    present.act.generated: γαμίσκειν
+    present.mp1.generated: γαμίσκεσθαι
+γελάω:
+    present.act.generated: γελᾶν
+    present.mp1.generated: γελᾶσθαι
+γεμίζω:
+    aorist.act.actual: γεμίσαι
+    aorist.mp1.generated: γεμίσασθαι
+    aorist.mp2.generated: γεμισθῆναι
+    present.act.generated: γεμίζειν
+    present.mp1.actual: γεμίζεσθαι
+γέμω:
+    present.act.generated: γέμειν
+    present.mp1.generated: γέμεσθαι
+γενεαλογέομαι:
+    present.act.generated: γενεαλογεῖν
+    present.mp1.generated: γενεαλογεῖσθαι
+γεννάω:
+    aorist.act.generated: γεννῆσαι
+    aorist.mp1.generated: γεννήσασθαι
+    aorist.mp2.actual: γεννηθῆναι
+    present.act.generated: γεννᾶν
+    present.mp1.generated: γεννᾶσθαι
+γεύομαι:
+    aorist.act.generated: γεῦσαι
+    aorist.mp1.actual: γεύσασθαι
+    aorist.mp2.generated: ἐγευσῆναι
+    present.act.generated: γεύειν
+    present.mp1.generated: γεύεσθαι
+γεωργέω:
+    present.act.generated: γεωργεῖν
+    present.mp1.generated: γεωργεῖσθαι
+γηράσκω:
+    aorist.act.generated: γηράσαι
+    aorist.mp1.generated: γηράσασθαι
+γίνομαι:
+    aorist.act.generated: γενεῖν
+    aorist.mp1.actual: γενέσθαι
+    aorist.mp2.actual: γενηθῆναι
+    present.act.generated: γίνειν
+    present.mp1.actual: γίνεσθαι
+γινώσκω:
+    aorist.act.actual: γνῶναι
+    aorist.mp1.generated: γνόσθαι
+    aorist.mp2.generated: γνωσθῆναι
+    present.act.actual: γινώσκειν
+    present.mp1.generated: γινώσκεσθαι
+γνωρίζω:
+    aorist.act.actual: γνωρίσαι
+    aorist.mp1.generated: γνωρῐ́σασθαι
+    aorist.mp2.generated: γνωρισθῆναι
+    present.act.generated: γνωρίζειν
+    present.mp1.generated: γνωρίζεσθαι
+γογγύζω:
+    aorist.act.generated: ἐγογγύσαι
+    aorist.mp1.generated: ἐγογγύσασθαι
+    aorist.mp2.generated: ἐγογγυσῆναι
+    present.act.generated: γογγύζειν
+    present.mp1.generated: γογγύζεσθαι
+γονυπετέω:
+    aorist.act.generated: γονυπετῆσαι
+    aorist.mp1.generated: γονυπετήσασθαι
+    present.act.generated: γονυπετεῖν
+    present.mp1.generated: γονυπετεῖσθαι
+γράφω:
+    aorist.act.actual: γράψαι
+    aorist.mp1.generated: γράψασθαι
+    aorist.mp2.generated: ἐγραφῆναι
+    present.act.actual: γράφειν
+    present.mp1.actual: γράφεσθαι
+γρηγορέω:
+    aorist.act.actual: γρηγορῆσαι
+    aorist.mp1.generated: γρηγορήσασθαι
+    aorist.mp2.generated: ἐγρηγορησῆναι
+    present.act.generated: γρηγορεῖν
+    present.mp1.generated: γρηγορεῖσθαι
+γυμνάζω:
+    present.act.generated: γυμνάζειν
+    present.mp1.generated: γυμνάζεσθαι
+γυμνιτεύω:
+    present.act.generated: γυμνιτεύειν
+    present.mp1.generated: γυμνιτεύεσθαι
+δαιμονίζομαι:
+    present.act.generated: δαιμονίζειν
+    present.mp1.generated: δαιμονίζεσθαι
+δάκνω:
+    present.act.generated: δάκνειν
+    present.mp1.generated: δάκνεσθαι
+δακρύω:
+    aorist.act.generated: ἐδακρύσαι
+    aorist.mp1.generated: ἐδακρύσασθαι
+    aorist.mp2.generated: ἐδακρυσῆναι
+δαμάζω:
+    aorist.act.actual: δαμάσαι
+    aorist.mp1.generated: δαμάσασθαι
+    present.act.generated: δαμάζειν
+    present.mp1.generated: δαμάζεσθαι
+δανείζω:
+    aorist.act.generated: δανίσαι
+    aorist.mp1.actual: δανίσασθαι
+    present.act.generated: δανείζειν/δανίζειν
+    present.mp1.generated: δανείζεσθαι/δανίζεσθαι
+δαπανάω:
+    aorist.act.generated: δαπανῆσαι
+    aorist.mp1.generated: δαπανήσασθαι
+    present.act.generated: δαπανᾶν
+    present.mp1.generated: δαπανᾶσθαι
+δειγματίζω:
+    aorist.act.actual: δειγματίσαι
+    aorist.mp1.generated: δειγματίσασθαι
+    aorist.mp2.generated: ἐδειγματισῆναι
+δείκνυμι:
+    aorist.act.actual: δεῖξαι
+    aorist.mp1.generated: δείξασθαι
+    aorist.mp2.generated: δειχθῆναι
+    present.act.actual: δεικνύειν
+δειπνέω:
+    aorist.act.actual: δειπνῆσαι
+    aorist.mp1.generated: δειπνήσασθαι
+    present.act.generated: δειπνεῖν
+    present.mp1.generated: δειπνεῖσθαι
+δεκατόω:
+    present.act.generated: δεκατοῦν
+    present.mp1.generated: δεκατοῦσθαι
+δελεάζω:
+    present.act.generated: δελεάζειν
+    present.mp1.generated: δελεάζεσθαι
+δέομαι:
+    aorist.mp2.generated: δεηθῆναι
+    present.act.generated: δεῖν
+    present.mp1.generated: δεῖσθαι
+δέρω:
+    aorist.act.generated: δεῖραι
+    aorist.mp1.generated: δείρασθαι
+    aorist.mp2.generated: ἐδειρῆναι
+    present.act.generated: δέρειν
+    present.mp1.generated: δέρεσθαι
+δεσμεύω:
+    present.act.generated: δεσμεύειν
+    present.mp1.generated: δεσμεύεσθαι
+δέχομαι:
+    aorist.act.generated: δέξαι
+    aorist.mp1.actual: δέξασθαι
+    aorist.mp2.generated: ἐδεχθῆναι
+    present.act.generated: δέχειν
+    present.mp1.generated: δέχεσθαι
+δέω:
+    aorist.act.actual: δῆσαι
+    aorist.mp1.generated: δήσασθαι
+    aorist.mp2.actual: δεθῆναι
+    present.act.actual: δεῖν
+    present.mp1.generated: δεῖσθαι
+δηλόω:
+    aorist.act.generated: δηλῶσαι
+    aorist.mp1.generated: δηλώσασθαι
+    aorist.mp2.generated: ἐδηλωθῆναι
+    present.act.generated: δηλοῦν
+    present.mp1.generated: δηλοῦσθαι
+δημηγορέω:
+    present.act.generated: δημηγορεῖν
+    present.mp1.generated: δημηγορεῖσθαι
+διαβαίνω:
+    aorist.act.actual: διαβῆναι
+διαβεβαιόομαι:
+    present.mp1.actual: διαβεβαιοῦσθαι
+διαγίνομαι:
+    aorist.act.generated: διαγενεῖν
+    aorist.mp1.generated: διαγενέσθαι
+διαγινώσκω:
+    present.act.actual: διαγινώσκειν
+διαγρηγορέω:
+    aorist.act.generated: διαγρηγορῆσαι
+    aorist.mp1.generated: διαγρηγορήσασθαι
+    present.act.generated: διαγρηγορεῖν
+    present.mp1.generated: διαγρηγορεῖσθαι
+διαδέχομαι:
+    aorist.act.generated: διαδέξαι
+    aorist.mp1.generated: διαδέξασθαι
+διακαθαίρω:
+    aorist.act.actual: διακαθᾶραι
+διακονέω:
+    aorist.act.actual: διακονῆσαι
+    aorist.mp1.generated: διακονήσασθαι
+    aorist.mp2.actual: διακονηθῆναι
+    present.act.actual: διακονεῖν
+    present.mp1.generated: διακονεῖσθαι
+διακρίνω:
+    aorist.act.actual: διακρῖναι
+    present.act.actual: διακρίνειν
+διαλέγομαι:
+    present.act.generated: διαλέγειν
+    present.mp1.generated: διαλέγεσθαι
+διαλογίζομαι:
+    present.mp1.actual: διαλογίζεσθαι
+διαλύω:
+    aorist.mp2.generated: διελυθῆναι
+διαμαρτύρομαι:
+    aorist.mp1.actual: διαμαρτύρασθαι
+διαμένω:
+    present.act.generated: διαμένειν
+    present.mp1.generated: διαμένεσθαι
+διανεύω:
+    present.act.generated: διανεύειν
+    present.mp1.generated: διανεύεσθαι
+διανυκτερεύω:
+    present.act.generated: διανυκτερεύειν
+    present.mp1.generated: διανυκτερεύεσθαι
+διανύω:
+    aorist.act.generated: διανύσαι
+    aorist.mp1.generated: διανύσασθαι
+διαπεράω:
+    aorist.act.generated: διαπεράσαι
+    aorist.mp1.generated: διαπεράσασθαι
+    aorist.mp2.generated: διεπερασῆναι
+    present.act.generated: διαπερᾶν
+    present.mp1.generated: διαπερᾶσθαι
+διαπλέω:
+    aorist.act.generated: διαπλεῦσαι
+    aorist.mp1.generated: διαπλεύσασθαι
+διαπονέομαι:
+    aorist.mp2.generated: διαπονηθῆναι
+    present.act.generated: διαπονεῖν
+    present.mp1.generated: διαπονεῖσθαι
+διαπορεύομαι:
+    present.mp1.actual: διαπορεύεσθαι
+διαπρίομαι:
+    present.act.generated: διαπρίειν
+    present.mp1.generated: διαπρίεσθαι
+διαρπάζω:
+    aorist.act.actual: διαρπάσαι
+διασαφέω:
+    aorist.act.generated: διασαφῆσαι
+    aorist.mp1.generated: διασαφήσασθαι
+    aorist.mp2.generated: διεσαφησῆναι
+διαστρέφω:
+    aorist.act.actual: διαστρέψαι
+διασῴζω:
+    aorist.act.actual: διασῶσαι
+    aorist.mp2.actual: διασωθῆναι
+διαφέρω:
+    present.act.generated: διαφέρειν
+    present.mp1.generated: διαφέρεσθαι
+διαφημίζω:
+    aorist.act.generated: διεφημίσαι
+    aorist.mp1.generated: διεφημίσασθαι
+    aorist.mp2.generated: διεφημισθῆναι
+    present.act.actual: διαφημίζειν
+    present.mp1.generated: διαφημίζεσθαι
+διαφθείρω:
+    aorist.act.actual: διαφθεῖραι
+    present.act.generated: διαφθείρειν
+    present.mp1.generated: διαφθείρεσθαι
+διαφυλάσσω:
+    aorist.act.actual: διαφυλάξαι
+διαχειρίζομαι:
+    aorist.mp1.actual: διαχειρίσασθαι
+διαχλευάζω:
+    present.act.generated: διαχλευάζειν
+    present.mp1.generated: διαχλευάζεσθαι
+διαχωρίζομαι:
+    present.mp1.actual: διαχωρίζεσθαι
+διδάσκω:
+    aorist.act.actual: διδάξαι
+    aorist.mp1.generated: διδάξασθαι
+    aorist.mp2.generated: ἐδιδαχθῆναι
+    present.act.actual: διδάσκειν
+    present.mp1.generated: διδάσκεσθαι
+δίδωμι:
+    aorist.act.actual: δοῦναι
+    aorist.mp1.generated: δόσθαι
+    aorist.mp2.actual: δοθῆναι
+    present.act.actual: διδόναι
+    present.mp1.generated: δίδοσθαι
+διεγείρω:
+    present.act.actual: διεγείρειν
+διενθυμέομαι:
+    present.act.generated: διενθυμεῖν
+    present.mp1.generated: διενθυμεῖσθαι
+διέρχομαι:
+    aorist.act.actual: διελθεῖν
+    present.mp1.actual: διέρχεσθαι
+διερωτάω:
+    aorist.act.generated: διερωτῆσαι
+    aorist.mp1.generated: διερωτήσασθαι
+διϊκνέομαι:
+    present.act.generated: διϊκνεῖν
+    present.mp1.generated: διϊκνεῖσθαι
+διϊσχυρίζομαι:
+    present.act.generated: διϊσχυρίζειν
+    present.mp1.generated: διϊσχυρίζεσθαι
+δικαιόω:
+    aorist.act.actual: δικαιῶσαι
+    aorist.mp1.generated: δικαιώσασθαι
+    aorist.mp2.actual: δικαιωθῆναι
+    present.act.generated: δικαιοῦν
+    present.mp1.actual: δικαιοῦσθαι
+διοδεύω:
+    present.act.generated: διοδεύειν
+    present.mp1.generated: διοδεύεσθαι
+διορύσσω:
+    aorist.mp2.actual: διορυχθῆναι
+διστάζω:
+    aorist.act.generated: ἐδιστάσαι
+    aorist.mp1.generated: ἐδιστάσασθαι
+    aorist.mp2.generated: ἐδιστασῆναι
+διϋλίζω:
+    present.act.generated: διϋλίζειν
+    present.mp1.generated: διϋλίζεσθαι
+διχάζω:
+    aorist.act.actual: διχάσαι
+    aorist.mp1.generated: διχάσασθαι
+διχοτομέω:
+    present.act.generated: διχοτομεῖν
+    present.mp1.generated: διχοτομεῖσθαι
+διψάω:
+    aorist.act.generated: ἐδιψῆσαι
+    aorist.mp1.generated: ἐδιψήσασθαι
+    aorist.mp2.generated: ἐδιψησῆναι
+    present.act.generated: διψᾶν
+    present.mp1.generated: διψᾶσθαι
+διώκω:
+    aorist.act.generated: διῶξαι
+    aorist.mp1.generated: διώξασθαι
+    aorist.mp2.generated: ἐδιωξῆναι
+    present.act.generated: διώκειν
+    present.mp1.generated: διώκεσθαι
+δογματίζομαι:
+    present.act.generated: δογματίζειν
+    present.mp1.generated: δογματίζεσθαι
+δοκέω:
+    aorist.act.generated: δόξαι
+    aorist.mp1.generated: δόξασθαι
+    aorist.mp2.generated: ἐδοξῆναι
+    present.act.actual: δοκεῖν
+    present.mp1.generated: δοκεῖσθαι
+δοκιμάζω:
+    aorist.act.actual: δοκιμάσαι
+    aorist.mp1.generated: δοκιμάσασθαι
+    aorist.mp2.generated: δοκιμασθῆναι
+    present.act.actual: δοκιμάζειν
+    present.mp1.generated: δοκιμάζεσθαι
+δολιόω:
+    present.act.generated: δολιοῦν
+    present.mp1.generated: δολιοῦσθαι
+δολόω:
+    present.act.generated: δολοῦν
+    present.mp1.generated: δολοῦσθαι
+δοξάζω:
+    aorist.act.actual: δοξάσαι
+    aorist.mp1.generated: δοξάσασθαι
+    aorist.mp2.generated: δοξασθῆναι
+    present.act.actual: δοξάζειν
+    present.mp1.generated: δοξάζεσθαι
+δουλαγωγέω:
+    present.act.generated: δουλαγωγεῖν
+    present.mp1.generated: δουλαγωγεῖσθαι
+δουλεύω:
+    aorist.act.generated: ἐδουλεῦσαι
+    aorist.mp1.generated: ἐδουλεύσασθαι
+    aorist.mp2.generated: ἐδουλευσῆναι
+    present.act.actual: δουλεύειν
+    present.mp1.generated: δουλεύεσθαι
+δουλόω:
+    aorist.act.generated: ἐδουλῶσαι
+    aorist.mp1.generated: ἐδουλώσασθαι
+    aorist.mp2.generated: δουλωθῆναι
+    present.act.generated: δουλοῦν
+    present.mp1.generated: δουλοῦσθαι
+δράσσομαι:
+    present.act.generated: δράσσειν
+    present.mp1.generated: δράσσεσθαι
+δύναμαι:
+    aorist.mp2.generated: δυνηθῆναι
+    present.act.generated: δυνάναι
+    present.mp1.actual: δύνασθαι
+δυναμόω:
+    aorist.act.generated: ἐδυναμῶσαι
+    aorist.mp1.generated: ἐδυναμώσασθαι
+    aorist.mp2.generated: ἐδυναμωθῆναι
+    present.act.generated: δυναμοῦν
+    present.mp1.generated: δυναμοῦσθαι
+δυνατέω:
+    present.act.generated: δυνατεῖν
+    present.mp1.generated: δυνατεῖσθαι
+δυσφημέω:
+    present.act.generated: δυσφημεῖν
+    present.mp1.generated: δυσφημεῖσθαι
+δωρέομαι:
+    aorist.act.generated: ἐδωρῆσαι
+    aorist.mp1.generated: ἐδωρήσασθαι
+    aorist.mp2.generated: ἐδωρησῆναι
+ἐάω:
+    aorist.act.generated: ἐάσαι
+    aorist.mp1.generated: ἐάσασθαι
+    aorist.mp2.generated: εἰασῆναι
+    present.act.generated: ἐᾶν
+    present.mp1.generated: ἐᾶσθαι
+ἐγγίζω:
+    aorist.act.actual: ἐγγίσαι
+    aorist.mp1.generated: ἐγγίσασθαι
+    aorist.mp2.generated: ἠγγισῆναι
+    present.act.actual: ἐγγίζειν
+    present.mp1.generated: ἐγγίζεσθαι
+ἐγείρω:
+    aorist.act.actual: ἐγεῖραι
+    aorist.mp1.generated: ἐγείρασθαι
+    aorist.mp2.actual: ἐγερθῆναι
+    present.act.actual: ἐγείρειν
+    present.mp1.generated: ἐγείρεσθαι
+ἐγκακέω:
+    aorist.act.generated: ἐγκακῆσαι
+    aorist.mp1.generated: ἐγκακήσασθαι
+    present.act.actual: ἐγκακεῖν
+    present.mp1.generated: ἐγκακεῖσθαι
+ἐγκαλέω:
+    present.mp1.actual: ἐγκαλεῖσθαι
+ἐγκατοικέω:
+    present.act.generated: ἐγκατοικεῖν
+    present.mp1.generated: ἐγκατοικεῖσθαι
+ἐγκαυχάομαι:
+    present.mp1.actual: ἐγκαυχᾶσθαι
+ἐγκεντρίζω:
+    aorist.act.actual: ἐγκεντρίσαι
+    aorist.mp1.generated: ἐγκεντρίσασθαι
+    aorist.mp2.generated: ἐγκεντρισθῆναι
+    present.act.generated: ἐγκεντρίζειν
+    present.mp1.generated: ἐγκεντρίζεσθαι
+ἐγκόπτω:
+    present.mp1.actual: ἐγκόπτεσθαι
+ἐγκρατεύομαι:
+    present.act.generated: ἐγκρατεύειν
+    present.mp1.generated: ἐγκρατεύεσθαι
+ἐγκρίνω:
+    aorist.act.actual: ἐγκρῖναι
+ἐγχρίω:
+    aorist.act.actual: ἐγχρῖσαι
+ἐδαφίζω:
+    present.act.generated: ἐδαφίζειν
+    present.mp1.generated: ἐδαφίζεσθαι
+εἴκω:
+    aorist.act.generated: εἶξαι
+    aorist.mp1.generated: εἴξασθαι
+    aorist.mp2.generated: εἰξῆναι
+    present.act.generated: εἴκειν
+    present.mp1.generated: εἴκεσθαι
+εἰμί:
+    present.act.actual: εἶναι
+εἰρηνεύω:
+    present.act.generated: εἰρηνεύειν
+    present.mp1.generated: εἰρηνεύεσθαι
+εἰρηνοποιέω:
+    aorist.act.generated: εἰρηνοποιῆσαι
+    aorist.mp1.generated: εἰρηνοποιήσασθαι
+εἰσάγω:
+    aorist.act.actual: εἰσαγαγεῖν
+    present.mp1.actual: εἰσάγεσθαι
+εἴσειμι:
+    present.act.actual: εἰσιέναι
+    present.mp1.generated: εἴσισθαι
+εἰσέρχομαι:
+    aorist.act.actual: εἰσελθεῖν
+εἰσκαλέομαι:
+    aorist.act.generated: εἰσκαλέσαι
+    aorist.mp1.generated: εἰσκαλέσασθαι
+εἰστρέχω:
+    aorist.act.generated: εἰσδραμεῖν
+    aorist.mp1.generated: εἰσδραμέσθαι
+εἰσφέρω:
+    aorist.act.actual: εἰσενεγκεῖν
+ἐκβάλλω:
+    aorist.act.actual: ἐκβαλεῖν
+    present.act.actual: ἐκβάλλειν
+ἐκδημέω:
+    aorist.act.actual: ἐκδημῆσαι
+ἐκδικέω:
+    aorist.act.actual: ἐκδικῆσαι
+    aorist.mp1.generated: ἐκδικήσασθαι
+    aorist.mp2.generated: ἐξεδικησῆναι
+    present.act.generated: ἐκδικεῖν
+    present.mp1.generated: ἐκδικεῖσθαι
+ἐκδιώκω:
+    aorist.act.generated: ἐκδιῶξαι
+    aorist.mp1.generated: ἐκδιώξασθαι
+ἐκδύω:
+    aorist.mp1.actual: ἐκδύσασθαι
+ἐκθαμβέομαι:
+    present.mp1.actual: ἐκθαμβεῖσθαι
+ἐκκαίομαι:
+    aorist.mp2.generated: ἐξεκαυθῆναι
+ἐκκεντέω:
+    aorist.act.generated: ἐξεκεντῆσαι
+    aorist.mp1.generated: ἐξεκεντήσασθαι
+    aorist.mp2.generated: ἐξεκεντησῆναι
+ἐκκλείω:
+    aorist.act.actual: ἐκκλεῖσαι
+ἐκκολυμβάω:
+    aorist.act.generated: ἐκκολυμβῆσαι
+    aorist.mp1.generated: ἐκκολυμβήσασθαι
+    aorist.mp2.generated: ἐκκολυμβησῆναι
+ἐκκρέμαμαι:
+    aorist.act.generated: ἐξεκρέμαι
+    aorist.mp1.generated: ἐξεκρέμασθαι
+    aorist.mp2.generated: ἐξεκρεμῆναι
+ἐκλαλέω:
+    aorist.act.actual: ἐκλαλῆσαι
+ἐκμάσσω:
+    present.act.actual: ἐκμάσσειν
+ἐκπετάννυμι:
+    aorist.act.generated: ἐξεπετάσαι
+    aorist.mp1.generated: ἐξεπετάσασθαι
+    aorist.mp2.generated: ἐξεπετασῆναι
+ἐκπίπτω:
+    aorist.act.actual: ἐκπεσεῖν
+ἐκπλέω:
+    aorist.act.actual: ἐκπλεῦσαι
+ἐκπλήσσομαι:
+    present.mp1.actual: ἐκπλήσσεσθαι
+ἐκπορεύομαι:
+    present.mp1.actual: ἐκπορεύεσθαι
+ἐκπορνεύω:
+    aorist.act.generated: ἐκπορνεῦσαι
+    aorist.mp1.generated: ἐκπορνεύσασθαι
+ἐκριζόω:
+    aorist.act.generated: ἐκριζῶσαι
+    aorist.mp1.generated: ἐκριζώσασθαι
+    aorist.mp2.generated: ἐκριζωθῆναι
+    present.act.generated: ἐκριζοῦν
+    present.mp1.generated: ἐκριζοῦσθαι
+ἐκτείνω:
+    present.act.actual: ἐκτείνειν
+ἐκτελέω:
+    aorist.act.actual: ἐκτελέσαι
+    aorist.mp1.generated: ἐκτελέσασθαι
+ἐκφέρω:
+    aorist.act.actual: ἐξενεγκεῖν
+    present.act.actual: ἐκφέρειν
+ἐκφεύγω:
+    aorist.act.actual: ἐκφυγεῖν
+ἐκφοβέω:
+    present.act.actual: ἐκφοβεῖν
+ἐκχέω:
+    aorist.act.actual: ἐκχέαι
+ἐλαττονέω:
+    aorist.act.generated: ἠλαττονῆσαι
+    aorist.mp1.generated: ἠλαττονήσασθαι
+    aorist.mp2.generated: ἠλαττονησῆναι
+ἐλαττόω:
+    aorist.act.generated: ἠλαττῶσαι
+    aorist.mp1.generated: ἠλαττώσασθαι
+    aorist.mp2.generated: ἠλαττωσῆναι
+    present.act.generated: ἐλαττοῦν
+    present.mp1.actual: ἐλαττοῦσθαι
+ἐλαύνω:
+    aorist.act.generated: ἠλάσαι
+    aorist.mp1.generated: ἠλάσασθαι
+    aorist.mp2.generated: ἠλασῆναι
+    present.act.actual: ἐλαύνειν
+    present.mp1.generated: ἐλαύνεσθαι
+ἐλεάω:
+    aorist.act.actual: ἐλεῆσαι
+    aorist.mp1.generated: ἐλεήσασθαι
+    aorist.mp2.generated: ἐλεηθῆναι
+    present.act.generated: ἐλεᾶν
+    present.mp1.generated: ἐλεᾶσθαι
+ἐλέγχω:
+    aorist.act.actual: ἐλέγξαι
+    aorist.mp1.generated: ἐλέγξασθαι
+    aorist.mp2.generated: ἐλεγχθῆναι
+    present.act.actual: ἐλέγχειν
+    present.mp1.generated: ἐλέγχεσθαι
+ἐλευθερόω:
+    aorist.act.generated: ἐλευθερῶσαι
+    aorist.mp1.generated: ἐλευθερώσασθαι
+    aorist.mp2.generated: ἐλευθερωθῆναι
+    present.act.generated: ἐλευθεροῦν
+    present.mp1.generated: ἐλευθεροῦσθαι
+ἑλίσσω:
+    present.act.generated: ἑλίσσειν
+    present.mp1.generated: ἑλίσσεσθαι
+ἕλκω:
+    aorist.act.actual: ἑλκύσαι
+    aorist.mp1.generated: ἑλκύσασθαι
+    aorist.mp2.generated: εἱλκυσῆναι
+    present.act.generated: ἕλκειν
+    present.mp1.generated: ἕλκεσθαι
+ἐλλογέω:
+    present.act.generated: ἐλλογεῖν
+    present.mp1.generated: ἐλλογεῖσθαι
+ἐλπίζω:
+    aorist.act.generated: ἐλπίσαι
+    aorist.mp1.generated: ἐλπίσασθαι
+    aorist.mp2.generated: ἠλπισῆναι
+    present.act.generated: ἐλπίζειν
+    present.mp1.generated: ἐλπίζεσθαι
+ἐμβαίνω:
+    aorist.act.actual: ἐμβῆναι
+ἐμβάλλω:
+    aorist.act.actual: ἐμβαλεῖν
+ἐμβάπτω:
+    aorist.act.generated: ἐμβάψαι
+    aorist.mp1.generated: ἐμβάψασθαι
+    present.act.generated: ἐμβάπτειν
+    present.mp1.generated: ἐμβάπτεσθαι
+ἐμβατεύω:
+    present.act.generated: ἐμβατεύειν
+    present.mp1.generated: ἐμβατεύεσθαι
+ἐμβριμάομαι:
+    aorist.act.generated: ἐμβριμῆσαι
+    aorist.mp1.generated: ἐμβριμήσασθαι
+    aorist.mp2.generated: ἐνεβριμηθῆναι
+    present.act.generated: ἐμβριμᾶν
+    present.mp1.generated: ἐμβριμᾶσθαι
+ἐμέω:
+    aorist.act.actual: ἐμέσαι
+    aorist.mp1.generated: ἐμέσασθαι
+ἐμμαίνομαι:
+    present.act.generated: ἐμμαίνειν
+    present.mp1.generated: ἐμμαίνεσθαι
+ἐμμένω:
+    present.act.actual: ἐμμένειν
+ἐμπαίζω:
+    aorist.act.actual: ἐμπαῖξαι
+    present.act.actual: ἐμπαίζειν
+ἐμπίπτω:
+    aorist.act.actual: ἐμπεσεῖν
+ἐμπλέκομαι:
+    present.act.generated: ἐμπλέκειν
+    present.mp1.generated: ἐμπλέκεσθαι
+ἐμπνέω:
+    present.act.generated: ἐμπνεῖν
+    present.mp1.generated: ἐμπνεῖσθαι
+ἐμπτύω:
+    present.act.actual: ἐμπτύειν
+ἐμφανίζω:
+    aorist.act.generated: ἐμφανίσαι
+    aorist.mp1.generated: ἐμφανίσασθαι
+    aorist.mp2.actual: ἐμφανισθῆναι
+    present.act.actual: ἐμφανίζειν
+    present.mp1.generated: ἐμφανίζεσθαι
+ἐμφυσάω:
+    aorist.act.generated: ἐνεφυσῆσαι
+    aorist.mp1.generated: ἐνεφυσήσασθαι
+    aorist.mp2.generated: ἐνεφυσησῆναι
+ἐναγκαλίζομαι:
+    aorist.act.generated: ἐναγκαλίσαι
+    aorist.mp1.generated: ἐναγκαλίσασθαι
+ἐνάρχομαι:
+    aorist.act.generated: ἐνάρξαι
+    aorist.mp1.generated: ἐνάρξασθαι
+ἐνδείκνυμι:
+    aorist.mp1.actual: ἐνδείξασθαι
+    present.mp1.actual: ἐνδείκνυσθαι
+ἐνδημέω:
+    aorist.act.actual: ἐνδημῆσαι
+ἐνδιδύσκω:
+    present.act.generated: ἐνδιδύσκειν
+    present.mp1.generated: ἐνδιδύσκεσθαι
+ἐνδοξάζομαι:
+    aorist.mp2.actual: ἐνδοξασθῆναι
+ἐνδύνω:
+    present.act.generated: ἐνδύνειν
+    present.mp1.generated: ἐνδύνεσθαι
+ἐνδύω:
+    aorist.mp1.actual: ἐνδύσασθαι
+ἐνεδρεύω:
+    present.act.generated: ἐνεδρεύειν
+    present.mp1.generated: ἐνεδρεύεσθαι
+ἐνειλέω:
+    aorist.act.generated: ἐνειλῆσαι
+    aorist.mp1.generated: ἐνειλήσασθαι
+    aorist.mp2.generated: ἐνειλησῆναι
+ἐνεργέω:
+    aorist.act.generated: ἐνεργῆσαι
+    aorist.mp1.generated: ἐνεργήσασθαι
+    aorist.mp2.generated: ἐνηργησῆναι
+    present.act.actual: ἐνεργεῖν
+    present.mp1.generated: ἐνεργεῖσθαι
+ἐνέχω:
+    present.act.actual: ἐνέχειν
+ἐνταφιάζω:
+    aorist.act.actual: ἐνταφιάσαι
+    aorist.mp1.generated: ἐνταφιάσασθαι
+    present.act.actual: ἐνταφιάζειν
+    present.mp1.generated: ἐνταφιάζεσθαι
+ἐντρέφομαι:
+    present.act.generated: ἐντρέφειν
+    present.mp1.generated: ἐντρέφεσθαι
+ἐντρυφάω:
+    present.act.generated: ἐντρυφᾶν
+    present.mp1.generated: ἐντρυφᾶσθαι
+ἐντυγχάνω:
+    present.act.actual: ἐντυγχάνειν
+ἐντυλίσσω:
+    aorist.act.generated: ἐνετυλίξαι
+    aorist.mp1.generated: ἐνετυλίξασθαι
+    aorist.mp2.generated: ἐνετυλιξῆναι
+ἐνυβρίζω:
+    aorist.act.generated: ἐνυβρίσαι
+    aorist.mp1.generated: ἐνυβρίσασθαι
+ἐνυπνιάζομαι:
+    present.act.generated: ἐνυπνιάζειν
+    present.mp1.generated: ἐνυπνιάζεσθαι
+ἐξάγω:
+    aorist.act.actual: ἐξαγαγεῖν
+ἐξαιρέω:
+    aorist.mp1.actual: ἐξελέσθαι
+ἐξαλείφω:
+    aorist.mp2.actual: ἐξαλειφθῆναι
+    present.act.generated: ἐξαλείφειν
+    present.mp1.generated: ἐξαλείφεσθαι
+ἐξάλλομαι:
+    present.act.generated: ἐξάλλειν
+    present.mp1.generated: ἐξάλλεσθαι
+ἐξαπορέομαι:
+    aorist.mp2.actual: ἐξαπορηθῆναι
+ἐξαρτίζω:
+    aorist.act.actual: ἐξαρτίσαι
+ἐξαστράπτω:
+    present.act.generated: ἐξαστράπτειν
+    present.mp1.generated: ἐξαστράπτεσθαι
+ἔξειμι:
+    present.act.actual: ἐξιέναι
+ἐξέλκω:
+    present.act.generated: ἐξέλκειν
+    present.mp1.generated: ἐξέλκεσθαι
+ἐξέρχομαι:
+    aorist.act.actual: ἐξελθεῖν
+ἐξετάζω:
+    aorist.act.actual: ἐξετάσαι
+ἐξίστημι:
+    present.mp1.actual: ἐξίστασθαι
+ἐξολεθρεύω:
+    present.act.generated: ἐξολεθρεύειν
+    present.mp1.generated: ἐξολεθρεύεσθαι
+ἐξορύσσω:
+    aorist.act.generated: ἐξορύξαι
+    aorist.mp1.generated: ἐξορύξασθαι
+ἐξουθενέω:
+    aorist.act.generated: ἐξουθενῆσαι
+    aorist.mp1.generated: ἐξουθενήσασθαι
+    aorist.mp2.generated: ἐξουθενηθῆναι
+    present.act.generated: ἐξουθενεῖν
+    present.mp1.generated: ἐξουθενεῖσθαι
+ἐξουσιάζω:
+    present.act.generated: ἐξουσιάζειν
+    present.mp1.generated: ἐξουσιάζεσθαι
+ἐξωθέω:
+    aorist.act.actual: ἐξῶσαι
+ἐπάγω:
+    aorist.act.actual: ἐπαγαγεῖν
+ἐπαγωνίζομαι:
+    present.mp1.actual: ἐπαγωνίζεσθαι
+ἐπαθροίζομαι:
+    present.act.generated: ἐπαθροίζειν
+    present.mp1.generated: ἐπαθροίζεσθαι
+ἐπαινέω:
+    aorist.act.generated: πῃνέσαι
+    aorist.mp1.generated: πῃνέσασθαι
+    aorist.mp2.generated: πῃνεθῆναι
+    present.act.generated: ἐπαινεῖν
+    present.mp1.generated: ἐπαινεῖσθαι
+ἐπαίρω:
+    aorist.act.actual: ἐπᾶραι
+ἐπαιτέω:
+    present.act.actual: ἐπαιτεῖν
+ἐπακροάομαι:
+    present.act.generated: ἐπακροᾶν
+    present.mp1.generated: ἐπακροᾶσθαι
+ἐπανάγω:
+    aorist.act.actual: ἐπαναγαγεῖν
+ἐπαναμιμνῄσκω:
+    present.act.generated: ἐπαναμιμνῄσκειν
+    present.mp1.generated: ἐπαναμιμνῄσκεσθαι
+ἐπανέρχομαι:
+    aorist.act.actual: ἐπανελθεῖν
+    present.mp1.actual: ἐπανέρχεσθαι
+ἐπαφρίζω:
+    present.act.generated: ἐπαφρίζειν
+    present.mp1.generated: ἐπαφρίζεσθαι
+ἐπεκτείνομαι:
+    present.act.generated: ἐπεκτείνειν
+    present.mp1.generated: ἐπεκτείνεσθαι
+ἐπενδύομαι:
+    aorist.mp1.actual: ἐπενδύσασθαι
+ἐπερωτάω:
+    aorist.act.actual: ἐπερωτῆσαι
+    present.act.actual: ἐπερωτᾶν
+ἐπηρεάζω:
+    present.act.generated: ἐπηρεάζειν
+    present.mp1.generated: ἐπηρεάζεσθαι
+ἐπιβαίνω:
+    present.act.actual: ἐπιβαίνειν
+ἐπιβάλλω:
+    aorist.act.actual: ἐπιβαλεῖν
+ἐπιβαρέω:
+    aorist.act.actual: ἐπιβαρῆσαι
+ἐπιβλέπω:
+    aorist.act.actual: ἐπιβλέψαι
+ἐπιγαμβρεύω:
+    present.act.generated: ἐπιγαμβρεύειν
+    present.mp1.generated: ἐπιγαμβρεύεσθαι
+ἐπιγίνομαι:
+    aorist.act.generated: ἐπιγενεῖν
+    aorist.mp1.generated: ἐπιγενέσθαι
+ἐπιγινώσκω:
+    aorist.act.actual: ἐπιγνῶναι
+ἐπιδείκνυμι:
+    aorist.act.actual: ἐπιδεῖξαι
+ἐπιδημέω:
+    present.act.generated: ἐπιδημεῖν
+    present.mp1.generated: ἐπιδημεῖσθαι
+ἐπιδιατάσσομαι:
+    present.act.generated: ἐπιδιατάσσειν
+    present.mp1.generated: ἐπιδιατάσσεσθαι
+ἐπιθυμέω:
+    aorist.act.actual: ἐπιθυμῆσαι
+ἐπικαλέω:
+    aorist.mp1.actual: ἐπικαλέσασθαι
+    present.mp1.actual: ἐπικαλεῖσθαι
+ἐπίκειμαι:
+    present.mp1.actual: ἐπικεῖσθαι
+ἐπικέλλω:
+    aorist.act.generated: ἐπεκεῖλαι
+    aorist.mp1.generated: ἐπεκείλασθαι
+    aorist.mp2.generated: ἐπεκειλῆναι
+ἐπιλαμβάνομαι:
+    aorist.mp1.actual: ἐπιλαβέσθαι
+ἐπιλανθάνομαι:
+    aorist.mp1.actual: ἐπιλαθέσθαι
+ἐπιλέγω:
+    aorist.act.generated: ἐπιλέξαι
+    aorist.mp1.generated: ἐπιλέξασθαι
+    present.act.generated: ἐπιλέγειν
+    present.mp1.generated: ἐπιλέγεσθαι
+ἐπιλείχω:
+    present.act.generated: ἐπιλείχειν
+    present.mp1.generated: ἐπιλείχεσθαι
+ἐπιμαρτυρέω:
+    present.act.generated: ἐπιμαρτυρεῖν
+    present.mp1.generated: ἐπιμαρτυρεῖσθαι
+ἐπιμελέομαι:
+    aorist.mp2.generated: ἐπιμεληθῆναι
+    present.act.generated: ἐπιμελεῖν
+    present.mp1.generated: ἐπιμελεῖσθαι
+ἐπιμένω:
+    aorist.act.actual: ἐπιμεῖναι
+    present.act.actual: ἐπιμένειν
+ἐπιορκέω:
+    present.act.generated: ἐπιορκεῖν
+    present.mp1.generated: ἐπιορκεῖσθαι
+ἐπιπίπτω:
+    present.act.actual: ἐπιπίπτειν
+ἐπιποθέω:
+    aorist.act.generated: ἐπιποθῆσαι
+    aorist.mp1.generated: ἐπιποθήσασθαι
+    present.act.generated: ἐπιποθεῖν
+    present.mp1.generated: ἐπιποθεῖσθαι
+ἐπιπορεύομαι:
+    present.act.generated: ἐπιπορεύειν
+    present.mp1.generated: ἐπιπορεύεσθαι
+ἐπιράπτω:
+    present.act.generated: ἐπιράπτειν
+    present.mp1.generated: ἐπιράπτεσθαι
+ἐπιρίπτω:
+    aorist.act.generated: ἐπιρίψαι
+    aorist.mp1.generated: ἐπιρίψασθαι
+ἐπισκέπτομαι:
+    aorist.act.generated: ἐπισκέψαι
+    aorist.mp1.actual: ἐπισκέψασθαι
+    aorist.mp2.generated: ἐπεσκεψῆναι
+    present.act.generated: ἐπισκέπτειν
+    present.mp1.actual: ἐπισκέπτεσθαι
+ἐπισκευάζομαι:
+    aorist.act.generated: ἐπισκευάσαι
+    aorist.mp1.generated: ἐπισκευάσασθαι
+ἐπισκιάζω:
+    aorist.act.generated: ἐπισκιάσαι
+    aorist.mp1.generated: ἐπισκιάσασθαι
+    aorist.mp2.generated: ἐπεσκιασῆναι
+    present.act.generated: ἐπισκιάζειν
+    present.mp1.generated: ἐπισκιάζεσθαι
+ἐπισκοπέω:
+    present.act.generated: ἐπισκοπεῖν
+    present.mp1.generated: ἐπισκοπεῖσθαι
+ἐπίσταμαι:
+    present.act.generated: ἐπιστάναι
+    present.mp1.generated: ἐπίστασθαι
+ἐπιστέλλω:
+    aorist.act.actual: ἐπιστεῖλαι
+ἐπιστομίζω:
+    present.act.actual: ἐπιστομίζειν
+    present.mp1.generated: ἐπιστομίζεσθαι
+ἐπιστρέφω:
+    aorist.act.actual: ἐπιστρέψαι/ἐπιστρέφειν
+ἐπισυνάγω:
+    aorist.act.actual: ἐπισυναγαγεῖν/ἐπισυνάξαι
+ἐπιτάσσω:
+    present.act.actual: ἐπιτάσσειν
+ἐπιτελέω:
+    aorist.act.actual: ἐπιτελέσαι
+    present.act.actual: ἐπιτελεῖν
+    present.mp1.actual: ἐπιτελεῖσθαι
+ἐπιτίθημι:
+    aorist.act.actual: ἐπιθεῖναι
+    present.mp1.actual: ἐπιτίθεσθαι
+ἐπιτιμάω:
+    present.act.actual: ἐπιτιμᾶν
+ἐπιτυγχάνω:
+    aorist.act.actual: ἐπιτυχεῖν
+ἐπιφαίνω:
+    aorist.act.actual: ἐπιφᾶναι
+ἐπιφαύσκω:
+    present.act.generated: ἐπιφαύσκειν
+    present.mp1.generated: ἐπιφαύσκεσθαι
+ἐπιφέρω:
+    aorist.act.actual: ἐπενεγκεῖν
+ἐπιφώσκω:
+    present.act.generated: ἐπιφώσκειν
+    present.mp1.generated: ἐπιφώσκεσθαι
+ἐπιχειρέω:
+    aorist.act.generated: ἐπεχειρῆσαι
+    aorist.mp1.generated: ἐπεχειρήσασθαι
+    aorist.mp2.generated: ἐπεχειρησῆναι
+    present.act.generated: ἐπιχειρεῖν
+    present.mp1.generated: ἐπιχειρεῖσθαι
+ἐπιχέω:
+    present.act.generated: ἐπιχεῖν
+    present.mp1.generated: ἐπιχεῖσθαι
+ἐπονομάζομαι:
+    present.act.generated: ἐπονομάζειν
+    present.mp1.generated: ἐπονομάζεσθαι
+ἐποπτεύω:
+    aorist.act.generated: ἐποπτεῦσαι
+    aorist.mp1.generated: ἐποπτεύσασθαι
+    present.act.generated: ἐποπτεύειν
+    present.mp1.generated: ἐποπτεύεσθαι
+ἐραυνάω:
+    aorist.act.generated: ἐραυνῆσαι
+    aorist.mp1.generated: ἐραυνήσασθαι
+    aorist.mp2.generated: ἠραυνησῆναι
+    present.act.generated: ἐραυνᾶν
+    present.mp1.generated: ἐραυνᾶσθαι
+ἐργάζομαι:
+    aorist.act.generated: ἐργάσαι
+    aorist.mp1.generated: ἐργάσασθαι
+    aorist.mp2.generated: εἰργασθῆναι
+    present.act.generated: ἐργάζειν
+    present.mp1.actual: ἐργάζεσθαι
+ἐρεθίζω:
+    aorist.act.generated: ἠρεθίσαι
+    aorist.mp1.generated: ἠρεθίσασθαι
+    aorist.mp2.generated: ἠρεθισῆναι
+    present.act.generated: ἐρεθίζειν
+    present.mp1.generated: ἐρεθίζεσθαι
+ἐρείδω:
+    aorist.act.generated: ἐρεῖσαι
+    aorist.mp1.generated: ἐρείσασθαι
+ἐρεύγομαι:
+    present.act.generated: ἐρεύγειν
+    present.mp1.generated: ἐρεύγεσθαι
+ἐρημόομαι:
+    aorist.mp2.generated: ἠρημωθῆναι
+    present.act.generated: ἐρημοῦν
+    present.mp1.generated: ἐρημοῦσθαι
+ἐρίζω:
+    present.act.generated: ἐρίζειν
+    present.mp1.generated: ἐρίζεσθαι
+ἑρμηνεύω:
+    aorist.act.generated: ἑρμηνεῦσαι
+    aorist.mp1.generated: ἑρμηνεύσασθαι
+    aorist.mp2.generated: ἑρμηνευσῆναι
+    present.act.generated: ἑρμηνεύειν
+    present.mp1.generated: ἑρμηνεύεσθαι
+ἔρχομαι:
+    aorist.act.actual: ἐλθεῖν
+    aorist.mp1.generated: ἐλθέσθαι
+    aorist.mp2.generated: ἠλθῆναι/ἠλθ%ῆναι
+    present.act.generated: ἔρχειν
+    present.mp1.actual: ἔρχεσθαι
+ἐρωτάω:
+    aorist.act.actual: ἐρωτῆσαι
+    aorist.mp1.generated: ἐρωτήσασθαι
+    aorist.mp2.generated: ἠρωτησῆναι
+    present.act.actual: ἐρωτᾶν
+    present.mp1.generated: ἐρωτᾶσθαι
+ἐσθίω:
+    aorist.act.actual: φαγεῖν
+    aorist.mp1.generated: φαγέσθαι
+    aorist.mp2.generated: ἐφαγ%ῆναι
+    present.act.actual: ἐσθίειν
+    present.mp1.generated: ἐσθίεσθαι
+ἔσθω:
+    present.act.generated: ἔσθειν
+    present.mp1.generated: ἔσθεσθαι
+ἑτεροδιδασκαλέω:
+    present.act.actual: ἑτεροδιδασκαλεῖν
+    present.mp1.generated: ἑτεροδιδασκαλεῖσθαι
+ἑτεροζυγέω:
+    present.act.generated: ἑτεροζυγεῖν
+    present.mp1.generated: ἑτεροζυγεῖσθαι
+ἑτοιμάζω:
+    aorist.act.actual: ἑτοιμάσαι
+    aorist.mp1.generated: ἑτοιμάσασθαι
+    aorist.mp2.generated: ἑτοιμασθῆναι
+    present.act.generated: ἑτοιμάζειν
+    present.mp1.generated: ἑτοιμάζεσθαι
+εὐαγγελίζω:
+    aorist.act.actual: εὐαγγελίσαι
+    aorist.mp1.actual: εὐαγγελίσασθαι
+    aorist.mp2.generated: εὐαγγελισθῆναι
+    present.act.generated: εὐαγγελίζειν
+    present.mp1.actual: εὐαγγελίζεσθαι
+εὐαρεστέω:
+    aorist.act.actual: εὐαρεστῆσαι
+    aorist.mp1.generated: εὐαρεστήσασθαι
+    present.act.generated: εὐαρεστεῖν
+    present.mp1.generated: εὐαρεστεῖσθαι
+εὐδοκέω:
+    aorist.act.generated: εὐδοκῆσαι/ηὐδοκῆσαι
+    aorist.mp1.generated: εὐδοκήσασθαι/ηὐδοκήσασθαι
+    aorist.mp2.generated: εὐδοκησῆναι/ηὐδοκησῆναι
+    present.act.generated: εὐδοκεῖν
+    present.mp1.generated: εὐδοκεῖσθαι
+εὐεργετέω:
+    present.act.generated: εὐεργετεῖν
+    present.mp1.generated: εὐεργετεῖσθαι
+εὐθυδρομέω:
+    aorist.act.generated: εὐθυδρομῆσαι
+    aorist.mp1.generated: εὐθυδρομήσασθαι
+    aorist.mp2.generated: εὐθυδρομησῆναι
+εὐθυμέω:
+    present.act.actual: εὐθυμεῖν
+    present.mp1.generated: εὐθυμεῖσθαι
+εὐκαιρέω:
+    aorist.act.generated: εὐκαιρῆσαι
+    aorist.mp1.generated: εὐκαιρήσασθαι
+    present.act.generated: εὐκαιρεῖν
+    present.mp1.generated: εὐκαιρεῖσθαι
+εὐλαβέομαι:
+    aorist.mp2.generated: εὐλαβηθῆναι
+εὐλογέω:
+    aorist.act.generated: εὐλογῆσαι
+    aorist.mp1.generated: εὐλογήσασθαι
+    aorist.mp2.generated: εὐλογησῆναι
+    present.act.actual: εὐλογεῖν
+    present.mp1.generated: εὐλογεῖσθαι
+εὐνοέω:
+    present.act.generated: εὐνοεῖν
+    present.mp1.generated: εὐνοεῖσθαι
+εὐνουχίζω:
+    aorist.act.generated: εὐνουχίσαι
+    aorist.mp1.generated: εὐνουχίσασθαι
+    aorist.mp2.generated: εὐνουχισθῆναι
+εὐοδόομαι:
+    present.act.generated: εὐοδοῦν
+    present.mp1.actual: εὐοδοῦσθαι
+εὐπορέομαι:
+    present.act.generated: εὐπορεῖν
+    present.mp1.generated: εὐπορεῖσθαι
+εὐπροσωπέω:
+    aorist.act.actual: εὐπροσωπῆσαι
+    aorist.mp1.generated: εὐπροσωπήσασθαι
+εὑρίσκω:
+    aorist.act.actual: εὑρεῖν
+    aorist.mp1.generated: εὕρασθαι/εὑρέσθαι
+    aorist.mp2.actual: εὑρεθῆναι
+    present.act.generated: εὑρίσκειν
+    present.mp1.generated: εὑρίσκεσθαι
+εὐσεβέω:
+    present.act.actual: εὐσεβεῖν
+    present.mp1.generated: εὐσεβεῖσθαι
+εὐφορέω:
+    aorist.act.generated: εὐφορῆσαι
+    aorist.mp1.generated: εὐφορήσασθαι
+    aorist.mp2.generated: εὐφορησῆναι
+εὐφραίνω:
+    aorist.mp2.actual: εὐφρανθῆναι
+    present.act.generated: εὐφραίνειν
+    present.mp1.actual: εὐφραίνεσθαι
+εὐχαριστέω:
+    aorist.mp2.generated: εὐχαριστηθῆναι
+    present.act.actual: εὐχαριστεῖν
+    present.mp1.generated: εὐχαριστεῖσθαι
+εὔχομαι:
+    aorist.act.generated: εὖξαι
+    aorist.mp1.generated: εὔξασθαι
+    aorist.mp2.generated: ηὐξῆναι
+    present.act.generated: εὔχειν
+    present.mp1.generated: εὔχεσθαι
+ἐφάλλομαι:
+    aorist.act.generated: ἐφαλεῖν
+    aorist.mp1.generated: ἐφαλέσθαι
+ἐφικνέομαι:
+    aorist.mp1.actual: ἐφικέσθαι
+ἐφοράω:
+    aorist.act.generated: ἐπίδαι
+    aorist.mp1.generated: ἐπίδασθαι
+    aorist.mp2.generated: ἐπειδῆναι
+ἔχω:
+    aorist.act.generated: ἐσχεῖν
+    aorist.mp1.generated: ἐσχέσθαι
+    aorist.mp2.generated: ἐσχ%ῆναι
+    present.act.actual: ἔχειν
+    present.mp1.generated: ἔχεσθαι
+ζάω:
+    aorist.act.generated: ζῆσαι
+    aorist.mp1.generated: ζήσασθαι
+    aorist.mp2.generated: ἐζησῆναι
+    present.act.actual: ζῆν
+    present.mp1.generated: ζῆσθαι
+ζέω:
+    present.act.generated: ζεῖν
+    present.mp1.generated: ζεῖσθαι
+ζηλόω:
+    aorist.act.generated: ζηλῶσαι
+    aorist.mp1.generated: ζηλώσασθαι
+    present.act.generated: ζηλοῦν
+    present.mp1.actual: ζηλοῦσθαι
+ζημιόω:
+    aorist.mp2.actual: ζημιωθῆναι
+    present.act.generated: ζημιοῦν
+    present.mp1.generated: ζημιοῦσθαι
+ζητέω:
+    aorist.act.actual: ζητῆσαι
+    aorist.mp1.generated: ζητήσασθαι
+    aorist.mp2.generated: ζητηθῆναι
+    present.act.actual: ζητεῖν
+    present.mp1.generated: ζητεῖσθαι
+ζυμόω:
+    aorist.mp2.generated: ἐζυμωθῆναι
+    present.act.generated: ζυμοῦν
+    present.mp1.generated: ζυμοῦσθαι
+ζωγρέω:
+    present.act.generated: ζωγρεῖν
+    present.mp1.generated: ζωγρεῖσθαι
+ζώννυμι:
+    aorist.act.generated: ζῶσαι
+    aorist.mp1.generated: ζώσασθαι
+    aorist.mp2.generated: ἐζωσῆναι
+ζῳογονέω:
+    present.act.generated: ζῳογονεῖν
+    present.mp1.actual: ζῳογονεῖσθαι
+ζῳοποιέω:
+    aorist.act.actual: ζῳοποιῆσαι
+    aorist.mp1.generated: ζῳοποιήσασθαι
+    present.act.generated: ζῳοποιεῖν
+    present.mp1.generated: ζῳοποιεῖσθαι
+ἡγεμονεύω:
+    present.act.generated: ἡγεμονεύειν
+    present.mp1.generated: ἡγεμονεύεσθαι
+ἡγέομαι:
+    aorist.act.generated: ἡγῆσαι
+    aorist.mp1.generated: ἡγήσασθαι
+    aorist.mp2.generated: ἡγησῆναι
+    present.act.generated: ἡγεῖν
+    present.mp1.actual: ἡγεῖσθαι
+ἥκω:
+    aorist.act.generated: ἧξαι
+    aorist.mp1.generated: ἥξασθαι
+    present.act.generated: ἥκειν
+    present.mp1.generated: ἥκεσθαι
+ἡσυχάζω:
+    aorist.act.generated: ἡσυχάσαι
+    aorist.mp1.generated: ἡσυχάσασθαι
+    aorist.mp2.generated: ἡσυχασῆναι
+    present.act.actual: ἡσυχάζειν
+    present.mp1.generated: ἡσυχάζεσθαι
+ἡττάομαι:
+    aorist.mp2.generated: ἡσσωθῆναι
+ἠχέω:
+    present.act.generated: ἠχεῖν
+    present.mp1.generated: ἠχεῖσθαι
+θάλπω:
+    present.act.generated: θάλπειν
+    present.mp1.generated: θάλπεσθαι
+θαμβέομαι:
+    aorist.mp2.generated: ἐθαμβηθῆναι
+    present.act.generated: θαμβεῖν
+    present.mp1.generated: θαμβεῖσθαι
+θανατόω:
+    aorist.act.actual: θανατῶσαι
+    aorist.mp1.generated: θανατώσασθαι
+    aorist.mp2.generated: θανατωθῆναι
+    present.act.generated: θανατοῦν
+    present.mp1.generated: θανατοῦσθαι
+θάπτω:
+    aorist.act.actual: θάψαι
+    aorist.mp1.generated: θάψασθαι
+    aorist.mp2.generated: ἐταφῆναι
+θαρρέω:
+    aorist.act.actual: θαρρῆσαι
+    aorist.mp1.generated: θαρρήσασθαι
+    present.act.generated: θαρρεῖν
+    present.mp1.generated: θαρρεῖσθαι
+θαυμάζω:
+    aorist.act.actual: θαυμάσαι
+    aorist.mp1.generated: θαυμᾰ́σασθαι
+    aorist.mp2.actual: θαυμασθῆναι
+    present.act.actual: θαυμάζειν
+    present.mp1.generated: θαυμάζεσθαι
+θεάομαι:
+    aorist.act.generated: θεάσαι
+    aorist.mp1.actual: θεάσασθαι
+    aorist.mp2.actual: θεαθῆναι
+θεατρίζω:
+    present.act.generated: θεατρίζειν
+    present.mp1.generated: θεατρίζεσθαι
+θέλω:
+    aorist.act.generated: θελῆσαι
+    aorist.mp1.generated: θελήσασθαι
+    aorist.mp2.generated: ἠθελησῆναι
+    present.act.actual: θέλειν
+    present.mp1.generated: θέλεσθαι
+θεμελιόω:
+    aorist.act.generated: ἐθεμελιῶσαι
+    aorist.mp1.generated: ἐθεμελιώσασθαι
+    aorist.mp2.generated: ἐθεμελιωσῆναι
+    present.act.generated: θεμελιοῦν
+    present.mp1.generated: θεμελιοῦσθαι
+θεραπεύω:
+    aorist.act.actual: θεραπεῦσαι
+    aorist.mp1.generated: θεραπεύσασθαι
+    aorist.mp2.actual: θεραπευθῆναι
+    present.act.actual: θεραπεύειν
+    present.mp1.actual: θεραπεύεσθαι
+θερίζω:
+    aorist.act.actual: θερίσαι
+    aorist.mp1.generated: θερίσασθαι
+    aorist.mp2.generated: ἐθερισθῆναι
+    present.act.actual: θερίζειν
+    present.mp1.generated: θερίζεσθαι
+θερμαίνομαι:
+    present.act.generated: θερμαίνειν
+    present.mp1.generated: θερμαίνεσθαι
+θεωρέω:
+    aorist.act.actual: θεωρῆσαι
+    aorist.mp1.generated: θεωρήσασθαι
+    aorist.mp2.generated: ἐθεωρησῆναι
+    present.act.actual: θεωρεῖν
+    present.mp1.generated: θεωρεῖσθαι
+θηλάζω:
+    aorist.act.generated: ἐθηλάσαι
+    aorist.mp1.generated: ἐθηλάσασθαι
+    aorist.mp2.generated: ἐθηλασῆναι
+θηρεύω:
+    aorist.act.actual: θηρεῦσαι
+    aorist.mp1.generated: θηρεύσασθαι
+θηριομαχέω:
+    aorist.act.generated: ἐθηριομαχῆσαι
+    aorist.mp1.generated: ἐθηριομαχήσασθαι
+    aorist.mp2.generated: ἐθηριομαχησῆναι
+θησαυρίζω:
+    aorist.act.generated: ἐθησαυρίσαι
+    aorist.mp1.generated: ἐθησαυρίσασθαι
+    aorist.mp2.generated: ἐθησαυρισῆναι
+    present.act.actual: θησαυρίζειν
+    present.mp1.generated: θησαυρίζεσθαι
+θλίβω:
+    present.act.generated: θλίβειν
+    present.mp1.actual: θλίβεσθαι
+θνῄσκω:
+    aorist.act.generated: θάναι
+    aorist.mp1.generated: θάνασθαι
+    aorist.mp2.generated: ἐθανῆναι
+    present.act.generated: θνῄσκειν
+    present.mp1.generated: θνῄσκεσθαι
+θορυβάζω:
+    present.act.generated: θορυβάζειν
+    present.mp1.generated: θορυβάζεσθαι
+θορυβέω:
+    present.act.generated: θορυβεῖν
+    present.mp1.generated: θορυβεῖσθαι
+θρηνέω:
+    aorist.act.generated: ἐθρηνῆσαι
+    aorist.mp1.generated: ἐθρηνήσασθαι
+    aorist.mp2.generated: ἐθρηνησῆναι
+    present.act.generated: θρηνεῖν
+    present.mp1.generated: θρηνεῖσθαι
+θριαμβεύω:
+    aorist.act.generated: θριαμβεῦσαι
+    aorist.mp1.generated: θριαμβεύσασθαι
+    present.act.generated: θριαμβεύειν
+    present.mp1.generated: θριαμβεύεσθαι
+θροέομαι:
+    present.act.generated: θροεῖν
+    present.mp1.actual: θροεῖσθαι
+θυμιάω:
+    aorist.act.actual: θυμιᾶσαι
+    aorist.mp1.generated: θυμιᾱ́σασθαι
+θυμομαχέω:
+    present.act.generated: θυμομαχεῖν
+    present.mp1.generated: θυμομαχεῖσθαι
+θυμόομαι:
+    aorist.mp2.generated: ἐθυμωθῆναι
+θύω:
+    aorist.act.generated: θύσαι
+    aorist.mp1.generated: θύσασθαι
+    aorist.mp2.generated: ἐτυθῆναι
+    present.act.actual: θύειν
+    present.mp1.actual: θύεσθαι
+ἰάομαι:
+    aorist.act.generated: ἰάσαι
+    aorist.mp1.generated: ἰάσασθαι
+    aorist.mp2.actual: ἰαθῆναι
+    present.act.generated: ἰᾶν
+    present.mp1.actual: ἰᾶσθαι
+ἱερατεύω:
+    present.act.actual: ἱερατεύειν
+    present.mp1.generated: ἱερατεύεσθαι
+ἱεροσυλέω:
+    present.act.generated: ἱεροσυλεῖν
+    present.mp1.generated: ἱεροσυλεῖσθαι
+ἱερουργέω:
+    present.act.generated: ἱερουργεῖν
+    present.mp1.generated: ἱερουργεῖσθαι
+ἱκανόω:
+    aorist.act.generated: ἱκανῶσαι
+    aorist.mp1.generated: ἱκανώσασθαι
+    aorist.mp2.generated: ἱκανωσῆναι
+ἱλάσκομαι:
+    aorist.mp2.generated: ἱλασθῆναι
+    present.act.generated: ἱλάσκειν
+    present.mp1.actual: ἱλάσκεσθαι
+ἰουδαΐζω:
+    present.act.actual: ἰουδαΐζειν
+    present.mp1.generated: ἰουδαΐζεσθαι
+ἵστημι:
+    aorist.act.actual: στῆναι/στῆσαι
+    aorist.mp2.actual: σταθῆναι
+    present.act.generated: ἱστάναι
+    present.mp1.generated: ἵστασθαι
+ἱστορέω:
+    aorist.act.actual: ἱστορῆσαι
+    aorist.mp1.generated: ἱστορήσασθαι
+ἰσχύω:
+    aorist.act.generated: ἰσχύσαι
+    aorist.mp1.generated: ἰσχύσασθαι
+    aorist.mp2.generated: ἰσχυσῆναι
+    present.act.actual: ἰσχύειν
+    present.mp1.generated: ἰσχύεσθαι
+καθαιρέω:
+    aorist.act.actual: καθελεῖν
+    present.mp1.actual: καθαιρεῖσθαι
+καθαίρω:
+    aorist.act.generated: καθάραι
+    aorist.mp1.generated: καθάρασθαι
+    present.act.generated: καθαίρειν
+    present.mp1.generated: καθαίρεσθαι
+καθαρίζω:
+    aorist.act.actual: καθαρίσαι
+    aorist.mp1.generated: καθαρίσασθαι
+    aorist.mp2.generated: καθαρισθῆναι
+    present.act.generated: καθαρίζειν
+    present.mp1.actual: καθαρίζεσθαι
+καθέζομαι:
+    present.act.generated: καθέζειν
+    present.mp1.generated: καθέζεσθαι
+καθεύδω:
+    present.act.actual: καθεύδειν
+    present.mp1.generated: καθεύδεσθαι
+κάθημαι:
+    present.act.generated: καθῆναι
+    present.mp1.actual: καθῆσθαι
+καθίζω:
+    aorist.act.actual: καθίσαι
+    aorist.mp1.generated: καθίσασθαι
+    aorist.mp2.generated: ἐκαθισῆναι
+    present.act.generated: καθίζειν
+    present.mp1.generated: καθίζεσθαι
+καίω:
+    aorist.act.generated: καῦσαι
+    aorist.mp1.generated: καύσασθαι
+    aorist.mp2.generated: ἐκαῆναι
+    present.act.generated: καίειν
+    present.mp1.generated: καίεσθαι
+κακολογέω:
+    aorist.act.actual: κακολογῆσαι
+    aorist.mp1.generated: κακολογήσασθαι
+κακοπαθέω:
+    aorist.act.generated: κακοπαθῆσαι
+    aorist.mp1.generated: κακοπαθήσασθαι
+    present.act.generated: κακοπαθεῖν
+    present.mp1.generated: κακοπαθεῖσθαι
+κακοποιέω:
+    aorist.act.actual: κακοποιῆσαι
+    aorist.mp1.generated: κακοποιήσασθαι
+κακουχέομαι:
+    present.act.generated: κακουχεῖν
+    present.mp1.generated: κακουχεῖσθαι
+κακόω:
+    aorist.act.actual: κακῶσαι
+    aorist.mp1.generated: κακώσασθαι
+    aorist.mp2.generated: ἐκακωσῆναι
+    present.act.generated: κακοῦν
+    present.mp1.generated: κακοῦσθαι
+καλέω:
+    aorist.act.actual: καλέσαι
+    aorist.mp1.generated: καλέσασθαι
+    aorist.mp2.actual: κληθῆναι
+    present.act.actual: καλεῖν
+    present.mp1.actual: καλεῖσθαι
+καλοποιέω:
+    present.act.generated: καλοποιεῖν
+    present.mp1.generated: καλοποιεῖσθαι
+καλύπτω:
+    aorist.act.generated: καλύψαι
+    aorist.mp1.generated: καλύψασθαι
+    aorist.mp2.generated: καλυφθῆναι
+    present.act.generated: καλύπτειν
+    present.mp1.actual: καλύπτεσθαι
+καμμύω:
+    aorist.act.generated: ἐκαμμύσαι
+    aorist.mp1.generated: ἐκαμμύσασθαι
+    aorist.mp2.generated: ἐκαμμυσῆναι
+κάμνω:
+    aorist.act.generated: κάμαι
+    aorist.mp1.generated: κάμασθαι
+κάμπτω:
+    aorist.act.generated: κάμψαι
+    aorist.mp1.generated: κάμψασθαι
+    aorist.mp2.generated: ἐκαμψῆναι
+    present.act.generated: κάμπτειν
+    present.mp1.generated: κάμπτεσθαι
+καπηλεύω:
+    present.act.generated: καπηλεύειν
+    present.mp1.generated: καπηλεύεσθαι
+καρποφορέω:
+    aorist.act.actual: καρποφορῆσαι
+    aorist.mp1.generated: καρποφορήσασθαι
+    present.act.generated: καρποφορεῖν
+    present.mp1.generated: καρποφορεῖσθαι
+καρτερέω:
+    aorist.act.generated: ἐκαρτερῆσαι
+    aorist.mp1.generated: ἐκαρτερήσασθαι
+    aorist.mp2.generated: ἐκαρτερησῆναι
+    present.act.generated: καρτερεῖν
+    present.mp1.generated: καρτερεῖσθαι
+καταβαίνω:
+    aorist.act.actual: καταβῆναι
+    present.act.actual: καταβαίνειν
+καταβάλλω:
+    present.act.generated: καταβάλλειν
+    present.mp1.generated: καταβάλλεσθαι
+καταβαρύνομαι:
+    present.act.generated: καταβαρύνειν
+    present.mp1.generated: καταβαρύνεσθαι
+καταγγέλλω:
+    present.act.actual: καταγγέλλειν
+κατάγνυμι:
+    aorist.act.generated: κατεάξαι
+    aorist.mp1.generated: κατεάξασθαι
+    aorist.mp2.generated: κατεαγῆναι
+κατάγω:
+    aorist.act.actual: καταγαγεῖν
+καταδικάζω:
+    aorist.act.generated: κατεδικάσαι
+    aorist.mp1.generated: κατεδικάσασθαι
+    aorist.mp2.generated: καταδικασθῆναι
+    present.act.generated: καταδικάζειν
+    present.mp1.generated: καταδικάζεσθαι
+καταδυναστεύω:
+    present.act.generated: καταδυναστεύειν
+    present.mp1.generated: καταδυναστεύεσθαι
+καταθεματίζω:
+    present.act.actual: καταθεματίζειν
+κατακαίω:
+    aorist.act.actual: κατακαῦσαι
+κατακαλύπτομαι:
+    present.act.generated: κατακαλύπτειν
+    present.mp1.actual: κατακαλύπτεσθαι
+κατάκειμαι:
+    present.mp1.actual: κατακεῖσθαι
+κατακλίνω:
+    aorist.mp2.actual: κατακλιθῆναι
+κατακλύζω:
+    aorist.mp2.generated: κατακλυσθῆναι
+κατακολουθέω:
+    present.act.generated: κατακολουθεῖν
+    present.mp1.generated: κατακολουθεῖσθαι
+κατακόπτω:
+    present.act.generated: κατακόπτειν
+    present.mp1.generated: κατακόπτεσθαι
+κατακρημνίζω:
+    aorist.act.actual: κατακρημνίσαι
+    aorist.mp1.generated: κατακρημνίσασθαι
+καταλαμβάνω:
+    aorist.mp1.actual: καταλαβέσθαι
+καταλείπω:
+    aorist.mp2.actual: καταλειφθῆναι
+καταλύω:
+    aorist.act.actual: καταλῦσαι
+καταμένω:
+    present.act.generated: καταμένειν
+    present.mp1.generated: καταμένεσθαι
+καταναλίσκω:
+    present.act.generated: καταναλίσκειν
+    present.mp1.generated: καταναλίσκεσθαι
+καταναρκάω:
+    aorist.act.generated: κατεναρκῆσαι
+    aorist.mp1.generated: κατεναρκήσασθαι
+    aorist.mp2.generated: κατεναρκησῆναι
+    present.act.generated: καταναρκᾶν
+    present.mp1.generated: καταναρκᾶσθαι
+κατανοέω:
+    aorist.act.actual: κατανοῆσαι
+καταντάω:
+    aorist.act.actual: καταντῆσαι
+καταξιόω:
+    aorist.mp2.actual: καταξιωθῆναι
+καταπατέω:
+    present.act.actual: καταπατεῖν
+    present.mp1.actual: καταπατεῖσθαι
+καταπίνω:
+    aorist.act.actual: καταπιεῖν
+καταπίπτω:
+    present.act.actual: καταπίπτειν
+καταπονέω:
+    present.act.generated: καταπονεῖν
+    present.mp1.generated: καταπονεῖσθαι
+καταποντίζομαι:
+    aorist.mp2.generated: καταποντισθῆναι
+    present.act.generated: καταποντίζειν
+    present.mp1.actual: καταποντίζεσθαι
+καταράομαι:
+    aorist.act.generated: κατηράσαι
+    aorist.mp1.generated: κατηράσασθαι
+    aorist.mp2.generated: κατηρασῆναι
+    present.act.generated: καταρᾶν
+    present.mp1.generated: καταρᾶσθαι
+καταργέω:
+    aorist.act.actual: καταργῆσαι
+καταρτίζω:
+    aorist.act.actual: καταρτίσαι
+κατασκηνόω:
+    present.act.actual: κατασκηνοῦν
+κατασκιάζω:
+    present.act.generated: κατασκιάζειν
+    present.mp1.generated: κατασκιάζεσθαι
+κατασκοπέω:
+    aorist.act.actual: κατασκοπῆσαι
+κατασοφίζομαι:
+    aorist.act.generated: κατασοφίσαι
+    aorist.mp1.generated: κατασοφίσασθαι
+καταστέλλω:
+    aorist.act.generated: καταστεῖλαι
+    aorist.mp1.generated: καταστείλασθαι
+κατατίθημι:
+    aorist.mp1.actual: καταθέσθαι
+καταχράομαι:
+    aorist.mp1.actual: καταχρήσασθαι
+κατεξουσιάζω:
+    present.act.generated: κατεξουσιάζειν
+    present.mp1.generated: κατεξουσιάζεσθαι
+κατεργάζομαι:
+    present.mp1.actual: κατεργάζεσθαι
+κατέρχομαι:
+    aorist.act.actual: κατελθεῖν
+κατευθύνω:
+    aorist.act.actual: κατευθῦναι
+κατέχω:
+    present.act.actual: κατέχειν
+κατηγορέω:
+    aorist.act.generated: κατηγορῆσαι
+    aorist.mp1.generated: κατηγορήσασθαι
+    present.act.actual: κατηγορεῖν
+    present.mp1.actual: κατηγορεῖσθαι
+κατηχέω:
+    aorist.act.generated: κατηχῆσαι
+    aorist.mp1.generated: κατηχήσασθαι
+    aorist.mp2.generated: κατηχηθῆναι
+    present.act.generated: κατηχεῖν
+    present.mp1.generated: κατηχεῖσθαι
+κατοικέω:
+    aorist.act.actual: κατοικῆσαι
+    present.act.actual: κατοικεῖν
+κατοπτρίζομαι:
+    present.act.generated: κατοπτρίζειν
+    present.mp1.generated: κατοπτρίζεσθαι
+καυματίζω:
+    aorist.act.actual: καυματίσαι
+    aorist.mp1.generated: καυματίσασθαι
+    aorist.mp2.generated: ἐκαυματισθῆναι
+καυσόομαι:
+    present.act.generated: καυσοῦν
+    present.mp1.generated: καυσοῦσθαι
+καυχάομαι:
+    aorist.act.generated: καυχῆσαι
+    aorist.mp1.actual: καυχήσασθαι
+    present.act.generated: καυχᾶν
+    present.mp1.actual: καυχᾶσθαι
+κεῖμαι:
+    present.act.generated: κεῖναι
+    present.mp1.generated: κεῖσθαι
+κείρω:
+    aorist.act.generated: κεῖραι
+    aorist.mp1.actual: κείρασθαι
+κελεύω:
+    aorist.act.generated: κελεῦσαι
+    aorist.mp1.generated: κελεύσασθαι
+    aorist.mp2.generated: ἐκελευσῆναι
+    present.act.generated: κελεύειν
+    present.mp1.generated: κελεύεσθαι
+κενόω:
+    aorist.act.generated: ἐκενῶσαι
+    aorist.mp1.generated: ἐκενώσασθαι
+    aorist.mp2.generated: κενωθῆναι
+    present.act.generated: κενοῦν
+    present.mp1.generated: κενοῦσθαι
+κεράννυμι:
+    aorist.act.generated: κεράσαι
+    aorist.mp1.generated: κεράσασθαι
+    aorist.mp2.generated: ἐκερασῆναι
+κερδαίνω:
+    aorist.act.actual: κερδῆσαι
+    aorist.mp1.generated: κερδήσασθαι
+    aorist.mp2.generated: ἐκερδησῆναι
+    present.act.generated: κερδαίνειν
+    present.mp1.generated: κερδαίνεσθαι
+κεφαλιόω:
+    aorist.act.generated: ἐκεφαλιῶσαι
+    aorist.mp1.generated: ἐκεφαλιώσασθαι
+    aorist.mp2.generated: ἐκεφαλιωσῆναι
+κημόω:
+    present.act.generated: κημοῦν
+    present.mp1.generated: κημοῦσθαι
+κηρύσσω:
+    aorist.act.actual: κηρύξαι
+    aorist.mp1.generated: κηρύξασθαι
+    aorist.mp2.actual: κηρυχθῆναι
+    present.act.actual: κηρύσσειν
+    present.mp1.generated: κηρύσσεσθαι
+κιθαρίζω:
+    present.act.generated: κιθαρίζειν
+    present.mp1.generated: κιθαρίζεσθαι
+κινδυνεύω:
+    present.act.generated: κινδυνεύειν
+    present.mp1.generated: κινδυνεύεσθαι
+κινέω:
+    aorist.act.actual: κινῆσαι
+    aorist.mp1.generated: κινήσασθαι
+    aorist.mp2.generated: ἐκινηθῆναι
+    present.act.generated: κινεῖν
+    present.mp1.generated: κινεῖσθαι
+κλαίω:
+    aorist.act.generated: κλαῦσαι
+    aorist.mp1.generated: κλαύσασθαι
+    aorist.mp2.generated: ἐκλαυσῆναι
+    present.act.actual: κλαίειν
+    present.mp1.generated: κλαίεσθαι
+κλάω:
+    aorist.act.actual: κλάσαι
+    aorist.mp1.generated: κλάσασθαι
+    aorist.mp2.generated: ἐκλασθῆναι
+    present.act.generated: κλᾶν
+    present.mp1.generated: κλᾶσθαι
+κλείω:
+    aorist.act.actual: κλεῖσαι
+    aorist.mp1.generated: κλείσασθαι
+    aorist.mp2.generated: κλεισθῆναι
+    present.act.generated: κλείειν
+    present.mp1.generated: κλείεσθαι
+κλέπτω:
+    aorist.act.generated: κλέψαι
+    aorist.mp1.generated: κλέψασθαι
+    aorist.mp2.generated: ἐκλεψῆναι
+    present.act.actual: κλέπτειν
+    present.mp1.generated: κλέπτεσθαι
+κληρονομέω:
+    aorist.act.actual: κληρονομῆσαι
+    aorist.mp1.generated: κληρονομήσασθαι
+    aorist.mp2.generated: ἐκληρονομησῆναι
+    present.act.actual: κληρονομεῖν
+    present.mp1.generated: κληρονομεῖσθαι
+κληρόω:
+    aorist.mp2.generated: ἐκληρωθῆναι
+κλίνω:
+    aorist.act.generated: κλίναι
+    aorist.mp1.generated: κλίνασθαι
+    aorist.mp2.generated: κλιθῆναι
+    present.act.actual: κλίνειν
+    present.mp1.generated: κλίνεσθαι
+κλυδωνίζομαι:
+    present.act.generated: κλυδωνίζειν
+    present.mp1.generated: κλυδωνίζεσθαι
+κνήθομαι:
+    present.act.generated: κνήθειν
+    present.mp1.generated: κνήθεσθαι
+κοιμάομαι:
+    aorist.mp2.generated: κοιμηθῆναι
+    present.act.generated: κοιμᾶν
+    present.mp1.generated: κοιμᾶσθαι
+κοινόω:
+    aorist.act.actual: κοινῶσαι
+    aorist.mp1.generated: κοινώσασθαι
+    present.act.generated: κοινοῦν
+    present.mp1.generated: κοινοῦσθαι
+κοινωνέω:
+    aorist.act.generated: κοινωνῆσαι
+    aorist.mp1.generated: κοινωνήσασθαι
+    aorist.mp2.generated: ἐκοινωνησῆναι
+    present.act.generated: κοινωνεῖν
+    present.mp1.generated: κοινωνεῖσθαι
+κολάζω:
+    aorist.act.generated: κολάσαι
+    aorist.mp1.generated: κολάσασθαι
+κολαφίζω:
+    aorist.act.generated: ἐκολαφίσαι
+    aorist.mp1.generated: ἐκολαφίσασθαι
+    aorist.mp2.generated: ἐκολαφισῆναι
+    present.act.actual: κολαφίζειν
+    present.mp1.generated: κολαφίζεσθαι
+κολλάομαι:
+    aorist.mp2.generated: κολληθῆναι
+    present.act.generated: κολλᾶν
+    present.mp1.actual: κολλᾶσθαι
+κολοβόω:
+    aorist.act.generated: ἐκολοβῶσαι
+    aorist.mp1.generated: ἐκολοβώσασθαι
+    aorist.mp2.generated: ἐκολοβωθῆναι
+    present.act.generated: κολοβοῦν
+    present.mp1.generated: κολοβοῦσθαι
+κολυμβάω:
+    present.act.actual: κολυμβᾶν
+    present.mp1.generated: κολυμβᾶσθαι
+κομίζω:
+    aorist.act.generated: κομίσαι
+    aorist.mp1.generated: κομίσασθαι
+    aorist.mp2.generated: ἐκομισῆναι
+    present.act.generated: κομίζειν
+    present.mp1.generated: κομίζεσθαι
+κοπάζω:
+    aorist.act.generated: ἐκοπάσαι
+    aorist.mp1.generated: ἐκοπάσασθαι
+    aorist.mp2.generated: ἐκοπασῆναι
+κοπιάω:
+    aorist.act.generated: κοπιάσαι
+    aorist.mp1.generated: κοπιάσασθαι
+    aorist.mp2.generated: ἐκοπιασῆναι
+    present.act.generated: κοπιᾶν
+    present.mp1.generated: κοπιᾶσθαι
+κόπτω:
+    aorist.act.generated: κόψαι
+    aorist.mp1.generated: κόψασθαι
+    aorist.mp2.generated: ἐκοπῆναι
+    present.act.generated: κόπτειν
+    present.mp1.generated: κόπτεσθαι
+κορέννυμι:
+    aorist.mp2.generated: κορεσθῆναι
+κοσμέω:
+    aorist.act.generated: ἐκοσμῆσαι
+    aorist.mp1.generated: ἐκοσμήσασθαι
+    aorist.mp2.generated: ἐκοσμησῆναι
+    present.act.actual: κοσμεῖν
+    present.mp1.generated: κοσμεῖσθαι
+κουφίζω:
+    present.act.generated: κουφίζειν
+    present.mp1.generated: κουφίζεσθαι
+κράζω:
+    aorist.act.generated: κράξαι
+    aorist.mp1.generated: κράξασθαι
+    aorist.mp2.generated: ἐκραξῆναι
+    present.act.actual: κράζειν
+    present.mp1.generated: κρᾱ́ζεσθαι
+κραταιόομαι:
+    aorist.mp2.actual: κραταιωθῆναι
+    present.act.generated: κραταιοῦν
+    present.mp1.generated: κραταιοῦσθαι
+κρατέω:
+    aorist.act.actual: κρατῆσαι
+    aorist.mp1.generated: κρατήσασθαι
+    aorist.mp2.generated: ἐκρατησῆναι
+    present.act.actual: κρατεῖν
+    present.mp1.actual: κρατεῖσθαι
+κραυγάζω:
+    aorist.act.generated: ἐκραυγάσαι
+    aorist.mp1.generated: ἐκραυγάσασθαι
+    aorist.mp2.generated: ἐκραυγασῆναι
+    present.act.generated: κραυγάζειν
+    present.mp1.generated: κραυγάζεσθαι
+κρεμάννυμι:
+    aorist.act.generated: κρεμάσαι
+    aorist.mp1.generated: κρεμάσασθαι
+    aorist.mp2.generated: κρεμασθῆναι
+    present.act.generated: κρεμαννύναι
+    present.mp1.generated: κρέμασθαι
+κρίνω:
+    aorist.act.actual: κρῖναι
+    aorist.mp1.generated: κρῑ́νασθαι
+    aorist.mp2.actual: κριθῆναι
+    present.act.actual: κρίνειν
+    present.mp1.actual: κρίνεσθαι
+κρούω:
+    aorist.act.generated: κροῦσαι
+    aorist.mp1.generated: κρούσασθαι
+    present.act.actual: κρούειν
+    present.mp1.generated: κρούεσθαι
+κρύπτω:
+    aorist.act.generated: κρύψαι
+    aorist.mp1.generated: κρύψασθαι
+    aorist.mp2.actual: κρυβῆναι
+κρυσταλλίζω:
+    present.act.generated: κρυσταλλίζειν
+    present.mp1.generated: κρυσταλλίζεσθαι
+κτάομαι:
+    aorist.act.generated: κτῆσαι
+    aorist.mp1.generated: κτήσασθαι
+    aorist.mp2.generated: ἐκτησῆναι
+    present.act.generated: κτᾶν
+    present.mp1.actual: κτᾶσθαι
+κτίζω:
+    aorist.act.generated: κτίσαι
+    aorist.mp1.generated: κτίσασθαι
+    aorist.mp2.generated: κτισθῆναι
+κυκλεύω:
+    aorist.act.generated: ἐκυκλεῦσαι
+    aorist.mp1.generated: ἐκυκλεύσασθαι
+    aorist.mp2.generated: ἐκυκλευσῆναι
+κυκλόω:
+    aorist.act.generated: κυκλῶσαι
+    aorist.mp1.generated: κυκλώσασθαι
+    aorist.mp2.generated: κυκλωθῆναι
+    present.act.generated: κυκλοῦν
+    present.mp1.generated: κυκλοῦσθαι
+κυλίομαι:
+    aorist.act.generated: ἐκυλίσαι
+    aorist.mp1.generated: ἐκυλίσασθαι
+    aorist.mp2.generated: ἐκυλισῆναι
+    present.act.generated: κυλίειν
+    present.mp1.generated: κυλίεσθαι
+κύπτω:
+    aorist.act.generated: κύψαι
+    aorist.mp1.generated: κύψασθαι
+    aorist.mp2.generated: ἐκυψῆναι
+κυριεύω:
+    aorist.act.generated: κυριεῦσαι
+    aorist.mp1.generated: κυριεύσασθαι
+    present.act.generated: κυριεύειν
+    present.mp1.generated: κυριεύεσθαι
+κυρόω:
+    aorist.act.actual: κυρῶσαι
+    aorist.mp1.generated: κυρώσασθαι
+κωλύω:
+    aorist.act.actual: κωλῦσαι
+    aorist.mp1.generated: κωλῡ́σασθαι
+    aorist.mp2.generated: κωλυθῆναι
+    present.act.actual: κωλύειν
+    present.mp1.actual: κωλύεσθαι
+λαγχάνω:
+    aorist.act.generated: λαχεῖν
+    aorist.mp1.generated: λαχέσθαι
+    aorist.mp2.generated: ἐλαχ%ῆναι
+λακάω:
+    aorist.act.generated: ἐλακῆσαι
+    aorist.mp1.generated: ἐλακήσασθαι
+    aorist.mp2.generated: ἐλακησῆναι
+λακτίζω:
+    present.act.actual: λακτίζειν
+    present.mp1.generated: λακτίζεσθαι
+λαλέω:
+    aorist.act.actual: λαλῆσαι
+    aorist.mp1.generated: λαλήσασθαι
+    aorist.mp2.actual: λαληθῆναι
+    present.act.actual: λαλεῖν
+    present.mp1.actual: λαλεῖσθαι
+λαμβάνω:
+    aorist.act.actual: λαβεῖν
+    aorist.mp1.generated: λαβέσθαι
+    aorist.mp2.generated: λημφθῆναι
+    present.act.actual: λαμβάνειν
+    present.mp1.generated: λαμβάνεσθαι
+λάμπω:
+    aorist.act.generated: λάμψαι
+    aorist.mp1.generated: λάμψασθαι
+    aorist.mp2.generated: ἐλαμψῆναι
+    present.act.generated: λάμπειν
+    present.mp1.generated: λάμπεσθαι
+λανθάνω:
+    aorist.act.actual: λαθεῖν
+    aorist.mp1.generated: λαθέσθαι
+    aorist.mp2.generated: ἐλαθ%ῆναι
+    present.act.actual: λανθάνειν
+    present.mp1.generated: λανθάνεσθαι
+λατομέω:
+    aorist.act.generated: ἐλατομῆσαι
+    aorist.mp1.generated: ἐλατομήσασθαι
+    aorist.mp2.generated: ἐλατομησῆναι
+λατρεύω:
+    aorist.act.generated: ἐλατρεῦσαι
+    aorist.mp1.generated: ἐλατρεύσασθαι
+    aorist.mp2.generated: ἐλατρευσῆναι
+    present.act.actual: λατρεύειν
+    present.mp1.generated: λατρεύεσθαι
+λέγω:
+    aorist.act.actual: εἰπεῖν
+    aorist.mp1.generated: εἴπασθαι/εἰπέσθαι
+    aorist.mp2.generated: ῥηθῆναι
+    present.act.actual: λέγειν
+    present.mp1.actual: λέγεσθαι
+λείπω:
+    aorist.act.generated: λίπαι
+    aorist.mp1.generated: λίπασθαι
+    aorist.mp2.generated: λειφθῆναι
+    present.act.generated: λείπειν
+    present.mp1.generated: λείπεσθαι
+λειτουργέω:
+    aorist.act.actual: λειτουργῆσαι
+    aorist.mp1.generated: λειτουργήσασθαι
+λευκαίνω:
+    aorist.act.actual: λευκᾶναι
+    aorist.mp1.generated: λευκᾱ́νασθαι
+    aorist.mp2.generated: ἐλευκανῆναι
+λιθάζω:
+    aorist.act.actual: λιθάσαι
+    aorist.mp1.generated: λιθάσασθαι
+    aorist.mp2.generated: λιθασθῆναι
+    present.act.generated: λιθάζειν
+    present.mp1.generated: λιθάζεσθαι
+λιθοβολέω:
+    aorist.act.actual: λιθοβολῆσαι
+    aorist.mp1.generated: λιθοβολήσασθαι
+    aorist.mp2.generated: ἐλιθοβολησῆναι
+    present.act.generated: λιθοβολεῖν
+    present.mp1.generated: λιθοβολεῖσθαι
+λικμάω:
+    present.act.generated: λικμᾶν
+    present.mp1.generated: λικμᾶσθαι
+λογίζομαι:
+    aorist.act.generated: λογίσαι
+    aorist.mp1.actual: λογίσασθαι
+    aorist.mp2.actual: λογισθῆναι
+    present.act.generated: λογίζειν
+    present.mp1.actual: λογίζεσθαι
+λογομαχέω:
+    present.act.actual: λογομαχεῖν
+    present.mp1.generated: λογομαχεῖσθαι
+λοιδορέω:
+    aorist.act.generated: ἐλοιδορῆσαι
+    aorist.mp1.generated: ἐλοιδορήσασθαι
+    aorist.mp2.generated: ἐλοιδορησῆναι
+    present.act.generated: λοιδορεῖν
+    present.mp1.generated: λοιδορεῖσθαι
+λούω:
+    aorist.act.generated: λοῦσαι
+    aorist.mp1.generated: λούσασθαι
+    aorist.mp2.generated: ἐλουσῆναι
+λυμαίνομαι:
+    present.act.generated: λυμαίνειν
+    present.mp1.generated: λυμαίνεσθαι
+λυπέω:
+    aorist.act.generated: ἐλυπῆσαι
+    aorist.mp1.generated: ἐλυπήσασθαι
+    aorist.mp2.actual: λυπηθῆναι
+    present.act.generated: λυπεῖν
+    present.mp1.actual: λυπεῖσθαι
+λυτρόομαι:
+    aorist.act.generated: λυτρῶσαι
+    aorist.mp1.generated: λυτρώσασθαι
+    aorist.mp2.generated: ἐλυτρωθῆναι
+    present.act.generated: λυτροῦν
+    present.mp1.actual: λυτροῦσθαι
+λύω:
+    aorist.act.actual: λῦσαι
+    aorist.mp1.generated: λῡ́σασθαι
+    aorist.mp2.actual: λυθῆναι
+    present.act.generated: λύειν
+    present.mp1.generated: λύεσθαι
+μαγεύω:
+    present.act.generated: μαγεύειν
+    present.mp1.generated: μαγεύεσθαι
+μαθητεύω:
+    aorist.act.generated: μαθητεῦσαι
+    aorist.mp1.generated: μαθητεύσασθαι
+    aorist.mp2.generated: μαθητευθῆναι
+μαίνομαι:
+    present.act.generated: μαίνειν
+    present.mp1.generated: μαίνεσθαι
+μακαρίζω:
+    present.act.generated: μακαρίζειν
+    present.mp1.generated: μακαρίζεσθαι
+μακροθυμέω:
+    aorist.act.generated: μακροθυμῆσαι
+    aorist.mp1.generated: μακροθυμήσασθαι
+    present.act.generated: μακροθυμεῖν
+    present.mp1.generated: μακροθυμεῖσθαι
+μανθάνω:
+    aorist.act.actual: μαθεῖν
+    aorist.mp1.generated: μαθέσθαι
+    aorist.mp2.generated: ἐμαθ%ῆναι
+    present.act.generated: μανθάνειν
+    present.mp1.generated: μανθάνεσθαι
+μαντεύομαι:
+    present.act.generated: μαντεύειν
+    present.mp1.generated: μαντεύεσθαι
+μαραίνομαι:
+    present.act.generated: μαραίνειν
+    present.mp1.generated: μαραίνεσθαι
+μαρτυρέω:
+    aorist.act.actual: μαρτυρῆσαι
+    aorist.mp1.generated: μαρτυρήσασθαι
+    aorist.mp2.generated: μαρτυρηθῆναι
+    present.act.actual: μαρτυρεῖν
+    present.mp1.generated: μαρτυρεῖσθαι
+μαρτύρομαι:
+    aorist.act.generated: μαρτύραι
+    aorist.mp1.generated: μαρτύρασθαι
+    aorist.mp2.generated: ἐμαρτυρῆναι
+    present.act.generated: μαρτύρειν
+    present.mp1.generated: μαρτύρεσθαι
+μασάομαι:
+    present.act.generated: μασᾶν
+    present.mp1.generated: μασᾶσθαι
+μαστιγόω:
+    aorist.act.actual: μαστιγῶσαι
+    aorist.mp1.generated: μαστιγώσασθαι
+    aorist.mp2.generated: ἐμαστιγωσῆναι
+    present.act.generated: μαστιγοῦν
+    present.mp1.generated: μαστιγοῦσθαι
+μαστίζω:
+    present.act.actual: μαστίζειν
+    present.mp1.generated: μαστίζεσθαι
+ματαιόομαι:
+    aorist.mp2.generated: ἐματαιωθῆναι
+μάχομαι:
+    aorist.act.generated: μαχέσαι
+    aorist.mp1.generated: μαχέσασθαι
+    present.act.generated: μάχειν
+    present.mp1.actual: μάχεσθαι
+μεγαλύνω:
+    aorist.act.generated: ἐμεγαλύναι
+    aorist.mp1.generated: ἐμεγαλύνασθαι
+    aorist.mp2.actual: μεγαλυνθῆναι
+    present.act.generated: μεγαλύνειν
+    present.mp1.generated: μεγαλύνεσθαι
+μεθίστημι:
+    present.act.actual: μεθιστάναι
+μεθύσκομαι:
+    present.act.generated: μεθύσκειν
+    present.mp1.actual: μεθύσκεσθαι
+μεθύω:
+    aorist.mp2.generated: μεθυσθῆναι
+    present.act.generated: μεθύειν
+    present.mp1.generated: μεθύεσθαι
+μέλει:
+    present.act.generated: μέλειν
+    present.mp1.generated: μέλεσθαι
+μελετάω:
+    aorist.act.generated: ἐμελετῆσαι
+    aorist.mp1.generated: ἐμελετήσασθαι
+    aorist.mp2.generated: ἐμελετησῆναι
+    present.act.generated: μελετᾶν
+    present.mp1.generated: μελετᾶσθαι
+μέλλω:
+    aorist.act.generated: μελλῆσαι
+    aorist.mp1.generated: μελλήσασθαι
+    present.act.actual: μέλλειν
+    present.mp1.generated: μέλλεσθαι
+μέμφομαι:
+    present.act.generated: μέμφειν
+    present.mp1.generated: μέμφεσθαι
+μένω:
+    aorist.act.actual: μεῖναι
+    aorist.mp1.generated: μείνασθαι
+    aorist.mp2.generated: ἐμεινῆναι
+    present.act.actual: μένειν
+    present.mp1.generated: μένεσθαι
+μερίζω:
+    aorist.act.generated: μερίσαι
+    aorist.mp1.actual: μερίσασθαι
+    aorist.mp2.generated: μερισθῆναι
+    present.act.generated: μερίζειν
+    present.mp1.generated: μερίζεσθαι
+μεριμνάω:
+    aorist.act.generated: μεριμνῆσαι
+    aorist.mp1.generated: μεριμνήσασθαι
+    present.act.generated: μεριμνᾶν
+    present.mp1.generated: μεριμνᾶσθαι
+μεσιτεύω:
+    aorist.act.generated: ἐμεσιτεῦσαι
+    aorist.mp1.generated: ἐμεσιτεύσασθαι
+    aorist.mp2.generated: ἐμεσιτευσῆναι
+μεσόω:
+    present.act.generated: μεσοῦν
+    present.mp1.generated: μεσοῦσθαι
+μεστόω:
+    present.act.generated: μεστοῦν
+    present.mp1.generated: μεστοῦσθαι
+μεταβάλλομαι:
+    aorist.act.generated: μεταβαλεῖν
+    aorist.mp1.generated: μεταβαλέσθαι
+μεταδίδωμι:
+    aorist.act.actual: μεταδοῦναι
+    present.act.actual: μεταδιδόναι
+μετακινέω:
+    present.act.generated: μετακινεῖν
+    present.mp1.generated: μετακινεῖσθαι
+μεταλαμβάνω:
+    aorist.act.actual: μεταλαβεῖν
+    present.act.actual: μεταλαμβάνειν
+μεταμέλομαι:
+    aorist.mp2.generated: μεταμεληθῆναι
+    present.act.generated: μεταμέλειν
+    present.mp1.generated: μεταμέλεσθαι
+μετανοέω:
+    aorist.act.actual: μετανοῆσαι
+    present.act.actual: μετανοεῖν
+μεταπέμπομαι:
+    aorist.mp1.actual: μεταπέμψασθαι
+μεταστρέφω:
+    aorist.act.actual: μεταστρέψαι
+μετέχω:
+    present.act.actual: μετέχειν
+μετρέω:
+    aorist.act.generated: μετρῆσαι
+    aorist.mp1.generated: μετρήσασθαι
+    aorist.mp2.generated: ἐμετρησῆναι
+    present.act.generated: μετρεῖν
+    present.mp1.generated: μετρεῖσθαι
+μετριοπαθέω:
+    present.act.actual: μετριοπαθεῖν
+    present.mp1.generated: μετριοπαθεῖσθαι
+μηνύω:
+    aorist.act.generated: μηνύσαι
+    aorist.mp1.generated: μηνύσασθαι
+    aorist.mp2.generated: μηνυθῆναι
+μιαίνω:
+    aorist.mp2.generated: μιανθῆναι
+    present.act.generated: μιαίνειν
+    present.mp1.generated: μιαίνεσθαι
+μίγνυμι:
+    aorist.act.generated: ἐμίξαι
+    aorist.mp1.generated: ἐμίξασθαι
+    aorist.mp2.generated: ἐμιξῆναι
+μιμέομαι:
+    present.act.generated: μιμεῖν
+    present.mp1.actual: μιμεῖσθαι
+μιμνῄσκομαι:
+    aorist.act.generated: μνῆσαι
+    aorist.mp1.generated: μνήσασθαι
+    aorist.mp2.actual: μνησθῆναι
+    present.act.generated: μιμνῄσκειν
+    present.mp1.generated: μιμνῄσκεσθαι
+μισέω:
+    aorist.act.generated: μισῆσαι
+    aorist.mp1.generated: μισήσασθαι
+    aorist.mp2.generated: ἐμισησῆναι
+    present.act.actual: μισεῖν
+    present.mp1.generated: μισεῖσθαι
+μισθόομαι:
+    aorist.act.generated: μισθῶσαι
+    aorist.mp1.actual: μισθώσασθαι
+    aorist.mp2.generated: ἐμισθωσῆναι
+μνημονεύω:
+    aorist.act.generated: ἐμνημονεῦσαι
+    aorist.mp1.generated: ἐμνημονεύσασθαι
+    aorist.mp2.generated: ἐμνημονευσῆναι
+    present.act.actual: μνημονεύειν
+    present.mp1.generated: μνημονεύεσθαι
+μνηστεύομαι:
+    aorist.mp2.generated: μνηστευθῆναι
+μοιχάομαι:
+    present.act.generated: μοιχᾶν
+    present.mp1.generated: μοιχᾶσθαι
+μοιχεύω:
+    aorist.act.generated: μοιχεῦσαι
+    aorist.mp1.generated: μοιχεύσασθαι
+    aorist.mp2.actual: μοιχευθῆναι
+    present.act.actual: μοιχεύειν
+    present.mp1.generated: μοιχεύεσθαι
+μολύνω:
+    aorist.act.generated: ἐμολύναι
+    aorist.mp1.generated: ἐμολύνασθαι
+    aorist.mp2.generated: ἐμολυνθῆναι
+    present.act.generated: μολύνειν
+    present.mp1.generated: μολύνεσθαι
+μοσχοποιέω:
+    aorist.act.generated: ἐμοσχοποιῆσαι
+    aorist.mp1.generated: ἐμοσχοποιήσασθαι
+    aorist.mp2.generated: ἐμοσχοποιησῆναι
+μυκάομαι:
+    present.act.generated: μυκᾶν
+    present.mp1.generated: μυκᾶσθαι
+μυκτηρίζω:
+    present.act.generated: μυκτηρίζειν
+    present.mp1.generated: μυκτηρίζεσθαι
+μυρίζω:
+    aorist.act.actual: μυρίσαι
+    aorist.mp1.generated: μυρίσασθαι
+μυωπάζω:
+    present.act.generated: μυωπάζειν
+    present.mp1.generated: μυωπάζεσθαι
+μωραίνω:
+    aorist.act.generated: ἐμωράναι
+    aorist.mp1.generated: ἐμωράνασθαι
+    aorist.mp2.generated: μωρανθῆναι
+ναυαγέω:
+    aorist.act.generated: ἐναυαγῆσαι
+    aorist.mp1.generated: ἐναυαγήσασθαι
+    aorist.mp2.generated: ἐναυαγησῆναι
+νεκρόω:
+    aorist.act.generated: νεκρῶσαι
+    aorist.mp1.generated: νεκρώσασθαι
+νεύω:
+    aorist.act.generated: νεῦσαι
+    aorist.mp1.generated: νεύσασθαι
+    aorist.mp2.generated: ἐνευσῆναι
+    present.act.generated: νεύειν
+    present.mp1.generated: νεύεσθαι
+νήθω:
+    present.act.generated: νήθειν
+    present.mp1.generated: νήθεσθαι
+νηστεύω:
+    aorist.act.actual: νηστεῦσαι
+    aorist.mp1.generated: νηστεύσασθαι
+    present.act.actual: νηστεύειν
+    present.mp1.generated: νηστεύεσθαι
+νήφω:
+    aorist.act.generated: νῆψαι
+    aorist.mp1.generated: νήψασθαι
+    present.act.generated: νήφειν
+    present.mp1.generated: νήφεσθαι
+νικάω:
+    aorist.act.actual: νικῆσαι
+    aorist.mp1.generated: νικήσασθαι
+    aorist.mp2.generated: ἐνικησῆναι
+    present.act.generated: νικᾶν
+    present.mp1.generated: νικᾶσθαι
+νίπτω:
+    aorist.act.generated: νίψαι
+    aorist.mp1.actual: νίψασθαι
+    aorist.mp2.generated: ἐνιψῆναι
+    present.act.actual: νίπτειν
+    present.mp1.generated: νίπτεσθαι
+νοέω:
+    aorist.act.actual: νοῆσαι
+    aorist.mp1.generated: νοήσασθαι
+    aorist.mp2.generated: ἐνοησῆναι
+    present.act.generated: νοεῖν
+    present.mp1.generated: νοεῖσθαι
+νομίζω:
+    aorist.act.generated: νομίσαι
+    aorist.mp1.generated: νομίσασθαι
+    aorist.mp2.generated: ἐνομισῆναι
+    present.act.actual: νομίζειν
+    present.mp1.generated: νομίζεσθαι
+νοσέω:
+    present.act.generated: νοσεῖν
+    present.mp1.generated: νοσεῖσθαι
+νοσφίζομαι:
+    aorist.act.generated: νοσφίσαι
+    aorist.mp1.actual: νοσφίσασθαι
+    aorist.mp2.generated: ἐνοσφισῆναι
+νουθετέω:
+    present.act.actual: νουθετεῖν
+    present.mp1.generated: νουθετεῖσθαι
+νύσσω:
+    aorist.act.generated: ἐνύξαι
+    aorist.mp1.generated: ἐνύξασθαι
+    aorist.mp2.generated: ἐνυγῆναι
+νυστάζω:
+    aorist.act.generated: ἐνυστάξαι
+    aorist.mp1.generated: ἐνυστάξασθαι
+    aorist.mp2.generated: ἐνυσταξῆναι
+    present.act.generated: νυστάζειν
+    present.mp1.generated: νυστάζεσθαι
+ξενίζω:
+    aorist.act.generated: ξενίσαι
+    aorist.mp1.generated: ξενίσασθαι
+    aorist.mp2.generated: ξενισθῆναι
+    present.act.generated: ξενίζειν
+    present.mp1.generated: ξενίζεσθαι
+ξενοδοχέω:
+    aorist.act.generated: ἐξενοδοχῆσαι
+    aorist.mp1.generated: ἐξενοδοχήσασθαι
+    aorist.mp2.generated: ἐξενοδοχησῆναι
+ξηραίνω:
+    aorist.act.generated: ἐξηράναι
+    aorist.mp1.generated: ἐξηράνασθαι
+    aorist.mp2.generated: ἐξηρανθῆναι
+    present.act.generated: ξηραίνειν
+    present.mp1.generated: ξηραίνεσθαι
+ξυράομαι:
+    aorist.act.generated: ξυράαι
+    aorist.mp1.actual: ξυρᾶσθαι
+    present.act.generated: ξυρᾶν
+    present.mp1.generated: ξυρᾶσθαι
+ὁδεύω:
+    present.act.generated: ὁδεύειν
+    present.mp1.generated: ὁδεύεσθαι
+ὁδηγέω:
+    present.act.actual: ὁδηγεῖν
+    present.mp1.generated: ὁδηγεῖσθαι
+ὁδοιπορέω:
+    present.act.generated: ὁδοιπορεῖν
+    present.mp1.generated: ὁδοιπορεῖσθαι
+ὀδυνάομαι:
+    present.act.generated: ὀδυνᾶν
+    present.mp1.generated: ὀδυνᾶσθαι
+ὄζω:
+    present.act.generated: ὄζειν
+    present.mp1.generated: ὄζεσθαι
+οἰκέω:
+    aorist.act.generated: οἰκῆσαι
+    aorist.mp1.generated: οἰκήσασθαι
+    aorist.mp2.generated: ᾠκησῆναι
+    present.act.actual: οἰκεῖν
+    present.mp1.generated: οἰκεῖσθαι
+οἰκοδεσποτέω:
+    present.act.actual: οἰκοδεσποτεῖν
+    present.mp1.generated: οἰκοδεσποτεῖσθαι
+οἰκοδομέω:
+    aorist.act.actual: οἰκοδομῆσαι
+    aorist.mp1.generated: οἰκοδομήσασθαι
+    aorist.mp2.generated: οἰκοδομηθῆναι
+    present.act.actual: οἰκοδομεῖν
+    present.mp1.generated: οἰκοδομεῖσθαι
+οἰκονομέω:
+    present.act.actual: οἰκονομεῖν
+    present.mp1.generated: οἰκονομεῖσθαι
+οἰκτίρω:
+    present.act.generated: οἰκτίρειν
+    present.mp1.generated: οἰκτίρεσθαι
+οἶμαι:
+    present.act.generated: οἶναι
+    present.mp1.generated: οἶσθαι
+ὀλοθρεύω:
+    present.act.generated: ὀλοθρεύειν
+    present.mp1.generated: ὀλοθρεύεσθαι
+ὀλολύζω:
+    present.act.generated: ὀλολύζειν
+    present.mp1.generated: ὀλολύζεσθαι
+ὁμείρομαι:
+    present.act.generated: ὁμείρειν
+    present.mp1.generated: ὁμείρεσθαι
+ὁμιλέω:
+    aorist.act.generated: ὁμιλῆσαι
+    aorist.mp1.generated: ὁμιλήσασθαι
+    present.act.actual: ὁμιλεῖν
+    present.mp1.generated: ὁμιλεῖσθαι
+ὀμνύω:
+    aorist.act.actual: ὀμόσαι
+    aorist.mp1.generated: ὀμόσασθαι
+    aorist.mp2.generated: ὠμοσῆναι
+    present.act.actual: ὀμνύειν/ὀμνύναι
+    present.mp1.generated: ὀμνύεσθαι
+ὁμοιάζω:
+    present.act.generated: ὁμοιάζειν
+    present.mp1.generated: ὁμοιάζεσθαι
+ὁμοιόω:
+    aorist.act.generated: ὁμοιῶσαι
+    aorist.mp1.generated: ὁμοιώσασθαι
+    aorist.mp2.actual: ὁμοιωθῆναι
+    present.act.generated: ὁμοιοῦν
+    present.mp1.generated: ὁμοιοῦσθαι
+ὁμολογέω:
+    aorist.act.generated: ὁμολογῆσαι
+    aorist.mp1.generated: ὁμολογήσασθαι
+    aorist.mp2.generated: ὡμολογησῆναι
+    present.act.generated: ὁμολογεῖν
+    present.mp1.generated: ὁμολογεῖσθαι
+ὀνειδίζω:
+    aorist.act.generated: ὀνειδίσαι
+    aorist.mp1.generated: ὀνειδίσασθαι
+    aorist.mp2.generated: ὠνειδισῆναι
+    present.act.actual: ὀνειδίζειν
+    present.mp1.generated: ὀνειδίζεσθαι
+ὀνομάζω:
+    aorist.act.generated: ὠνομάσαι
+    aorist.mp1.generated: ὠνομάσασθαι
+    aorist.mp2.generated: ὠνομασθῆναι
+    present.act.actual: ὀνομάζειν
+    present.mp1.generated: ὀνομάζεσθαι
+ὀπτάνομαι:
+    present.act.generated: ὀπτάνειν
+    present.mp1.generated: ὀπτάνεσθαι
+ὁράω:
+    aorist.act.actual: ἰδεῖν
+    aorist.mp1.generated: ἰδέσθαι
+    aorist.mp2.generated: ὀφθῆναι
+    present.act.generated: ὁρᾶν
+    present.mp1.generated: ὁρᾶσθαι
+ὀργίζομαι:
+    aorist.mp2.generated: ὀργισθῆναι
+    present.act.generated: ὀργίζειν
+    present.mp1.generated: ὀργίζεσθαι
+ὀρέγομαι:
+    present.act.generated: ὀρέγειν
+    present.mp1.generated: ὀρέγεσθαι
+ὀρθοποδέω:
+    present.act.generated: ὀρθοποδεῖν
+    present.mp1.generated: ὀρθοποδεῖσθαι
+ὀρθοτομέω:
+    present.act.generated: ὀρθοτομεῖν
+    present.mp1.generated: ὀρθοτομεῖσθαι
+ὀρθρίζω:
+    present.act.generated: ὀρθρίζειν
+    present.mp1.generated: ὀρθρίζεσθαι
+ὁρίζω:
+    aorist.act.generated: ὁρίσαι
+    aorist.mp1.generated: ὁρίσασθαι
+    aorist.mp2.generated: ὁρισθῆναι
+    present.act.generated: ὁρίζειν
+    present.mp1.generated: ὁρίζεσθαι
+ὁρκίζω:
+    present.act.generated: ὁρκίζειν
+    present.mp1.generated: ὁρκίζεσθαι
+ὁρμάω:
+    aorist.act.generated: ὡρμῆσαι
+    aorist.mp1.generated: ὡρμήσασθαι
+    aorist.mp2.generated: ὡρμησῆναι
+ὀρύσσω:
+    aorist.act.generated: ὠρύξαι
+    aorist.mp1.generated: ὠρύξασθαι
+    aorist.mp2.generated: ὀρυχθῆναι
+    present.act.generated: ὀρύσσειν
+    present.mp1.generated: ὀρύσσεσθαι
+ὀρχέομαι:
+    aorist.act.generated: ὀρχῆσαι
+    aorist.mp1.generated: ὀρχήσασθαι
+    aorist.mp2.generated: ὠρχησῆναι
+ὀφείλω:
+    present.act.generated: ὀφείλειν
+    present.mp1.generated: ὀφείλεσθαι
+ὀχλέομαι:
+    present.act.generated: ὀχλεῖν
+    present.mp1.generated: ὀχλεῖσθαι
+ὀχλοποιέω:
+    aorist.act.generated: ὀχλοποιῆσαι
+    aorist.mp1.generated: ὀχλοποιήσασθαι
+παιδεύω:
+    aorist.mp2.generated: παιδευθῆναι
+    present.act.generated: παιδεύειν
+    present.mp1.generated: παιδεύεσθαι
+παίζω:
+    aorist.act.generated: παῖξαι
+    aorist.mp1.generated: παίξασθαι
+    aorist.mp2.generated: ἐπαιχθῆναι
+    present.act.actual: παίζειν
+    present.mp1.generated: παίζεσθαι
+παίω:
+    aorist.act.generated: παῖσαι
+    aorist.mp1.generated: παίσασθαι
+    aorist.mp2.generated: ἐπαισῆναι
+παλαιόω:
+    present.act.generated: παλαιοῦν
+    present.mp1.generated: παλαιοῦσθαι
+παραβολεύομαι:
+    aorist.act.generated: παραβολεῦσαι
+    aorist.mp1.generated: παραβολεύσασθαι
+παραγγέλλω:
+    present.act.actual: παραγγέλλειν
+παραδειγματίζω:
+    present.act.generated: παραδειγματίζειν
+    present.mp1.generated: παραδειγματίζεσθαι
+παραδέχομαι:
+    present.mp1.actual: παραδέχεσθαι
+παραδίδωμι:
+    aorist.act.actual: παραδοῦναι
+    aorist.mp2.actual: παραδοθῆναι
+    present.act.actual: παραδιδόναι
+    present.mp1.actual: παραδίδοσθαι
+παραζηλόω:
+    aorist.act.actual: παραζηλῶσαι
+παραιτέομαι:
+    present.mp1.actual: παραιτεῖσθαι
+παρακαθέζομαι:
+    aorist.mp2.generated: παρακαθεσθῆναι
+παρακαλέω:
+    aorist.act.actual: παρακαλέσαι
+    aorist.mp2.actual: παρακληθῆναι
+    present.act.actual: παρακαλεῖν
+παρακύπτω:
+    aorist.act.actual: παρακύψαι
+παραλαμβάνω:
+    aorist.act.actual: παραλαβεῖν
+παραλύομαι:
+    present.act.generated: παραλύειν
+    present.mp1.generated: παραλύεσθαι
+παραμένω:
+    present.act.actual: παραμένειν
+παραμυθέομαι:
+    aorist.act.generated: παραμυθῆσαι
+    aorist.mp1.generated: παραμυθήσασθαι
+    present.act.generated: παραμυθεῖν
+    present.mp1.generated: παραμυθεῖσθαι
+παρανομέω:
+    present.act.generated: παρανομεῖν
+    present.mp1.generated: παρανομεῖσθαι
+παραπίπτω:
+    aorist.act.generated: παραπεσεῖν
+    aorist.mp1.generated: παραπεσέσθαι
+παραπλέω:
+    aorist.act.actual: παραπλεῦσαι
+παραπορεύομαι:
+    present.mp1.actual: παραπορεύεσθαι
+παρατίθημι:
+    aorist.act.actual: παραθεῖναι
+    present.act.actual: παρατιθέναι
+παρατυγχάνω:
+    present.act.generated: παρατυγχάνειν
+    present.mp1.generated: παρατυγχάνεσθαι
+παραφρονέω:
+    present.act.generated: παραφρονεῖν
+    present.mp1.generated: παραφρονεῖσθαι
+παραχειμάζω:
+    aorist.act.actual: παραχειμάσαι
+    aorist.mp1.generated: παραχειμάσασθαι
+    present.act.generated: παραχειμάζειν
+    present.mp1.generated: παραχειμάζεσθαι
+παρεδρεύω:
+    present.act.generated: παρεδρεύειν
+    present.mp1.generated: παρεδρεύεσθαι
+πάρειμι:
+    aorist.act.actual: παρεῖναι
+    present.act.actual: παρεῖναι
+    present.mp1.generated: πάρεσσθαι
+παρεισφέρω:
+    aorist.act.generated: παρεισενέγκαι
+    aorist.mp1.generated: παρεισενέγκασθαι
+παρενοχλέω:
+    present.act.actual: παρενοχλεῖν
+παρέρχομαι:
+    aorist.act.actual: παρελθεῖν
+παρέχω:
+    present.act.actual: παρέχειν
+    present.mp1.generated: παρέχεσθαι
+παρίστημι:
+    aorist.act.actual: παραστῆναι/παραστῆσαι
+    aorist.mp1.generated: παράστασθαι/παραστήσασθαι
+    aorist.mp2.generated: παρεστα!ῆναι/παρεστησῆναι
+    present.act.generated: παριστάνειν
+    present.mp1.generated: παριστάνεσθαι
+παροξύνομαι:
+    present.act.generated: παροξύνειν
+    present.mp1.generated: παροξύνεσθαι
+παροτρύνω:
+    aorist.act.generated: παρωτρύναι
+    aorist.mp1.generated: παρωτρύνασθαι
+    aorist.mp2.generated: παρωτρυνῆναι
+παρρησιάζομαι:
+    aorist.act.generated: παρρησιάσαι
+    aorist.mp1.generated: παρρησιάσασθαι
+    aorist.mp2.generated: ἐπαρρησιασῆναι
+    present.act.generated: παρρησιάζειν
+    present.mp1.actual: παρρησιάζεσθαι
+πάσχω:
+    aorist.act.actual: παθεῖν
+    aorist.mp1.generated: παθέσθαι
+    aorist.mp2.generated: ἐπαθ%ῆναι
+    present.act.actual: πάσχειν
+    present.mp1.generated: πάσχεσθαι
+πατάσσω:
+    aorist.act.actual: πατάξαι
+    aorist.mp1.generated: πατάξασθαι
+    aorist.mp2.generated: ἐπαταξῆναι
+    present.act.generated: πατάσσειν
+    present.mp1.generated: πατάσσεσθαι
+πατέω:
+    aorist.act.generated: πατῆσαι
+    aorist.mp1.generated: πατήσασθαι
+    aorist.mp2.generated: ἐπατηθῆναι
+    present.act.actual: πατεῖν
+    present.mp1.generated: πατεῖσθαι
+παύω:
+    aorist.act.generated: παῦσαι
+    aorist.mp1.actual: παύσασθαι
+    aorist.mp2.generated: ἐπαυσῆναι
+    present.act.generated: παύειν
+    present.mp1.generated: παύεσθαι
+παχύνομαι:
+    aorist.mp2.generated: ἐπαχυνθῆναι
+πεζεύω:
+    present.act.actual: πεζεύειν
+    present.mp1.generated: πεζεύεσθαι
+πειθαρχέω:
+    present.act.actual: πειθαρχεῖν
+    present.mp1.generated: πειθαρχεῖσθαι
+πείθω:
+    aorist.act.generated: πεῖσαι
+    aorist.mp1.generated: πείσασθαι
+    aorist.mp2.generated: πεισθῆναι
+    present.act.generated: πείθειν
+    present.mp1.actual: πείθεσθαι
+πεινάω:
+    aorist.act.generated: πεινάσαι
+    aorist.mp1.generated: πεινάσασθαι
+    aorist.mp2.generated: ἐπεινασῆναι
+    present.act.actual: πεινᾶν
+    present.mp1.generated: πεινᾶσθαι
+πειράζω:
+    aorist.act.actual: πειράσαι
+    aorist.mp1.generated: πειράσασθαι
+    aorist.mp2.actual: πειρασθῆναι
+    present.act.generated: πειράζειν
+    present.mp1.generated: πειράζεσθαι
+πειράω:
+    present.act.generated: πειρᾶν
+    present.mp1.generated: πειρᾶσθαι
+πέμπω:
+    aorist.act.actual: πέμψαι
+    aorist.mp1.generated: πέμψασθαι
+    aorist.mp2.generated: πεμφθῆναι
+    present.act.actual: πέμπειν
+    present.mp1.generated: πέμπεσθαι
+πενθέω:
+    aorist.act.generated: πενθῆσαι
+    aorist.mp1.generated: πενθήσασθαι
+    aorist.mp2.generated: ἐπενθησῆναι
+    present.act.actual: πενθεῖν
+    present.mp1.generated: πενθεῖσθαι
+περιάγω:
+    present.act.actual: περιάγειν
+περιαιρέω:
+    aorist.act.actual: περιελεῖν
+περιάπτω:
+    aorist.act.generated: περιάψαι
+    aorist.mp1.generated: περιάψασθαι
+περιαστράπτω:
+    aorist.act.actual: περιαστράψαι
+    aorist.mp1.generated: περιαστράψασθαι
+    aorist.mp2.generated: περιηστραψῆναι
+περιεργάζομαι:
+    present.act.generated: περιεργάζειν
+    present.mp1.generated: περιεργάζεσθαι
+περικαλύπτω:
+    present.act.actual: περικαλύπτειν
+περικρύβω:
+    present.act.generated: περικρύβειν
+    present.mp1.generated: περικρύβεσθαι
+περιλείπομαι:
+    present.act.generated: περιλείπειν
+    present.mp1.generated: περιλείπεσθαι
+περιμένω:
+    present.act.actual: περιμένειν
+περιοικέω:
+    present.act.generated: περιοικεῖν
+    present.mp1.generated: περιοικεῖσθαι
+περιπατέω:
+    aorist.act.actual: περιπατῆσαι
+    present.act.actual: περιπατεῖν
+περιπείρω:
+    aorist.act.generated: περιεπεῖραι
+    aorist.mp1.generated: περιεπείρασθαι
+    aorist.mp2.generated: περιεπειρῆναι
+περιποιέομαι:
+    aorist.mp1.actual: περιποιήσασθαι
+περιρήγνυμι:
+    aorist.act.generated: περιρῆξαι
+    aorist.mp1.generated: περιρήξασθαι
+περισσεύω:
+    aorist.act.actual: περισσεῦσαι
+    aorist.mp1.generated: περισσεύσασθαι
+    aorist.mp2.generated: ἐπερισσευσῆναι
+    present.act.actual: περισσεύειν
+    present.mp1.generated: περισσεύεσθαι
+περιτέμνω:
+    aorist.act.actual: περιτεμεῖν
+    aorist.mp1.generated: περιτεμέσθαι
+    aorist.mp2.actual: περιτμηθῆναι
+    present.act.actual: περιτέμνειν
+    present.mp1.actual: περιτέμνεσθαι
+περιφέρω:
+    present.act.actual: περιφέρειν
+περπερεύομαι:
+    present.act.generated: περπερεύειν
+    present.mp1.generated: περπερεύεσθαι
+πέτομαι:
+    present.act.generated: πέτειν
+    present.mp1.generated: πέτεσθαι
+πήγνυμι:
+    aorist.act.generated: ἐπῆξαι
+    aorist.mp1.generated: ἐπήξασθαι
+    aorist.mp2.generated: ἐπηξῆναι
+πιάζω:
+    aorist.act.actual: πιάσαι
+    aorist.mp1.generated: πιάσασθαι
+    aorist.mp2.generated: ἐπιασθῆναι
+πικραίνω:
+    aorist.act.generated: ἐπικράναι
+    aorist.mp1.generated: ἐπικράνασθαι
+    aorist.mp2.generated: ἐπικρανθῆναι
+    present.act.generated: πικραίνειν
+    present.mp1.generated: πικραίνεσθαι
+πίμπλημι:
+    aorist.act.generated: πλῆσαι
+    aorist.mp1.generated: πλήσασθαι
+    aorist.mp2.actual: πλησθῆναι
+πίμπρημι:
+    aorist.act.generated: ἐπρῆσαι
+    aorist.mp1.generated: ἐπρήσασθαι
+    aorist.mp2.generated: ἐπρησῆναι
+    present.act.generated: πιμπράναι
+    present.mp1.actual: πίμπρασθαι
+πίνω:
+    aorist.act.actual: πεῖν/πιεῖν
+    aorist.mp1.generated: πιέσθαι
+    aorist.mp2.generated: ποθῆναι
+    present.act.actual: πίνειν
+    present.mp1.generated: πίνεσθαι
+πιπράσκω:
+    aorist.mp2.actual: πραθῆναι
+    present.act.generated: πιπράσκειν
+    present.mp1.generated: πιπράσκεσθαι
+πίπτω:
+    aorist.act.actual: πεσεῖν
+    aorist.mp1.generated: πεσέσθαι
+    aorist.mp2.generated: ἐπεσῆναι
+    present.act.generated: πίπτειν
+    present.mp1.generated: πίπτεσθαι
+πιστεύω:
+    aorist.act.actual: πιστεῦσαι
+    aorist.mp1.generated: πιστεύσασθαι
+    aorist.mp2.actual: πιστευθῆναι
+    present.act.actual: πιστεύειν
+    present.mp1.generated: πιστεύεσθαι
+πιστόομαι:
+    aorist.mp2.generated: ἐπιστωθῆναι
+πλανάω:
+    aorist.act.actual: πλανῆσαι
+    aorist.mp1.generated: πλανήσασθαι
+    aorist.mp2.generated: πλανηθῆναι
+    present.act.generated: πλανᾶν
+    present.mp1.generated: πλανᾶσθαι
+πλάσσω:
+    aorist.act.generated: πλάσαι
+    aorist.mp1.generated: πλάσασθαι
+    aorist.mp2.generated: ἐπλασθῆναι
+πλατύνω:
+    aorist.mp2.generated: πλατυνθῆναι
+    present.act.generated: πλατύνειν
+    present.mp1.generated: πλατύνεσθαι
+πλέκω:
+    aorist.act.generated: πλέξαι
+    aorist.mp1.generated: πλέξασθαι
+πλεονάζω:
+    aorist.act.generated: πλεονάσαι
+    aorist.mp1.generated: πλεονάσασθαι
+    aorist.mp2.generated: ἐπλεονασῆναι
+    present.act.generated: πλεονάζειν
+    present.mp1.generated: πλεονάζεσθαι
+πλεονεκτέω:
+    aorist.act.generated: ἐπλεονεκτῆσαι
+    aorist.mp1.generated: ἐπλεονεκτήσασθαι
+    aorist.mp2.generated: πλεονεκτηθῆναι
+    present.act.actual: πλεονεκτεῖν
+    present.mp1.generated: πλεονεκτεῖσθαι
+πλέω:
+    aorist.act.generated: πλεῦσαι
+    aorist.mp1.generated: πλεύσασθαι
+    aorist.mp2.generated: ἐπλευσῆναι
+    present.act.actual: πλεῖν
+    present.mp1.generated: πλεῖσθαι
+πληθύνω:
+    aorist.mp2.actual: πληθυνθῆναι
+    present.act.generated: πληθύνειν
+    present.mp1.generated: πληθύνεσθαι
+πληροφορέω:
+    aorist.act.generated: πληροφορῆσαι
+    aorist.mp1.generated: πληροφορήσασθαι
+    aorist.mp2.generated: πληροφορηθῆναι
+    present.act.generated: πληροφορεῖν
+    present.mp1.generated: πληροφορεῖσθαι
+πληρόω:
+    aorist.act.actual: πληρῶσαι
+    aorist.mp1.generated: πληρώσασθαι
+    aorist.mp2.actual: πληρωθῆναι
+    present.act.actual: πληροῦν
+    present.mp1.generated: πληροῦσθαι
+πλήσσω:
+    aorist.act.generated: πλῆξαι
+    aorist.mp1.generated: πλήξασθαι
+    aorist.mp2.generated: ἐπλαγῆναι/ἐπληγῆναι
+    present.act.generated: πλήσσειν
+    present.mp1.generated: πλήσσεσθαι
+πλουτέω:
+    aorist.act.generated: πλουτῆσαι
+    aorist.mp1.generated: πλουτήσασθαι
+    aorist.mp2.generated: ἐπλουτησῆναι
+    present.act.actual: πλουτεῖν
+    present.mp1.generated: πλουτεῖσθαι
+πλουτίζω:
+    aorist.mp2.generated: ἐπλουτισθῆναι
+πλύνω:
+    aorist.act.generated: ἐπλύναι
+    aorist.mp1.generated: ἐπλύνασθαι
+    aorist.mp2.generated: ἐπλυνῆναι
+    present.act.generated: πλύνειν
+    present.mp1.generated: πλύνεσθαι
+πνέω:
+    aorist.act.generated: ἐπνεῦσαι
+    aorist.mp1.generated: ἐπνεύσασθαι
+    aorist.mp2.generated: ἐπνευσῆναι
+    present.act.generated: πνεῖν
+    present.mp1.generated: πνεῖσθαι
+πνίγω:
+    aorist.act.generated: ἐπνίξαι
+    aorist.mp1.generated: ἐπνίξασθαι
+    aorist.mp2.generated: ἐπνιγῆναι
+    present.act.generated: πνίγειν
+    present.mp1.generated: πνίγεσθαι
+ποιέω:
+    aorist.act.actual: ποιῆσαι
+    aorist.mp1.actual: ποιήσασθαι
+    aorist.mp2.generated: ἐποιησῆναι
+    present.act.actual: ποιεῖν
+    present.mp1.actual: ποιεῖσθαι
+ποιμαίνω:
+    aorist.act.generated: ποιμάναι
+    aorist.mp1.generated: ποιμάνασθαι
+    present.act.actual: ποιμαίνειν
+    present.mp1.generated: ποιμαίνεσθαι
+πολεμέω:
+    aorist.act.actual: πολεμῆσαι
+    aorist.mp1.generated: πολεμήσασθαι
+    aorist.mp2.generated: ἐπολεμησῆναι
+    present.act.generated: πολεμεῖν
+    present.mp1.generated: πολεμεῖσθαι
+πολιτεύομαι:
+    present.act.generated: πολιτεύειν
+    present.mp1.generated: πολιτεύεσθαι
+πορεύομαι:
+    aorist.mp2.actual: πορευθῆναι
+    present.act.generated: πορεύειν
+    present.mp1.actual: πορεύεσθαι
+πορθέω:
+    present.act.generated: πορθεῖν
+    present.mp1.generated: πορθεῖσθαι
+πορνεύω:
+    aorist.act.actual: πορνεῦσαι
+    aorist.mp1.generated: πορνεύσασθαι
+    aorist.mp2.generated: ἐπορνευσῆναι
+    present.act.generated: πορνεύειν
+    present.mp1.generated: πορνεύεσθαι
+ποτίζω:
+    aorist.act.generated: ποτίσαι
+    aorist.mp1.generated: ποτίσασθαι
+    aorist.mp2.generated: ἐποτισθῆναι
+    present.act.generated: ποτίζειν
+    present.mp1.generated: ποτίζεσθαι
+πράσσω:
+    aorist.act.actual: πρᾶξαι
+    aorist.mp1.generated: πρᾱ́ξασθαι
+    aorist.mp2.generated: ἐπραξῆναι
+    present.act.actual: πράσσειν
+    present.mp1.generated: πράσσεσθαι
+πρέπω:
+    present.act.generated: πρέπειν
+    present.mp1.generated: πρέπεσθαι
+πρεσβεύω:
+    present.act.generated: πρεσβεύειν
+    present.mp1.generated: πρεσβεύεσθαι
+πρίζω:
+    aorist.mp2.generated: ἐπρισθῆναι
+προάγω:
+    aorist.act.actual: προαγαγεῖν
+    present.act.actual: προάγειν
+προαιτιάομαι:
+    aorist.act.generated: προῃτιάσαι
+    aorist.mp1.generated: προῃτιάσασθαι
+    aorist.mp2.generated: προῃτιασῆναι
+προβαίνω:
+    aorist.act.generated: πρόβαι
+    aorist.mp1.generated: πρόβασθαι
+προβιβάζω:
+    aorist.mp2.generated: προβιβασθῆναι
+προβλέπομαι:
+    aorist.act.generated: προβλέψαι
+    aorist.mp1.generated: προβλέψασθαι
+προηγέομαι:
+    present.act.generated: προηγεῖν
+    present.mp1.generated: προηγεῖσθαι
+προΐστημι:
+    aorist.act.actual: προστῆναι
+    present.mp1.actual: προΐστασθαι
+προκαλέομαι:
+    present.act.generated: προκαλεῖν
+    present.mp1.generated: προκαλεῖσθαι
+προκηρύσσω:
+    aorist.act.generated: προκηρύξαι
+    aorist.mp1.generated: προκηρύξασθαι
+προμαρτύρομαι:
+    present.act.generated: προμαρτύρειν
+    present.mp1.generated: προμαρτύρεσθαι
+προμελετάω:
+    present.act.actual: προμελετᾶν
+προπάσχω:
+    aorist.act.generated: προπαθεῖν
+    aorist.mp1.generated: προπαθέσθαι
+    aorist.mp2.generated: προπαθ%ῆναι
+προπέμπω:
+    aorist.mp2.actual: προπεμφθῆναι
+προσαγορεύω:
+    aorist.mp2.generated: προσαγορευθῆναι
+προσάγω:
+    present.act.actual: προσάγειν
+προσαιτέω:
+    present.act.generated: προσαιτεῖν
+    present.mp1.generated: προσαιτεῖσθαι
+προσαναλίσκω:
+    aorist.act.generated: προσαναλῶσαι
+    aorist.mp1.generated: προσαναλώσασθαι
+    present.act.generated: προσαναλίσκειν
+    present.mp1.generated: προσαναλίσκεσθαι
+προσαπειλέομαι:
+    aorist.act.generated: προσαπειλῆσαι
+    aorist.mp1.generated: προσαπειλήσασθαι
+προσδέομαι:
+    present.act.generated: προσδεῖν
+    present.mp1.generated: προσδεῖσθαι
+προσδοκάω:
+    present.act.generated: προσδοκᾶν
+    present.mp1.generated: προσδοκᾶσθαι
+προσεάω:
+    present.act.generated: προσεᾶν
+    present.mp1.generated: προσεᾶσθαι
+προσέρχομαι:
+    present.mp1.actual: προσέρχεσθαι
+προσεύχομαι:
+    aorist.mp1.actual: προσεύξασθαι
+    present.mp1.actual: προσεύχεσθαι
+προσέχω:
+    present.act.actual: προσέχειν
+    present.mp1.generated: προσέχεσθαι
+προσηλόω:
+    aorist.act.generated: προσηλῶσαι
+    aorist.mp1.generated: προσηλώσασθαι
+προσκυνέω:
+    aorist.act.actual: προσκυνῆσαι
+    aorist.mp1.generated: προσκυνήσασθαι
+    aorist.mp2.generated: προσεκυνησῆναι
+    present.act.actual: προσκυνεῖν
+    present.mp1.generated: προσκυνεῖσθαι
+προσλαλέω:
+    aorist.act.actual: προσλαλῆσαι
+προσμένω:
+    aorist.act.actual: προσμεῖναι
+    present.act.actual: προσμένειν
+προσορμίζομαι:
+    aorist.mp2.generated: προσωρμισθῆναι
+προσοχθίζω:
+    aorist.act.generated: προσωχθίσαι
+    aorist.mp1.generated: προσωχθίσασθαι
+    aorist.mp2.generated: προσωχθισῆναι
+προσπήγνυμι:
+    aorist.act.generated: προσπῆξαι
+    aorist.mp1.generated: προσπήξασθαι
+προσρήγνυμι:
+    aorist.act.generated: προσερῆξαι
+    aorist.mp1.generated: προσερήξασθαι
+    aorist.mp2.generated: προσερηξῆναι
+προστίθημι:
+    aorist.act.actual: προσθεῖναι
+    aorist.mp2.actual: προστεθῆναι
+προστρέχω:
+    aorist.act.generated: προσδραμεῖν
+    aorist.mp1.generated: προσδραμέσθαι
+    present.act.generated: προστρέχειν
+    present.mp1.generated: προστρέχεσθαι
+προσφέρω:
+    aorist.act.actual: προσενέγκαι
+    present.act.actual: προσφέρειν
+προσψαύω:
+    present.act.generated: προσψαύειν
+    present.mp1.generated: προσψαύεσθαι
+προσωπολημπτέω:
+    present.act.generated: προσωπολημπτεῖν
+    present.mp1.generated: προσωπολημπτεῖσθαι
+προτρέπομαι:
+    aorist.act.generated: προτρέψαι
+    aorist.mp1.generated: προτρέψασθαι
+προφητεύω:
+    aorist.act.actual: προφητεῦσαι
+    aorist.mp1.generated: προφητεύσασθαι
+    aorist.mp2.generated: ἐπροφητευσῆναι/προεφητευσῆναι
+    present.act.actual: προφητεύειν
+    present.mp1.generated: προφητεύεσθαι
+προχειρίζομαι:
+    aorist.mp1.actual: προχειρίσασθαι
+πρωτεύω:
+    present.act.generated: πρωτεύειν
+    present.mp1.generated: πρωτεύεσθαι
+πταίω:
+    aorist.act.generated: πταῖσαι
+    aorist.mp1.generated: πταίσασθαι
+    aorist.mp2.generated: ἐπταισῆναι
+    present.act.generated: πταίειν
+    present.mp1.generated: πταίεσθαι
+πτοέομαι:
+    aorist.mp2.generated: πτοηθῆναι
+πτύρομαι:
+    present.act.generated: πτύρειν
+    present.mp1.generated: πτύρεσθαι
+πτύσσω:
+    aorist.act.generated: πτύξαι
+    aorist.mp1.generated: πτύξασθαι
+πτύω:
+    aorist.act.generated: πτύσαι
+    aorist.mp1.generated: πτύσασθαι
+    aorist.mp2.generated: ἐπτυσῆναι
+    present.act.generated: πτύειν
+    present.mp1.generated: πτύεσθαι
+πτωχεύω:
+    aorist.act.generated: ἐπτωχεῦσαι
+    aorist.mp1.generated: ἐπτωχεύσασθαι
+    aorist.mp2.generated: ἐπτωχευσῆναι
+πυκτεύω:
+    present.act.generated: πυκτεύειν
+    present.mp1.generated: πυκτεύεσθαι
+πυνθάνομαι:
+    aorist.act.generated: πυθεῖν
+    aorist.mp1.actual: πυθέσθαι
+    aorist.mp2.generated: ἐπυθ%ῆναι
+    present.act.generated: πυνθάνειν
+    present.mp1.actual: πυνθάνεσθαι
+πυρέσσω:
+    present.act.generated: πυρέσσειν
+    present.mp1.generated: πυρέσσεσθαι
+πυρόομαι:
+    present.act.generated: πυροῦν
+    present.mp1.actual: πυροῦσθαι
+πυρράζω:
+    present.act.generated: πυρράζειν
+    present.mp1.generated: πυρράζεσθαι
+πωλέω:
+    aorist.act.actual: πωλῆσαι
+    aorist.mp1.generated: πωλήσασθαι
+    aorist.mp2.generated: ἐπωλησῆναι
+    present.act.generated: πωλεῖν
+    present.mp1.generated: πωλεῖσθαι
+πωρόω:
+    aorist.act.generated: ἐπωρῶσαι
+    aorist.mp1.generated: ἐπωρώσασθαι
+    aorist.mp2.generated: ἐπωρωθῆναι
+ῥαβδίζω:
+    aorist.mp2.generated: ἐραβδισθῆναι
+    present.act.actual: ῥαβδίζειν
+    present.mp1.generated: ῥαβδίζεσθαι
+ῥαντίζω:
+    aorist.act.generated: ἐραντίσαι
+    aorist.mp1.generated: ἐραντίσασθαι
+    aorist.mp2.generated: ἐραντισῆναι
+ῥαπίζω:
+    aorist.act.generated: ἐραπίσαι
+    aorist.mp1.generated: ἐραπίσασθαι
+    aorist.mp2.generated: ἐραπισῆναι
+    present.act.generated: ῥαπίζειν
+    present.mp1.generated: ῥαπίζεσθαι
+ῥέω:
+    aorist.act.generated: ῥυέαι
+    aorist.mp1.generated: ῥυέασθαι
+    aorist.mp2.generated: ἐρρεθῆναι
+    present.act.generated: ῥεῖν
+    present.mp1.generated: ῥεῖσθαι
+ῥήγνυμι:
+    aorist.act.generated: ῥῆξαι
+    aorist.mp1.generated: ῥήξασθαι
+    aorist.mp2.generated: ἐρρηξῆναι
+ῥιπίζομαι:
+    present.act.generated: ῥιπίζειν
+    present.mp1.generated: ῥιπίζεσθαι
+ῥίπτω:
+    aorist.act.generated: ῥίψαι
+    aorist.mp1.generated: ῥίψασθαι
+    aorist.mp2.generated: ἐρριψῆναι
+    present.act.generated: ῥίπτειν
+    present.mp1.generated: ῥίπτεσθαι
+ῥύομαι:
+    aorist.act.generated: ῥύσαι
+    aorist.mp1.generated: ῥύσασθαι
+    aorist.mp2.generated: ῥυσθῆναι
+    present.act.generated: ῥύειν
+    present.mp1.actual: ῥύεσθαι
+σαίνομαι:
+    present.act.generated: σαίνειν
+    present.mp1.actual: σαίνεσθαι
+σαλεύω:
+    aorist.act.actual: σαλεῦσαι
+    aorist.mp1.generated: σαλεύσασθαι
+    aorist.mp2.actual: σαλευθῆναι
+    present.act.generated: σαλεύειν
+    present.mp1.generated: σαλεύεσθαι
+σαλπίζω:
+    aorist.act.generated: σαλπίσαι
+    aorist.mp1.generated: σαλπίσασθαι
+    aorist.mp2.generated: ἐσαλπισῆναι
+    present.act.actual: σαλπίζειν
+    present.mp1.generated: σαλπίζεσθαι
+σαρόω:
+    present.act.generated: σαροῦν
+    present.mp1.generated: σαροῦσθαι
+σβέννυμι:
+    aorist.act.actual: σβέσαι
+    aorist.mp1.generated: σβέσασθαι
+    aorist.mp2.generated: ἐσβεσῆναι
+    present.act.generated: σβεννύναι
+    present.mp1.generated: σβέννυσθαι
+σεβάζομαι:
+    aorist.mp2.generated: ἐσεβασθῆναι
+σέβομαι:
+    present.act.generated: σέβειν
+    present.mp1.actual: σέβεσθαι
+σείω:
+    aorist.act.generated: σεισῆναι
+    aorist.mp1.generated: σείσησθαι
+    aorist.mp2.generated: ἐσεισθῆναι
+    present.act.generated: σείειν
+    present.mp1.generated: σείεσθαι
+σεληνιάζομαι:
+    present.act.generated: σεληνιάζειν
+    present.mp1.generated: σεληνιάζεσθαι
+σημαίνω:
+    aorist.act.actual: σημᾶναι
+    aorist.mp1.generated: σημᾱ́νασθαι
+    aorist.mp2.generated: ἐσημανῆναι
+σθενόω:
+    present.act.generated: σθενοῦν
+    present.mp1.generated: σθενοῦσθαι
+σιγάω:
+    aorist.act.actual: σιγῆσαι
+    aorist.mp1.generated: σιγήσασθαι
+    aorist.mp2.generated: ἐσιγησῆναι
+    present.act.actual: σιγᾶν
+    present.mp1.generated: σιγᾶσθαι
+σινιάζω:
+    aorist.act.actual: σινιάσαι
+    aorist.mp1.generated: σινιάσασθαι
+σιωπάω:
+    aorist.act.generated: σιωπῆσαι
+    aorist.mp1.generated: σιωπήσασθαι
+    present.act.generated: σιωπᾶν
+    present.mp1.generated: σιωπᾶσθαι
+σκανδαλίζω:
+    aorist.act.generated: σκανδαλίσαι
+    aorist.mp1.generated: σκανδαλίσασθαι
+    aorist.mp2.generated: σκανδαλισθῆναι
+    present.act.generated: σκανδαλίζειν
+    present.mp1.generated: σκανδαλίζεσθαι
+σκάπτω:
+    aorist.act.generated: σκάψαι
+    aorist.mp1.generated: σκάψασθαι
+    aorist.mp2.generated: ἐσκαψῆναι
+    present.act.actual: σκάπτειν
+    present.mp1.generated: σκάπτεσθαι
+σκηνόω:
+    aorist.act.generated: σκηνῶσαι
+    aorist.mp1.generated: σκηνώσασθαι
+    aorist.mp2.generated: ἐσκηνωσῆναι
+    present.act.generated: σκηνοῦν
+    present.mp1.generated: σκηνοῦσθαι
+σκιρτάω:
+    aorist.act.generated: σκιρτῆσαι
+    aorist.mp1.generated: σκιρτήσασθαι
+    aorist.mp2.generated: ἐσκιρτησῆναι
+σκληρύνω:
+    aorist.act.generated: σκληρύναι
+    aorist.mp1.generated: σκληρύνασθαι
+    aorist.mp2.generated: σκληρυνθῆναι
+    present.act.generated: σκληρύνειν
+    present.mp1.generated: σκληρύνεσθαι
+σκοπέω:
+    aorist.act.generated: σκοπῆσαι
+    aorist.mp1.generated: σκοπήσασθαι
+    present.act.actual: σκοπεῖν
+    present.mp1.generated: σκοπεῖσθαι
+σκορπίζω:
+    aorist.act.generated: ἐσκορπίσαι
+    aorist.mp1.generated: ἐσκορπίσασθαι
+    aorist.mp2.generated: σκορπισθῆναι
+    present.act.generated: σκορπίζειν
+    present.mp1.generated: σκορπίζεσθαι
+σκοτίζομαι:
+    aorist.mp2.generated: σκοτισθῆναι
+    present.act.generated: σκοτίζειν
+    present.mp1.generated: σκοτίζεσθαι
+σκοτόομαι:
+    aorist.mp2.generated: ἐσκοτωθῆναι
+σκύλλω:
+    present.act.generated: σκῠ́λλειν
+    present.mp1.generated: σκῠ́λλεσθαι
+σοφίζω:
+    aorist.act.actual: σοφίσαι
+    aorist.mp1.generated: σοφίσασθαι
+σπάομαι:
+    aorist.act.generated: σπάσαι
+    aorist.mp1.generated: σπάσασθαι
+    aorist.mp2.generated: σπασθῆναι
+    present.act.generated: σπᾶν
+    present.mp1.generated: σπᾶσθαι
+σπαράσσω:
+    aorist.act.generated: σπαράξαι
+    aorist.mp1.generated: σπαράξασθαι
+    aorist.mp2.generated: ἐσπαραξῆναι
+    present.act.generated: σπαράσσειν
+    present.mp1.generated: σπαράσσεσθαι
+σπαργανόω:
+    aorist.act.generated: ἐσπαργανῶσαι
+    aorist.mp1.generated: ἐσπαργανώσασθαι
+    aorist.mp2.generated: ἐσπαργανωσῆναι
+σπαταλάω:
+    aorist.act.generated: ἐσπαταλῆσαι
+    aorist.mp1.generated: ἐσπαταλήσασθαι
+    aorist.mp2.generated: ἐσπαταλησῆναι
+    present.act.generated: σπαταλᾶν
+    present.mp1.generated: σπαταλᾶσθαι
+σπείρω:
+    aorist.act.actual: σπεῖραι
+    aorist.mp1.generated: σπείρασθαι
+    aorist.mp2.generated: σπαρῆναι
+    present.act.actual: σπείρειν
+    present.mp1.generated: σπείρεσθαι
+σπένδομαι:
+    present.act.generated: σπένδειν
+    present.mp1.generated: σπένδεσθαι
+σπεύδω:
+    aorist.act.generated: σπεῦσαι
+    aorist.mp1.generated: σπεύσασθαι
+    present.act.generated: σπεύδειν
+    present.mp1.generated: σπεύδεσθαι
+σπιλόω:
+    present.act.generated: σπιλοῦν
+    present.mp1.generated: σπιλοῦσθαι
+σπλαγχνίζομαι:
+    aorist.mp2.generated: σπλαγχνισθῆναι
+    present.act.generated: σπλαγχνίζειν
+    present.mp1.generated: σπλαγχνίζεσθαι
+σπουδάζω:
+    aorist.act.generated: σπουδάσαι
+    aorist.mp1.generated: σπουδάσασθαι
+    aorist.mp2.generated: ἐσπουδασῆναι
+    present.act.generated: σπουδάζειν
+    present.mp1.generated: σπουδάζεσθαι
+σταυρόω:
+    aorist.act.actual: σταυρῶσαι
+    aorist.mp1.generated: σταυρώσασθαι
+    aorist.mp2.actual: σταυρωθῆναι
+    present.act.generated: σταυροῦν
+    present.mp1.generated: σταυροῦσθαι
+στέγω:
+    present.act.generated: στέγειν
+    present.mp1.generated: στέγεσθαι
+στέλλομαι:
+    aorist.act.generated: στεῖλαι
+    aorist.mp1.generated: στείλασθαι
+    aorist.mp2.generated: σταλῆναι
+    present.act.generated: στέλλειν
+    present.mp1.actual: στέλλεσθαι
+στενάζω:
+    aorist.act.generated: ἐστενάξαι
+    aorist.mp1.generated: ἐστενάξασθαι
+    aorist.mp2.generated: ἐστεναξῆναι
+    present.act.generated: στενάζειν
+    present.mp1.generated: στενάζεσθαι
+στενοχωρέομαι:
+    present.act.generated: στενοχωρεῖν
+    present.mp1.generated: στενοχωρεῖσθαι
+στερεόω:
+    aorist.act.generated: ἐστερεῶσαι
+    aorist.mp1.generated: ἐστερεώσασθαι
+    aorist.mp2.generated: ἐστερεωθῆναι
+    present.act.generated: στερεοῦν
+    present.mp1.generated: στερεοῦσθαι
+στεφανόω:
+    aorist.act.generated: ἐστεφανῶσαι
+    aorist.mp1.generated: ἐστεφανώσασθαι
+    aorist.mp2.generated: ἐστεφανωσῆναι
+    present.act.generated: στεφανοῦν
+    present.mp1.generated: στεφανοῦσθαι
+στήκω:
+    present.act.generated: στήκειν
+    present.mp1.generated: στήκεσθαι
+στηρίζω:
+    aorist.act.actual: στηρίξαι
+    aorist.mp1.generated: στηρίξασθαι
+    aorist.mp2.actual: στηριχθῆναι
+    present.act.generated: στηρίζειν
+    present.mp1.generated: στηρίζεσθαι
+στίλβω:
+    present.act.generated: στίλβειν
+    present.mp1.generated: στίλβεσθαι
+στοιχέω:
+    present.act.actual: στοιχεῖν
+    present.mp1.generated: στοιχεῖσθαι
+στρατεύομαι:
+    present.act.generated: στρατεύειν
+    present.mp1.generated: στρατεύεσθαι
+στρατολογέω:
+    aorist.act.generated: στρατολογῆσαι
+    aorist.mp1.generated: στρατολογήσασθαι
+στρεβλόω:
+    present.act.generated: στρεβλοῦν
+    present.mp1.generated: στρεβλοῦσθαι
+στρέφω:
+    aorist.act.generated: ἐστρέψαι
+    aorist.mp1.generated: ἐστρέψασθαι
+    aorist.mp2.generated: στραφῆναι
+    present.act.actual: στρέφειν
+    present.mp1.generated: στρέφεσθαι
+στρηνιάω:
+    aorist.act.generated: στρηνιάσαι
+    aorist.mp1.generated: στρηνιάσασθαι
+    aorist.mp2.generated: ἐστρηνιασῆναι
+στρώννυμι:
+    aorist.act.generated: στρῶσαι
+    aorist.mp1.generated: στρώσασθαι
+    aorist.mp2.generated: ἐστρωθῆναι
+    present.act.generated: στρωννύναι
+    present.mp1.generated: στρώννυσθαι
+στυγνάζω:
+    aorist.act.generated: στυγνάσαι
+    aorist.mp1.generated: στυγνάσασθαι
+    present.act.generated: στυγνάζειν
+    present.mp1.generated: στυγνάζεσθαι
+συγκάθημαι:
+    present.act.generated: συγκαθῆναι
+    present.mp1.generated: συγκάθησθαι
+συγκακουχέομαι:
+    present.act.generated: συγκακουχεῖν
+    present.mp1.actual: συγκακουχεῖσθαι
+συγκαλέω:
+    aorist.mp1.actual: συγκαλέσασθαι
+συγκαταβαίνω:
+    aorist.act.generated: συγκατάβαι
+    aorist.mp1.generated: συγκατάβασθαι
+συγκρίνω:
+    aorist.act.actual: συγκρῖναι
+συγκύπτω:
+    present.act.generated: συγκύπτειν
+    present.mp1.generated: συγκύπτεσθαι
+συζάω:
+    present.act.actual: συζῆν
+συζεύγνυμι:
+    aorist.act.generated: συνεζεῦξαι
+    aorist.mp1.generated: συνεζεύξασθαι
+    aorist.mp2.generated: συνεζευξῆναι
+συζητέω:
+    present.act.actual: συζητεῖν
+συζωοποιέω:
+    aorist.act.generated: συνεζωοποιῆσαι
+    aorist.mp1.generated: συνεζωοποιήσασθαι
+    aorist.mp2.generated: συνεζωοποιησῆναι
+συκοφαντέω:
+    aorist.act.generated: συκοφαντῆσαι
+    aorist.mp1.generated: συκοφαντήσασθαι
+    aorist.mp2.generated: ἐσυκοφαντησῆναι
+συλαγωγέω:
+    present.act.generated: συλαγωγεῖν
+    present.mp1.generated: συλαγωγεῖσθαι
+συλάω:
+    aorist.act.generated: ἐσυλῆσαι
+    aorist.mp1.generated: ἐσυλήσασθαι
+    aorist.mp2.generated: ἐσυλησῆναι
+συλλαμβάνω:
+    aorist.act.actual: συλλαβεῖν
+    aorist.mp1.actual: συλλαβέσθαι
+    aorist.mp2.actual: συλλημφθῆναι
+συλλυπέομαι:
+    present.act.generated: συλλυπεῖν
+    present.mp1.generated: συλλυπεῖσθαι
+συμβαίνω:
+    present.act.actual: συμβαίνειν
+συμβάλλω:
+    aorist.act.actual: συμβαλεῖν
+συμμορφίζομαι:
+    present.act.generated: συμμορφίζειν
+    present.mp1.generated: συμμορφίζεσθαι
+συμπαθέω:
+    aorist.act.actual: συμπαθῆσαι
+    aorist.mp1.generated: συμπαθήσασθαι
+    aorist.mp2.generated: συνεπαθησῆναι
+συμπαραγίνομαι:
+    aorist.act.generated: συμπαραγενεῖν
+    aorist.mp1.generated: συμπαραγενέσθαι
+συμπαρακαλέομαι:
+    aorist.mp2.actual: συμπαρακληθῆναι
+συμπαραλαμβάνω:
+    aorist.act.actual: συμπαραλαβεῖν
+    present.act.actual: συμπαραλαμβάνειν
+συμπεριλαμβάνω:
+    aorist.act.generated: συμπεριλαβεῖν
+    aorist.mp1.generated: συμπεριλαβέσθαι
+συμπληρόω:
+    present.mp1.actual: συμπληροῦσθαι
+συμφύομαι:
+    aorist.mp2.generated: συμφυῆναι
+συνάγω:
+    aorist.act.actual: συναγαγεῖν
+    aorist.mp2.actual: συναχθῆναι
+συναγωνίζομαι:
+    aorist.mp1.actual: συναγωνίσασθαι
+συναθροίζω:
+    aorist.act.generated: συναθροῖσαι
+    aorist.mp1.generated: συναθροίσασθαι
+συναίρω:
+    aorist.act.actual: συνᾶραι
+    present.act.actual: συναίρειν
+συνακολουθέω:
+    aorist.act.actual: συνακολουθῆσαι
+συναλίζομαι:
+    present.act.generated: συναλίζειν
+    present.mp1.generated: συναλίζεσθαι
+συναναβαίνω:
+    aorist.act.generated: συνανάβαι
+    aorist.mp1.generated: συνανάβασθαι
+    aorist.mp2.generated: συναναβῆναι
+συναναμίγνυμι:
+    present.act.generated: συναναμιγνύναι
+    present.mp1.actual: συναναμίγνυσθαι
+συναπάγομαι:
+    aorist.mp2.generated: συναπαχθῆναι
+συναποθνῄσκω:
+    aorist.act.actual: συναποθανεῖν
+συναρμολογέομαι:
+    present.act.generated: συναρμολογεῖν
+    present.mp1.generated: συναρμολογεῖσθαι
+συναυξάνομαι:
+    present.mp1.actual: συναυξάνεσθαι
+συνεπιμαρτυρέω:
+    present.act.generated: συνεπιμαρτυρεῖν
+    present.mp1.generated: συνεπιμαρτυρεῖσθαι
+συνέπομαι:
+    present.act.generated: συνέπειν
+    present.mp1.generated: συνέπεσθαι
+συνεργέω:
+    present.act.generated: συνεργεῖν
+    present.mp1.generated: συνεργεῖσθαι
+συνέρχομαι:
+    aorist.act.actual: συνελθεῖν
+συνεσθίω:
+    present.act.actual: συνεσθίειν
+συνευωχέομαι:
+    present.act.generated: συνευωχεῖν
+    present.mp1.generated: συνευωχεῖσθαι
+συνήδομαι:
+    present.act.generated: συνήδειν
+    present.mp1.generated: συνήδεσθαι
+συνθλάομαι:
+    present.act.generated: συνθλᾶν
+    present.mp1.generated: συνθλᾶσθαι
+συνθρύπτω:
+    present.act.generated: συνθρύπτειν
+    present.mp1.generated: συνθρύπτεσθαι
+συνίημι:
+    present.act.actual: συνιέναι
+συνιστάνω:
+    present.act.generated: συνιστάνειν
+    present.mp1.generated: συνιστάνεσθαι
+συνίστημι:
+    present.act.actual: συνιστάνειν
+    present.mp1.actual: συνίστασθαι
+συνοδεύω:
+    present.act.generated: συνοδεύειν
+    present.mp1.generated: συνοδεύεσθαι
+συνοικέω:
+    present.act.generated: συνοικεῖν
+    present.mp1.generated: συνοικεῖσθαι
+συνομιλέω:
+    present.act.generated: συνομιλεῖν
+    present.mp1.generated: συνομιλεῖσθαι
+συνομορέω:
+    present.act.generated: συνομορεῖν
+    present.mp1.generated: συνομορεῖσθαι
+συνοράω:
+    aorist.act.generated: συνιδεῖν
+    aorist.mp1.generated: συνιδέσθαι
+συντελέω:
+    present.mp1.actual: συντελεῖσθαι
+συντέμνω:
+    present.act.generated: συντέμνειν
+    present.mp1.generated: συντέμνεσθαι
+συντυγχάνω:
+    aorist.act.actual: συντυχεῖν
+συνυπουργέω:
+    present.act.generated: συνυπουργεῖν
+    present.mp1.generated: συνυπουργεῖσθαι
+σύρω:
+    present.act.generated: σύρειν
+    present.mp1.generated: σύρεσθαι
+συστρέφω:
+    aorist.act.generated: συστρέψαι
+    aorist.mp1.generated: συστρέψασθαι
+    aorist.mp2.generated: συστρεψῆναι
+    present.act.generated: συστρέφειν
+    present.mp1.generated: συστρέφεσθαι
+σφάζω:
+    aorist.act.generated: σφάξαι
+    aorist.mp1.generated: σφάξασθαι
+    aorist.mp2.generated: ἐσφαγῆναι
+    present.act.generated: σφάζειν
+    present.mp1.generated: σφάζεσθαι
+σφραγίζω:
+    aorist.act.generated: σφραγίσαι
+    aorist.mp1.generated: σφραγίσασθαι
+    aorist.mp2.generated: ἐσφραγισθῆναι
+σχίζω:
+    aorist.act.generated: σχίσαι
+    aorist.mp1.generated: σχίσασθαι
+    aorist.mp2.generated: ἐσχισθῆναι
+    present.act.generated: σχίζειν
+    present.mp1.generated: σχίζεσθαι
+σχολάζω:
+    aorist.act.generated: σχολάσαι
+    aorist.mp1.generated: σχολάσασθαι
+σῴζω:
+    aorist.act.actual: σῶσαι
+    aorist.mp1.generated: σώσασθαι
+    aorist.mp2.actual: σωθῆναι
+    present.act.actual: σῴζειν
+    present.mp1.actual: σῴζεσθαι
+σωρεύω:
+    present.act.generated: σωρεύειν
+    present.mp1.generated: σωρεύεσθαι
+σωφρονέω:
+    aorist.act.generated: σωφρονῆσαι
+    aorist.mp1.generated: σωφρονήσασθαι
+    present.act.actual: σωφρονεῖν
+    present.mp1.generated: σωφρονεῖσθαι
+ταπεινόω:
+    aorist.act.generated: ταπεινῶσαι
+    aorist.mp1.generated: ταπεινώσασθαι
+    aorist.mp2.generated: ταπεινωθῆναι
+    present.act.generated: ταπεινοῦν
+    present.mp1.actual: ταπεινοῦσθαι
+ταράσσω:
+    aorist.act.generated: ἐταράξαι
+    aorist.mp1.generated: ἐταράξασθαι
+    aorist.mp2.generated: ταραχθῆναι
+    present.act.generated: ταράσσειν
+    present.mp1.generated: ταράσσεσθαι
+ταρταρόω:
+    aorist.act.generated: ταρταρῶσαι
+    aorist.mp1.generated: ταρταρώσασθαι
+τάσσω:
+    aorist.act.generated: τάξαι
+    aorist.mp1.generated: τάξασθαι
+    aorist.mp2.generated: ταγῆναι
+    present.act.generated: τάσσειν
+    present.mp1.generated: τάσσεσθαι
+τεκνογονέω:
+    present.act.actual: τεκνογονεῖν
+    present.mp1.generated: τεκνογονεῖσθαι
+τεκνοτροφέω:
+    aorist.act.generated: ἐτεκνοτροφῆσαι
+    aorist.mp1.generated: ἐτεκνοτροφήσασθαι
+    aorist.mp2.generated: ἐτεκνοτροφησῆναι
+τελειόω:
+    aorist.act.actual: τελειῶσαι
+    aorist.mp1.generated: τελειώσασθαι
+    aorist.mp2.generated: τελειωθῆναι
+    present.act.generated: τελειοῦν
+    present.mp1.generated: τελειοῦσθαι
+τελεσφορέω:
+    present.act.generated: τελεσφορεῖν
+    present.mp1.generated: τελεσφορεῖσθαι
+τελευτάω:
+    aorist.act.generated: τελευτῆσαι
+    aorist.mp1.generated: τελευτήσασθαι
+    aorist.mp2.generated: ἐτελευτησῆναι
+    present.act.actual: τελευτᾶν
+    present.mp1.generated: τελευτᾶσθαι
+τελέω:
+    aorist.act.generated: τελέσαι
+    aorist.mp1.generated: τελέσασθαι
+    aorist.mp2.actual: τελεσθῆναι
+    present.act.generated: τελεῖν
+    present.mp1.generated: τελεῖσθαι
+τετρααρχέω:
+    present.act.generated: τετρααρχεῖν
+    present.mp1.generated: τετρααρχεῖσθαι
+τεφρόω:
+    aorist.act.generated: τεφρῶσαι
+    aorist.mp1.generated: τεφρώσασθαι
+τήκομαι:
+    present.act.generated: τήκειν
+    present.mp1.generated: τήκεσθαι
+τηρέω:
+    aorist.act.actual: τηρῆσαι
+    aorist.mp1.generated: τηρήσασθαι
+    aorist.mp2.actual: τηρηθῆναι
+    present.act.actual: τηρεῖν
+    present.mp1.actual: τηρεῖσθαι
+τίθημι:
+    aorist.act.actual: θεῖναι
+    aorist.mp1.generated: θέσθαι
+    aorist.mp2.actual: τεθῆναι
+    present.act.actual: τιθέναι
+    present.mp1.generated: τίθεσθαι
+τίκτω:
+    aorist.act.actual: τεκεῖν
+    aorist.mp1.generated: τεκέσθαι
+    aorist.mp2.generated: τεχθῆναι
+    present.act.generated: τίκτειν
+    present.mp1.generated: τίκτεσθαι
+τίλλω:
+    present.act.actual: τίλλειν
+    present.mp1.generated: τίλλεσθαι
+τιμάω:
+    aorist.act.generated: τιμῆσαι
+    aorist.mp1.generated: τιμήσασθαι
+    aorist.mp2.generated: ἐτιμησῆναι
+    present.act.generated: τιμᾶν
+    present.mp1.generated: τιμᾶσθαι
+τιμωρέω:
+    aorist.mp2.generated: τιμωρηθῆναι
+τίνω:
+    present.act.generated: τίνειν
+    present.mp1.generated: τίνεσθαι
+τολμάω:
+    aorist.act.actual: τολμῆσαι
+    aorist.mp1.generated: τολμήσασθαι
+    aorist.mp2.generated: ἐτολμησῆναι
+    present.act.actual: τολμᾶν
+    present.mp1.generated: τολμᾶσθαι
+τραυματίζω:
+    aorist.act.generated: τραυματίσαι
+    aorist.mp1.generated: τραυματίσασθαι
+τρέμω:
+    present.act.generated: τρέμειν
+    present.mp1.generated: τρέμεσθαι
+τρέφω:
+    aorist.act.generated: ἐθρέψαι
+    aorist.mp1.generated: ἐθρέψασθαι
+    aorist.mp2.generated: ἐτραφῆναι
+    present.act.generated: τρέφειν
+    present.mp1.actual: τρέφεσθαι
+τρέχω:
+    aorist.act.generated: δραμεῖν
+    aorist.mp1.generated: δραμέσθαι
+    aorist.mp2.generated: ἐδραμ%ῆναι
+    present.act.generated: τρέχειν
+    present.mp1.generated: τρέχεσθαι
+τρίζω:
+    present.act.generated: τρίζειν
+    present.mp1.generated: τρίζεσθαι
+τροποφορέω:
+    aorist.act.generated: ἐτροποφορῆσαι
+    aorist.mp1.generated: ἐτροποφορήσασθαι
+    aorist.mp2.generated: ἐτροποφορησῆναι
+τρυγάω:
+    aorist.act.generated: τρυγῆσαι
+    aorist.mp1.generated: τρυγήσασθαι
+    aorist.mp2.generated: ἐτρυγησῆναι
+    present.act.generated: τρυγᾶν
+    present.mp1.generated: τρυγᾶσθαι
+τρυφάω:
+    aorist.act.generated: ἐτρυφῆσαι
+    aorist.mp1.generated: ἐτρυφήσασθαι
+    aorist.mp2.generated: ἐτρυφησῆναι
+τρώγω:
+    present.act.generated: τρώγειν
+    present.mp1.generated: τρώγεσθαι
+τυγχάνω:
+    aorist.act.actual: τυχεῖν
+    aorist.mp1.generated: τυχέσθαι
+    aorist.mp2.generated: ἐτυχ%ῆναι
+    present.act.generated: τυγχάνειν
+    present.mp1.generated: τυγχάνεσθαι
+τυμπανίζω:
+    aorist.mp2.generated: ἐτυμπανισθῆναι
+τύπτω:
+    present.act.actual: τύπτειν
+    present.mp1.actual: τύπτεσθαι
+τυφλόω:
+    aorist.act.generated: ἐτυφλῶσαι
+    aorist.mp1.generated: ἐτυφλώσασθαι
+    aorist.mp2.generated: ἐτυφλωσῆναι
+τύφομαι:
+    present.act.generated: τύφειν
+    present.mp1.generated: τύφεσθαι
+ὑβρίζω:
+    aorist.act.actual: ὑβρίσαι
+    aorist.mp1.generated: ὑβρίσασθαι
+    aorist.mp2.generated: ὑβρισθῆναι
+    present.act.generated: ὑβρίζειν
+    present.mp1.generated: ὑβρίζεσθαι
+ὑγιαίνω:
+    present.act.actual: ὑγιαίνειν
+    present.mp1.generated: ὑγιαίνεσθαι
+ὑμνέω:
+    present.act.generated: ὑμνεῖν
+    present.mp1.generated: ὑμνεῖσθαι
+ὑπάγω:
+    present.act.actual: ὑπάγειν
+ὑπακούω:
+    aorist.act.actual: ὑπακοῦσαι
+    present.act.actual: ὑπακούειν
+ὑπαντάω:
+    aorist.act.actual: ὑπαντῆσαι
+ὑπάρχω:
+    present.act.actual: ὑπάρχειν
+ὑπερβάλλω:
+    present.act.actual: ὑπερβαίνειν
+ὑπερεκχύννομαι:
+    present.act.generated: ὑπερεκχύννειν
+    present.mp1.generated: ὑπερεκχύννεσθαι
+ὑπερέχω:
+    present.act.generated: ὑπερέχειν
+    present.mp1.generated: ὑπερέχεσθαι
+ὑπεροράω:
+    aorist.act.generated: ὑπεριδεῖν
+    aorist.mp1.generated: ὑπεριδέσθαι
+ὑπερφρονέω:
+    present.act.actual: ὑπερφρονεῖν
+ὑπέχω:
+    present.act.generated: ὑπέχειν
+    present.mp1.generated: ὑπέχεσθαι
+ὑπηρετέω:
+    aorist.act.generated: ὑπηρετῆσαι
+    aorist.mp1.generated: ὑπηρετήσασθαι
+    aorist.mp2.generated: ὑπηρετησῆναι
+    present.act.actual: ὑπηρετεῖν
+    present.mp1.generated: ὑπηρετεῖσθαι
+ὑποζώννυμι:
+    present.act.generated: ὑποζωννύναι
+    present.mp1.generated: ὑποζώννυσθαι
+ὑποκρίνομαι:
+    present.act.generated: ὑποκρίνειν
+    present.mp1.generated: ὑποκρίνεσθαι
+ὑπολαμβάνω:
+    present.act.actual: ὑπολαμβάνειν
+    present.mp1.generated: ὑπολαμβάνεσθαι
+ὑπολιμπάνω:
+    present.act.generated: ὑπολιμπάνειν
+    present.mp1.generated: ὑπολιμπάνεσθαι
+ὑπομιμνῄσκω:
+    aorist.act.actual: ὑπομνῆσαι
+    present.act.actual: ὑπομιμνῄσκειν
+ὑποπνέω:
+    aorist.act.generated: ὑποπνεῦσαι
+    aorist.mp1.generated: ὑποπνεύσασθαι
+ὑποστρέφω:
+    aorist.act.actual: ὑποστρέψαι
+    present.act.actual: ὑποστρέφειν
+ὑποτάσσω:
+    aorist.act.actual: ὑποτάξαι
+    present.mp1.actual: ὑποτάσσεσθαι
+ὑποτρέχω:
+    aorist.act.generated: ὑποδραμεῖν
+    aorist.mp1.generated: ὑποδραμέσθαι
+ὑποφέρω:
+    aorist.act.actual: ὑπενεγκεῖν
+ὑπωπιάζω:
+    present.act.generated: ὑπωπιάζειν
+    present.mp1.generated: ὑπωπιάζεσθαι
+ὑστερέω:
+    aorist.act.generated: ὑστερῆσαι
+    aorist.mp1.generated: ὑστερήσασθαι
+    aorist.mp2.generated: ὑστερηθῆναι
+    present.act.generated: ὑστερεῖν
+    present.mp1.actual: ὑστερεῖσθαι
+ὑψηλοφρονέω:
+    present.act.actual: ὑψηλοφρονεῖν
+    present.mp1.generated: ὑψηλοφρονεῖσθαι
+ὑψόω:
+    aorist.act.generated: ὑψῶσαι
+    aorist.mp1.generated: ὑψώσασθαι
+    aorist.mp2.actual: ὑψωθῆναι
+    present.act.generated: ὑψοῦν
+    present.mp1.generated: ὑψοῦσθαι
+φαίνω:
+    aorist.mp2.generated: φανῆναι
+    present.act.generated: φαίνειν
+    present.mp1.generated: φαίνεσθαι
+φανερόω:
+    aorist.act.generated: φανερῶσαι
+    aorist.mp1.generated: φανερώσασθαι
+    aorist.mp2.actual: φανερωθῆναι
+    present.act.generated: φανεροῦν
+    present.mp1.generated: φανεροῦσθαι
+φαντάζομαι:
+    present.act.generated: φαντάζειν
+    present.mp1.generated: φαντάζεσθαι
+φάσκω:
+    present.act.generated: φάσκειν
+    present.mp1.generated: φάσκεσθαι
+φείδομαι:
+    aorist.act.generated: ἐφεῖσαι
+    aorist.mp1.generated: ἐφείσασθαι
+    aorist.mp2.generated: ἐφεισῆναι
+    present.act.generated: φείδειν
+    present.mp1.generated: φείδεσθαι
+φέρω:
+    aorist.act.actual: ἐνέγκαι
+    aorist.mp1.generated: ἐνέγκασθαι
+    aorist.mp2.generated: ἐνεχθῆναι
+    present.act.actual: φέρειν
+    present.mp1.actual: φέρεσθαι
+φεύγω:
+    aorist.act.actual: φυγεῖν
+    aorist.mp1.generated: φυγέσθαι
+    aorist.mp2.generated: ἐφυγ%ῆναι
+    present.act.generated: φεύγειν
+    present.mp1.generated: φεύγεσθαι
+φημί:
+    aorist.act.generated: φῆσαι
+    aorist.mp1.generated: φήσασθαι
+    present.act.generated: φάναι
+    present.mp1.generated: φάσθαι
+φθάνω:
+    aorist.act.generated: φθάσαι
+    aorist.mp1.generated: φθάσασθαι
+    aorist.mp2.generated: ἐφθασῆναι
+φθέγγομαι:
+    present.act.generated: φθέγγειν
+    present.mp1.actual: φθέγγεσθαι
+φθείρω:
+    aorist.act.generated: φθεῖραι
+    aorist.mp1.generated: φθείρασθαι
+    aorist.mp2.generated: φθαρῆναι
+    present.act.generated: φθείρειν
+    present.mp1.generated: φθείρεσθαι
+φθονέω:
+    present.act.generated: φθονεῖν
+    present.mp1.generated: φθονεῖσθαι
+φιλέω:
+    aorist.act.actual: φιλῆσαι
+    aorist.mp1.generated: φιλήσασθαι
+    aorist.mp2.generated: ἐφιλησῆναι
+    present.act.generated: φιλεῖν
+    present.mp1.generated: φιλεῖσθαι
+φιλοπρωτεύω:
+    present.act.generated: φιλοπρωτεύειν
+    present.mp1.generated: φιλοπρωτεύεσθαι
+φιλοτιμέομαι:
+    present.act.generated: φιλοτιμεῖν
+    present.mp1.actual: φιλοτιμεῖσθαι
+φιμόω:
+    aorist.act.generated: ἐφιμῶσαι
+    aorist.mp1.generated: ἐφιμώσασθαι
+    aorist.mp2.generated: φιμωθῆναι
+    present.act.actual: φιμοῦν
+    present.mp1.generated: φιμοῦσθαι
+φλογίζω:
+    present.act.generated: φλογίζειν
+    present.mp1.generated: φλογίζεσθαι
+φλυαρέω:
+    present.act.generated: φλυαρεῖν
+    present.mp1.generated: φλυαρεῖσθαι
+φοβέομαι:
+    aorist.mp2.generated: φοβηθῆναι
+    present.act.generated: φοβεῖν
+    present.mp1.actual: φοβεῖσθαι
+φονεύω:
+    aorist.act.generated: φονεῦσαι
+    aorist.mp1.generated: φονεύσασθαι
+    aorist.mp2.generated: ἐφονευσῆναι
+    present.act.generated: φονεύειν
+    present.mp1.generated: φονεύεσθαι
+φορέω:
+    aorist.act.generated: ἐφορέσαι
+    aorist.mp1.generated: ἐφορέσασθαι
+    aorist.mp2.generated: ἐφορεσῆναι
+    present.act.generated: φορεῖν
+    present.mp1.generated: φορεῖσθαι
+φορτίζω:
+    present.act.generated: φορτίζειν
+    present.mp1.generated: φορτίζεσθαι
+φραγελλόω:
+    aorist.act.generated: φραγελλῶσαι
+    aorist.mp1.generated: φραγελλώσασθαι
+φράσσω:
+    aorist.act.generated: ἐφράξαι
+    aorist.mp1.generated: ἐφράξασθαι
+    aorist.mp2.generated: φραγῆναι
+    present.act.generated: φράσσειν
+    present.mp1.generated: φράσσεσθαι
+φρεναπατάω:
+    present.act.generated: φρεναπατᾶν
+    present.mp1.generated: φρεναπατᾶσθαι
+φρίσσω:
+    present.act.generated: φρίσσειν
+    present.mp1.generated: φρίσσεσθαι
+φρονέω:
+    aorist.act.generated: φρονῆσαι
+    aorist.mp1.generated: φρονήσασθαι
+    present.act.actual: φρονεῖν
+    present.mp1.generated: φρονεῖσθαι
+φρουρέω:
+    present.act.generated: φρουρεῖν
+    present.mp1.generated: φρουρεῖσθαι
+φρυάσσω:
+    aorist.act.generated: ἐφρυάξαι
+    aorist.mp1.generated: ἐφρυάξασθαι
+    aorist.mp2.generated: ἐφρυαξῆναι
+φυλακίζω:
+    present.act.generated: φυλακίζειν
+    present.mp1.generated: φυλακίζεσθαι
+φυλάσσω:
+    aorist.act.actual: φυλάξαι
+    aorist.mp1.generated: φυλάξασθαι
+    aorist.mp2.generated: ἐφυλαξῆναι
+    present.act.actual: φυλάσσειν
+    present.mp1.actual: φυλάσσεσθαι
+φυσιόω:
+    aorist.mp2.generated: ἐφυσιωθῆναι
+    present.act.generated: φυσιοῦν
+    present.mp1.generated: φυσιοῦσθαι
+φυτεύω:
+    aorist.act.generated: ἐφυτεῦσαι
+    aorist.mp1.generated: ἐφυτεύσασθαι
+    aorist.mp2.generated: φυτευθῆναι
+    present.act.generated: φυτεύειν
+    present.mp1.generated: φυτεύεσθαι
+φύω:
+    aorist.act.generated: φῦναι
+    aorist.mp1.generated: φῦσθαι
+    aorist.mp2.generated: φυῆναι
+    present.act.generated: φύειν
+    present.mp1.generated: φύεσθαι
+φωνέω:
+    aorist.act.actual: φωνῆσαι
+    aorist.mp1.generated: φωνήσασθαι
+    aorist.mp2.actual: φωνηθῆναι
+    present.act.generated: φωνεῖν
+    present.mp1.generated: φωνεῖσθαι
+φωτίζω:
+    aorist.act.actual: φωτίσαι
+    aorist.mp1.generated: φωτίσασθαι
+    aorist.mp2.generated: φωτισθῆναι
+    present.act.generated: φωτίζειν
+    present.mp1.generated: φωτίζεσθαι
+χαίρω:
+    aorist.mp2.actual: χαρῆναι
+    present.act.actual: χαίρειν
+    present.mp1.generated: χαίρεσθαι
+χαλάω:
+    aorist.act.generated: χαλάσαι
+    aorist.mp1.generated: χαλάσασθαι
+    aorist.mp2.generated: ἐχαλασθῆναι
+    present.act.generated: χαλᾶν
+    present.mp1.generated: χαλᾶσθαι
+χαλιναγωγέω:
+    aorist.act.actual: χαλιναγωγῆσαι
+    aorist.mp1.generated: χαλιναγωγήσασθαι
+    present.act.generated: χαλιναγωγεῖν
+    present.mp1.generated: χαλιναγωγεῖσθαι
+χαρίζομαι:
+    aorist.act.generated: χαρίσαι
+    aorist.mp1.actual: χαρίσασθαι
+    aorist.mp2.actual: χαρισθῆναι
+    present.act.generated: χαρίζειν
+    present.mp1.actual: χαρίζεσθαι
+χαριτόω:
+    aorist.act.generated: ἐχαριτῶσαι
+    aorist.mp1.generated: ἐχαριτώσασθαι
+    aorist.mp2.generated: ἐχαριτωσῆναι
+χειμάζομαι:
+    present.act.generated: χειμάζειν
+    present.mp1.generated: χειμάζεσθαι
+χειραγωγέω:
+    present.act.generated: χειραγωγεῖν
+    present.mp1.generated: χειραγωγεῖσθαι
+χειροτονέω:
+    aorist.act.generated: χειροτονῆσαι
+    aorist.mp1.generated: χειροτονήσασθαι
+    aorist.mp2.generated: χειροτονηθῆναι
+χλευάζω:
+    present.act.generated: χλευάζειν
+    present.mp1.generated: χλευάζεσθαι
+χολάω:
+    present.act.generated: χολᾶν
+    present.mp1.generated: χολᾶσθαι
+χορηγέω:
+    aorist.act.generated: χορηγῆσαι
+    aorist.mp1.generated: χορηγήσασθαι
+    present.act.generated: χορηγεῖν
+    present.mp1.generated: χορηγεῖσθαι
+χορτάζω:
+    aorist.act.actual: χορτάσαι
+    aorist.mp1.generated: χορτάσασθαι
+    aorist.mp2.actual: χορτασθῆναι
+    present.act.generated: χορτάζειν
+    present.mp1.actual: χορτάζεσθαι
+χράομαι:
+    aorist.act.generated: χρῆσαι
+    aorist.mp1.generated: χρήσασθαι
+    aorist.mp2.generated: ἐχρησῆναι
+    present.act.generated: χρᾶν
+    present.mp1.generated: χρᾶσθαι
+χρῄζω:
+    present.act.generated: χρῄζειν
+    present.mp1.generated: χρῄζεσθαι
+χρηματίζω:
+    aorist.act.actual: χρηματίσαι
+    aorist.mp1.generated: χρηματίσασθαι
+    aorist.mp2.generated: χρηματισθῆναι
+    present.act.generated: χρηματίζειν
+    present.mp1.generated: χρηματίζεσθαι
+χρηστεύομαι:
+    present.act.generated: χρηστεύειν
+    present.mp1.generated: χρηστεύεσθαι
+χρίω:
+    aorist.act.generated: χρίσαι
+    aorist.mp1.generated: χρίσασθαι
+    aorist.mp2.generated: ἐχρισῆναι
+χρονίζω:
+    present.act.actual: χρονίζειν
+    present.mp1.generated: χρονίζεσθαι
+χρονοτριβέω:
+    aorist.act.actual: χρονοτριβῆσαι
+    aorist.mp1.generated: χρονοτριβήσασθαι
+χωρέω:
+    aorist.act.actual: χωρῆσαι
+    aorist.mp1.generated: χωρήσασθαι
+    aorist.mp2.generated: ἐχωρησῆναι
+    present.act.actual: χωρεῖν
+    present.mp1.generated: χωρεῖσθαι
+χωρίζω:
+    aorist.act.actual: χωρίσαι
+    aorist.mp1.generated: χωρίσασθαι
+    aorist.mp2.actual: χωρισθῆναι
+    present.act.generated: χωρίζειν
+    present.mp1.actual: χωρίζεσθαι
+ψάλλω:
+    present.act.generated: ψάλλειν
+    present.mp1.generated: ψάλλεσθαι
+ψεύδομαι:
+    aorist.act.generated: ψεῦσαι
+    aorist.mp1.actual: ψεύσασθαι
+    aorist.mp2.generated: ἐψευσῆναι
+    present.act.generated: ψεύδειν
+    present.mp1.generated: ψεύδεσθαι
+ψευδομαρτυρέω:
+    aorist.act.generated: ψευδομαρτυρῆσαι
+    aorist.mp1.generated: ψευδομαρτυρήσασθαι
+    present.act.generated: ψευδομαρτυρεῖν
+    present.mp1.generated: ψευδομαρτυρεῖσθαι
+ψηλαφάω:
+    aorist.act.generated: ψηλαφῆσαι
+    aorist.mp1.generated: ψηλαφήσασθαι
+    aorist.mp2.generated: ἐψηλαφησῆναι
+ψηφίζω:
+    aorist.act.generated: ψηφίσαι
+    aorist.mp1.generated: ψηφίσασθαι
+    aorist.mp2.generated: ἐψηφισθῆναι
+    present.act.generated: ψηφίζειν
+    present.mp1.generated: ψηφίζεσθαι
+ψύχομαι:
+    aorist.act.generated: ψύξαι
+    aorist.mp1.generated: ψύξασθαι
+    aorist.mp2.generated: ἐψυξῆναι
+    present.act.generated: ψύχειν
+    present.mp1.generated: ψύχεσθαι
+ψώχω:
+    present.act.generated: ψώχειν
+    present.mp1.generated: ψώχεσθαι
+ὠδίνω:
+    present.act.generated: ὠδίνειν
+    present.mp1.generated: ὠδίνεσθαι
+ὠνέομαι:
+    aorist.act.generated: ὠνῆσαι
+    aorist.mp1.generated: ὠνήσασθαι
+    aorist.mp2.generated: ὠνησῆναι
+ὠρύομαι:
+    present.act.generated: ὠρύειν
+    present.mp1.generated: ὠρύεσθαι
+ὠφελέω:
+    aorist.act.generated: ὠφελῆσαι
+    aorist.mp1.generated: ὠφελήσασθαι
+    aorist.mp2.generated: ὠφεληθῆναι
+    present.act.generated: ὠφελεῖν
+    present.mp1.generated: ὠφελεῖσθαι
