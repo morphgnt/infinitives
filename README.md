@@ -11,7 +11,6 @@ by [J.K.Tauber](http://jktauber.com)
 
 ## Caveats
 
-  * there are still quite a few stems missing in the underlying database that I'm in the process of adding over time;
   * forms may be generated for voices which are impossible or which never appear in texts;
   * there may be widespread systematic errors as this initial assembly of data was done fairly quickly from sources in quite a different format.
 
