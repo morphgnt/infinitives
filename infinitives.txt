@@ -1308,7 +1308,7 @@
     present.mp1.actual: γίνεσθαι
 γινώσκω:
     aorist.act.actual: γνῶναι
-    aorist.mp1.generated: γνόσθαι
+    aorist.mp1.generated: γνῶσθαι
     aorist.mp2.generated: γνωσθῆναι
     present.act.actual: γινώσκειν
     present.mp1.generated: γινώσκεσθαι
