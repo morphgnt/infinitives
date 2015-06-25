@@ -218,8 +218,7 @@
     present.act.generated: ἀμφιεννύναι
     present.mp1.generated: ἀμφιέννυσθαι
 ἀναβαίνω:
-    aorist.act.generated: ἀναβάναι
-    aorist.mp1.generated: ἀνάβασθαι
+    aorist.act.generated: ἀναβῆναι
     present.act.actual: ἀναβαίνειν
     present.mp1.generated: ἀναβαίνεσθαι
 ἀναβάλλομαι:
@@ -250,7 +249,6 @@
     present.mp1.generated: ἀναγεννᾶσθαι
 ἀναγινώσκω:
     aorist.act.actual: ἀναγνῶναι
-    aorist.mp1.generated: ἀνάγνοσθαι
     aorist.mp2.actual: ἀναγνωσθῆναι
     present.act.generated: ἀναγινώσκειν
     present.mp1.generated: ἀναγινώσκεσθαι
@@ -277,10 +275,10 @@
     present.act.generated: ἀναδέχειν
     present.mp1.generated: ἀναδέχεσθαι
 ἀναδίδωμι:
-    aorist.act.generated: ἀναδόναι
+    aorist.act.generated: ἀναδοῦναι
     aorist.mp1.generated: ἀνάδοσθαι
-    present.act.generated: ἀναδιδῶναι
-    present.mp1.generated: ἀναδίδωσθαι
+    present.act.generated: ἀναδιδόναι
+    present.mp1.generated: ἀναδίδοσθαι
 ἀναζάω:
     aorist.act.generated: ἀνεζῆσαι
     aorist.mp1.generated: ἀνεζήσασθαι
@@ -509,17 +507,14 @@
     present.mp1.generated: ἀνήκεσθαι
 ἀνθίστημι:
     aorist.act.actual: ἀντιστῆναι
-    aorist.mp1.generated: ἀντίστησθαι
     present.act.generated: ἀνθιστάναι
     present.mp1.generated: ἀνθίστασθαι
 ἀνθομολογέομαι:
     present.act.generated: ἀνθομολογεῖν
     present.mp1.generated: ἀνθομολογεῖσθαι
 ἀνίημι:
-    aorist.act.generated: ἀνέναι
+    aorist.act.generated: ἀνεῖναι
     aorist.mp1.generated: ἄνεσθαι
-    present.act.generated: ἀνιῆναι
-    present.mp1.generated: ἀνίησθαι
 ἀνίστημι:
     aorist.act.actual: ἀναστῆναι
     aorist.mp1.generated: ἀνάστασθαι/ἀναστήσασθαι
@@ -546,6 +541,8 @@
 ἀνταποδίδωμι:
     aorist.act.actual: ἀνταποδοῦναι
     aorist.mp1.generated: ἀνταπόδοσθαι
+    present.act.generated: ἀνταποδιδόναι
+    present.mp1.generated: ἀνταποδίδοσθαι
 ἀνταποκρίνομαι:
     aorist.mp2.actual: ἀνταποκριθῆναι
     present.act.generated: ἀνταποκρίνειν
@@ -559,6 +556,9 @@
 ἀντιδιατίθεμαι:
     present.act.generated: ἀντιδιατιθέναι
     present.mp1.generated: ἀντιδιατίθεσθαι
+ἀντικαθίστημι:
+    present.act.generated: ἀντικαθιστάναι
+    present.mp1.generated: ἀντικαθίστασθαι
 ἀντίκειμαι:
     present.act.generated: ἀντικεῖναι
     present.mp1.generated: ἀντίκεισθαι
@@ -682,8 +682,7 @@
     present.act.generated: ἀπιστεῖν
     present.mp1.generated: ἀπιστεῖσθαι
 ἀποβαίνω:
-    aorist.act.generated: ἀποβάναι
-    aorist.mp1.generated: ἀπόβασθαι
+    aorist.act.generated: ἀποβῆναι
     present.act.generated: ἀποβαίνειν
     present.mp1.generated: ἀποβαίνεσθαι
 ἀποβάλλω:
@@ -745,8 +744,8 @@
     present.act.actual: ἀποθνῄσκειν
     present.mp1.generated: ἀποθνῄσκεσθαι
 ἀποκαθίστημι:
-    present.act.generated: ἀποκαθιστῆναι/ἀποκαθιστάνειν
-    present.mp1.generated: ἀποκαθίστησθαι/ἀποκαθιστάνεσθαι
+    present.act.generated: ἀποκαθιστάναι/ἀποκαθιστάνειν
+    present.mp1.generated: ἀποκαθίστασθαι/ἀποκαθιστάνεσθαι
 ἀποκαλύπτω:
     aorist.act.actual: ἀποκαλύψαι
     aorist.mp1.generated: ἀποκαλύψασθαι
@@ -893,7 +892,7 @@
     present.act.generated: ἀποτελεῖν
     present.mp1.generated: ἀποτελεῖσθαι
 ἀποτίθημι:
-    aorist.act.generated: ἀποθέναι
+    aorist.act.generated: ἀποθεῖναι
     aorist.mp1.actual: ἀποθέσθαι
     present.act.generated: ἀποτιθέναι
     present.mp1.generated: ἀποτίθεσθαι
@@ -1308,7 +1307,6 @@
     present.mp1.actual: γίνεσθαι
 γινώσκω:
     aorist.act.actual: γνῶναι
-    aorist.mp1.generated: γνῶσθαι
     aorist.mp2.generated: γνωσθῆναι
     present.act.actual: γινώσκειν
     present.mp1.generated: γινώσκεσθαι
@@ -1380,7 +1378,7 @@
     aorist.mp1.generated: δείξασθαι
     aorist.mp2.generated: δειχθῆναι
     present.act.actual: δεικνύειν
-    present.mp1.generated: δείκνυσθαι
+    present.mp1.generated: δείκνυσθαι/δεικνύεσθαι
 δειπνέω:
     aorist.act.actual: δειπνῆσαι
     aorist.mp1.generated: δειπνήσασθαι
@@ -1426,7 +1424,6 @@
     present.mp1.generated: δημηγορεῖσθαι
 διαβαίνω:
     aorist.act.actual: διαβῆναι
-    aorist.mp1.generated: διάβασθαι
     present.act.generated: διαβαίνειν
     present.mp1.generated: διαβαίνεσθαι
 διαβάλλω:
@@ -1633,7 +1630,7 @@
     present.act.generated: διατηρεῖν
     present.mp1.generated: διατηρεῖσθαι
 διατίθεμαι:
-    aorist.act.generated: διαθέναι
+    aorist.act.generated: διαθεῖναι
     aorist.mp1.generated: διάθεσθαι
     present.act.generated: διατιθέναι
     present.mp1.generated: διατίθεσθαι
@@ -1708,8 +1705,10 @@
     present.act.generated: διϊκνεῖν
     present.mp1.generated: διϊκνεῖσθαι
 διΐστημι:
-    aorist.act.generated: διαστάναι/διαστῆσαι
+    aorist.act.generated: διαστῆναι/διαστῆσαι
     aorist.mp1.generated: διάστασθαι/διαστήσασθαι
+    present.act.generated: διϊστάναι
+    present.mp1.generated: διΐστασθαι
 διϊσχυρίζομαι:
     present.act.generated: διϊσχυρίζειν
     present.mp1.generated: διϊσχυρίζεσθαι
@@ -1952,6 +1951,9 @@
     aorist.mp1.generated: ἐκδημήσασθαι
     present.act.generated: ἐκδημεῖν
     present.mp1.generated: ἐκδημεῖσθαι
+ἐκδίδωμι:
+    present.act.generated: ἐκδιδόναι
+    present.mp1.generated: ἐκδίδοσθαι
 ἐκδιηγέομαι:
     present.act.generated: ἐκδιηγεῖν
     present.mp1.generated: ἐκδιηγεῖσθαι
@@ -2119,6 +2121,8 @@
     present.mp1.generated: ἐκτελεῖσθαι
 ἐκτίθημι:
     aorist.mp2.generated: ἐκτεθῆναι
+    present.act.generated: ἐκτιθέναι
+    present.mp1.generated: ἐκτίθεσθαι
 ἐκτινάσσω:
     present.act.generated: ἐκτινάσσειν
     present.mp1.generated: ἐκτινάσσεσθαι
@@ -2197,7 +2201,6 @@
     present.mp1.generated: ἐλπίζεσθαι
 ἐμβαίνω:
     aorist.act.actual: ἐμβῆναι
-    aorist.mp1.generated: ἔμβασθαι
     present.act.generated: ἐμβαίνειν
     present.mp1.generated: ἐμβαίνεσθαι
 ἐμβάλλω:
@@ -2347,6 +2350,9 @@
     aorist.mp2.generated: ἐνθυμηθῆναι
     present.act.generated: ἐνθυμεῖν
     present.mp1.generated: ἐνθυμεῖσθαι
+ἐνίστημι:
+    present.act.generated: ἐνιστάναι
+    present.mp1.generated: ἐνίστασθαι
 ἐνισχύω:
     present.act.generated: ἐνισχύειν
     present.mp1.generated: ἐνισχύεσθαι
@@ -2437,8 +2443,8 @@
     present.act.generated: ἐξανατέλλειν
     present.mp1.generated: ἐξανατέλλεσθαι
 ἐξανίστημι:
-    present.act.generated: ἐξανιστῆναι
-    present.mp1.generated: ἐξανίστησθαι
+    present.act.generated: ἐξανιστάναι
+    present.mp1.generated: ἐξανίστασθαι
 ἐξαπατάω:
     aorist.mp2.generated: ἐξαπατηθῆναι
     present.act.generated: ἐξαπατᾶν
@@ -2622,8 +2628,7 @@
     present.act.generated: ἐπηρεάζειν
     present.mp1.generated: ἐπηρεάζεσθαι
 ἐπιβαίνω:
-    aorist.act.generated: ἐπιβάναι
-    aorist.mp1.generated: ἐπίβασθαι
+    aorist.act.generated: ἐπιβῆναι
     present.act.actual: ἐπιβαίνειν
     present.mp1.generated: ἐπιβαίνεσθαι
 ἐπιβάλλω:
@@ -2656,7 +2661,6 @@
     present.mp1.generated: ἐπιγίνεσθαι
 ἐπιγινώσκω:
     aorist.act.actual: ἐπιγνῶναι
-    aorist.mp1.generated: ἐπίγνοσθαι
     aorist.mp2.generated: ἐπιγνωσθῆναι
     present.act.generated: ἐπιγινώσκειν
     present.mp1.generated: ἐπιγινώσκεσθαι
@@ -2678,7 +2682,7 @@
     present.act.generated: ἐπιδιατάσσειν
     present.mp1.generated: ἐπιδιατάσσεσθαι
 ἐπιδίδωμι:
-    aorist.act.generated: ἐπιδόναι
+    aorist.act.generated: ἐπιδοῦναι
     aorist.mp1.generated: ἐπίδοσθαι
     present.act.generated: ἐπιδιδόναι
     present.mp1.generated: ἐπιδίδοσθαι
@@ -3062,8 +3066,7 @@
     present.act.generated: ἐφικνεῖν
     present.mp1.generated: ἐφικνεῖσθαι
 ἐφίστημι:
-    aorist.act.generated: ἐπιστάναι
-    aorist.mp1.generated: ἐπίστασθαι
+    aorist.act.generated: ἐπιστῆναι
     present.act.generated: ἐφιστάναι
     present.mp1.generated: ἐφίστασθαι
 ἐφοράω:
@@ -3426,7 +3429,6 @@
     present.mp1.generated: καρτερεῖσθαι
 καταβαίνω:
     aorist.act.actual: καταβῆναι
-    aorist.mp1.generated: κατάβησθαι
     present.act.actual: καταβαίνειν
     present.mp1.generated: καταβαίνεσθαι
 καταβάλλω:
@@ -3684,7 +3686,7 @@
     present.act.generated: κατασφραγίζειν
     present.mp1.generated: κατασφραγίζεσθαι
 κατατίθημι:
-    aorist.act.generated: καταθέναι
+    aorist.act.generated: καταθεῖναι
     aorist.mp1.actual: καταθέσθαι
     present.act.generated: κατατιθέναι
     present.mp1.generated: κατατίθεσθαι
@@ -3747,6 +3749,9 @@
 κατευλογέω:
     present.act.generated: κατευλογεῖν
     present.mp1.generated: κατευλογεῖσθαι
+κατεφίστημι:
+    present.act.generated: κατεφιστάναι
+    present.mp1.generated: κατεφίστασθαι
 κατέχω:
     present.act.actual: κατέχειν
     present.mp1.generated: κατέχεσθαι
@@ -3966,7 +3971,7 @@
     present.act.generated: κραυγάζειν
     present.mp1.generated: κραυγάζεσθαι
 κρεμάννυμι:
-    aorist.act.generated: κρεμάσαι/κρεμάναι
+    aorist.act.generated: κρεμάσαι/κρεμῆναι
     aorist.mp1.generated: κρεμάσασθαι/κρέμασθαι
     aorist.mp2.generated: κρεμασθῆναι
     present.act.generated: κρεμαννύναι
@@ -4055,7 +4060,7 @@
 λαμβάνω:
     aorist.act.actual: λαβεῖν
     aorist.mp1.generated: λαβέσθαι
-    aorist.mp2.generated: λημφθῆναι
+    aorist.mp2.generated: λημφθῆναι/ληφθῆναι
     present.act.actual: λαμβάνειν
     present.mp1.generated: λαμβάνεσθαι
 λάμπω:
@@ -4268,8 +4273,7 @@
     present.act.generated: μεστοῦν
     present.mp1.generated: μεστοῦσθαι
 μεταβαίνω:
-    aorist.act.generated: μεταβάναι
-    aorist.mp1.generated: μετάβασθαι
+    aorist.act.generated: μεταβῆναι
     present.act.generated: μεταβαίνειν
     present.mp1.generated: μεταβαίνεσθαι
 μεταβάλλομαι:
@@ -5001,6 +5005,9 @@
     aorist.mp1.generated: περιζώσασθαι
     present.act.generated: περιζωννύναι
     present.mp1.generated: περιζώννυσθαι
+περιΐστημι:
+    present.act.generated: περιϊστάναι
+    present.mp1.generated: περιΐστασθαι
 περικαλύπτω:
     aorist.act.generated: περικαλύψαι
     aorist.mp1.generated: περικαλύψασθαι
@@ -5067,7 +5074,7 @@
     present.act.actual: περιτέμνειν
     present.mp1.actual: περιτέμνεσθαι
 περιτίθημι:
-    aorist.act.generated: περιθέναι
+    aorist.act.generated: περιθεῖναι
     aorist.mp1.generated: περίθεσθαι
     present.act.generated: περιτιθέναι
     present.mp1.generated: περιτίθεσθαι
@@ -5276,8 +5283,7 @@
     present.act.generated: προαμαρτάνειν
     present.mp1.generated: προαμαρτάνεσθαι
 προβαίνω:
-    aorist.act.generated: προβάναι
-    aorist.mp1.generated: πρόβασθαι
+    aorist.act.generated: προβῆναι
     present.act.generated: προβαίνειν
     present.mp1.generated: προβαίνεσθαι
 προβάλλω:
@@ -5303,6 +5309,9 @@
 προγράφω:
     present.act.generated: προγράφειν
     present.mp1.generated: προγράφεσθαι
+προδίδωμι:
+    present.act.generated: προδιδόναι
+    present.mp1.generated: προδίδοσθαι
 προελπίζω:
     present.act.generated: προελπίζειν
     present.mp1.generated: προελπίζεσθαι
@@ -5331,7 +5340,7 @@
     present.mp1.generated: προηγεῖσθαι
 προΐστημι:
     aorist.act.actual: προστῆναι
-    aorist.mp1.generated: πρόστησθαι
+    aorist.mp1.generated: πρόστασθαι
     present.act.generated: προϊστάναι
     present.mp1.actual: προΐστασθαι
 προκαλέομαι:
@@ -5418,6 +5427,9 @@
 προσαναπληρόω:
     present.act.generated: προσαναπληροῦν
     present.mp1.generated: προσαναπληροῦσθαι
+προσανατίθημι:
+    present.act.generated: προσανατιθέναι
+    present.mp1.generated: προσανατίθεσθαι
 προσαπειλέομαι:
     aorist.act.generated: προσαπειλῆσαι
     aorist.mp1.generated: προσαπειλήσασθαι
@@ -5718,7 +5730,7 @@
     present.act.generated: σέβειν
     present.mp1.actual: σέβεσθαι
 σείω:
-    aorist.act.generated: σεισῆναι
+    aorist.act.generated: σεισῆ_2ναι
     aorist.mp1.generated: σείσησθαι
     present.act.generated: σείειν
     present.mp1.generated: σείεσθαι
@@ -5940,7 +5952,7 @@
     present.act.generated: συγκαλύπτειν
     present.mp1.generated: συγκαλύπτεσθαι
 συγκαταβαίνω:
-    aorist.act.generated: συγκαταβάναι
+    aorist.act.generated: συγκαταβῆναι
     aorist.mp1.generated: συγκατάβασθαι
     present.act.generated: συγκαταβαίνειν
     present.mp1.generated: συγκαταβαίνεσθαι
@@ -6028,8 +6040,7 @@
     present.act.generated: συλλυπεῖν
     present.mp1.generated: συλλυπεῖσθαι
 συμβαίνω:
-    aorist.act.generated: συμβάναι
-    aorist.mp1.generated: σύμβασθαι
+    aorist.act.generated: συμβῆναι
     present.act.actual: συμβαίνειν
     present.mp1.generated: συμβαίνεσθαι
 συμβάλλω:
@@ -6164,8 +6175,7 @@
     present.act.generated: συναλλάσσειν
     present.mp1.generated: συναλλάσσεσθαι
 συναναβαίνω:
-    aorist.act.generated: συναναβάναι
-    aorist.mp1.generated: συνανάβασθαι
+    aorist.act.generated: συναναβῆναι
     present.act.generated: συναναβαίνειν
     present.mp1.generated: συναναβαίνεσθαι
 συνανάκειμαι:
@@ -6247,6 +6257,9 @@
 συνευωχέομαι:
     present.act.generated: συνευωχεῖν
     present.mp1.generated: συνευωχεῖσθαι
+συνεφίστημι:
+    present.act.generated: συνεφιστάναι
+    present.mp1.generated: συνεφίστασθαι
 συνέχω:
     present.act.generated: συνέχειν
     present.mp1.generated: συνέχεσθαι
@@ -6268,7 +6281,7 @@
     present.mp1.generated: συνθρύπτεσθαι
 συνίημι:
     present.act.actual: συνιέναι
-    present.mp1.generated: συνίησθαι/συνιεῖσθαι/συνίεσθαι/σύνισθαι
+    present.mp1.generated: συνίεσθαι
 συνιστάνω:
     present.act.generated: συνιστάνειν
     present.mp1.generated: συνιστάνεσθαι
@@ -6873,7 +6886,7 @@
     present.act.generated: φυτεύειν
     present.mp1.generated: φυτεύεσθαι
 φύω:
-    aorist.act.generated: φύναι
+    aorist.act.generated: φῦναι
     aorist.mp1.generated: φύσθαι
     aorist.mp2.generated: φυῆναι
     present.act.generated: φύειν
