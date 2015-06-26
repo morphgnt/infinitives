@@ -280,9 +280,6 @@
     present.act.generated: ἀναδιδόναι
     present.mp1.generated: ἀναδίδοσθαι
 ἀναζάω:
-    aorist.act.generated: ἀνεζῆσαι
-    aorist.mp1.generated: ἀνεζήσασθαι
-    aorist.mp2.generated: ἀνεζησῆναι
     present.act.generated: ἀναζᾶν
     present.mp1.generated: ἀναζᾶσθαι
 ἀναζητέω:
@@ -515,6 +512,8 @@
 ἀνίημι:
     aorist.act.generated: ἀνεῖναι
     aorist.mp1.generated: ἄνεσθαι
+    present.act.generated: ἀνιέναι
+    present.mp1.generated: ἀνίεσθαι
 ἀνίστημι:
     aorist.act.actual: ἀναστῆναι
     aorist.mp1.generated: ἀνάστασθαι/ἀναστήσασθαι
@@ -1471,9 +1470,6 @@
     present.act.generated: διαζωννύναι
     present.mp1.generated: διαζώννυσθαι
 διαιρέω:
-    aorist.act.generated: διειλεῖν
-    aorist.mp1.generated: διειλέσθαι
-    aorist.mp2.generated: διειλ%ῆναι
     present.act.generated: διαιρεῖν
     present.mp1.generated: διαιρεῖσθαι
 διακαθαίρω:
@@ -1994,6 +1990,7 @@
     present.mp1.generated: ἐκκλᾶσθαι
 ἐκκλείω:
     aorist.act.actual: ἐκκλεῖσαι
+    aorist.mp1.generated: ἐκκλείσασθαι
     present.act.generated: ἐκκλείειν
     present.mp1.generated: ἐκκλείεσθαι
 ἐκκλίνω:
@@ -2124,6 +2121,8 @@
     present.act.generated: ἐκτιθέναι
     present.mp1.generated: ἐκτίθεσθαι
 ἐκτινάσσω:
+    aorist.act.generated: ἐκτινάξαι
+    aorist.mp1.generated: ἐκτινάξασθαι
     present.act.generated: ἐκτινάσσειν
     present.mp1.generated: ἐκτινάσσεσθαι
 ἐκτρέπομαι:
@@ -2249,8 +2248,8 @@
     present.act.generated: ἐμπεριπατεῖν
     present.mp1.generated: ἐμπεριπατεῖσθαι
 ἐμπίμπλημι:
-    present.act.generated: ἐμπιμπλῆναι
-    present.mp1.generated: ἐμπίμπλησθαι
+    present.act.generated: ἐμπιμπλάναι
+    present.mp1.generated: ἐμπίμπλασθαι
 ἐμπίμπρημι:
     present.act.generated: ἐμπιμπρῆναι
     present.mp1.generated: ἐμπίμπρησθαι
@@ -2489,6 +2488,8 @@
     present.act.generated: ἐξετάζειν
     present.mp1.generated: ἐξετάζεσθαι
 ἐξηγέομαι:
+    aorist.act.generated: ἐξηγῆσαι
+    aorist.mp1.generated: ἐξηγήσασθαι
     present.act.generated: ἐξηγεῖν
     present.mp1.generated: ἐξηγεῖσθαι
 ἐξηχέομαι:
@@ -2553,7 +2554,6 @@
     present.act.generated: ἐπαίρειν
     present.mp1.generated: ἐπαίρεσθαι
 ἐπαισχύνομαι:
-    aorist.mp2.generated: ἐπαισχυνθῆναι
     present.act.generated: ἐπαισχύνειν
     present.mp1.generated: ἐπαισχύνεσθαι
 ἐπαιτέω:
@@ -5111,8 +5111,8 @@
     aorist.act.generated: πλῆσαι
     aorist.mp1.generated: πλήσασθαι
     aorist.mp2.actual: πλησθῆναι
-    present.act.generated: πιμπλῆναι
-    present.mp1.generated: πίμπλησθαι
+    present.act.generated: πιμπλάναι
+    present.mp1.generated: πίμπλασθαι
 πίμπρημι:
     present.act.generated: πιμπράναι
     present.mp1.actual: πίμπρασθαι
