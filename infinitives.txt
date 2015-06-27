@@ -280,8 +280,8 @@
     present.act.generated: ἀναδιδόναι
     present.mp1.generated: ἀναδίδοσθαι
 ἀναζάω:
-    present.act.generated: ἀναζᾶν
-    present.mp1.generated: ἀναζᾶσθαι
+    present.act.generated: ἀναζῆν
+    present.mp1.generated: ἀναζῆσθαι
 ἀναζητέω:
     aorist.act.actual: ἀναζητῆσαι
     aorist.mp1.generated: ἀναζητήσασθαι
@@ -337,7 +337,7 @@
     present.mp1.generated: ἀνακεφαλαιοῦσθαι
 ἀνακλίνω:
     aorist.act.actual: ἀνακλῖναι
-    aorist.mp1.generated: ἀνακλῑ́νασθαι
+    aorist.mp1.generated: ἀνακλίνασθαι
     aorist.mp2.actual: ἀνακλιθῆναι
     present.act.generated: ἀνακλίνειν
     present.mp1.generated: ἀνακλίνεσθαι
@@ -370,7 +370,7 @@
     present.mp1.generated: ἀναλίσκεσθαι
 ἀναλύω:
     aorist.act.actual: ἀναλῦσαι
-    aorist.mp1.generated: ἀναλῡ́σασθαι
+    aorist.mp1.generated: ἀναλύσασθαι
     present.act.generated: ἀναλύειν
     present.mp1.generated: ἀναλύεσθαι
 ἀναμένω:
@@ -769,7 +769,7 @@
     present.mp1.generated: ἀποκόπτεσθαι
 ἀποκρίνομαι:
     aorist.act.generated: ἀποκρῖναι
-    aorist.mp1.generated: ἀποκρῑ́νασθαι
+    aorist.mp1.generated: ἀποκρίνασθαι
     aorist.mp2.actual: ἀποκριθῆναι
     present.act.generated: ἀποκρίνειν
     present.mp1.actual: ἀποκρίνεσθαι
@@ -814,7 +814,7 @@
     present.mp1.generated: ἀπολούεσθαι
 ἀπολύω:
     aorist.act.actual: ἀπολῦσαι
-    aorist.mp1.generated: ἀπολῡ́σασθαι
+    aorist.mp1.generated: ἀπολύσασθαι
     aorist.mp2.generated: ἀπολυθῆναι
     present.act.actual: ἀπολύειν
     present.mp1.generated: ἀπολύεσθαι
@@ -1311,7 +1311,7 @@
     present.mp1.generated: γινώσκεσθαι
 γνωρίζω:
     aorist.act.actual: γνωρίσαι
-    aorist.mp1.generated: γνωρῐ́σασθαι
+    aorist.mp1.generated: γνωρίσασθαι
     aorist.mp2.generated: γνωρισθῆναι
     present.act.generated: γνωρίζειν
     present.mp1.generated: γνωρίζεσθαι
@@ -1474,7 +1474,7 @@
     present.mp1.generated: διαιρεῖσθαι
 διακαθαίρω:
     aorist.act.actual: διακαθᾶραι
-    aorist.mp1.generated: διακαθᾱ́ρασθαι
+    aorist.mp1.generated: διακαθάρασθαι
     present.act.generated: διακαθαίρειν
     present.mp1.generated: διακαθαίρεσθαι
 διακαθαρίζω:
@@ -1494,7 +1494,7 @@
     present.mp1.generated: διακούεσθαι
 διακρίνω:
     aorist.act.actual: διακρῖναι
-    aorist.mp1.generated: διακρῑ́νασθαι
+    aorist.mp1.generated: διακρίνασθαι
     aorist.mp2.generated: διακριθῆναι
     present.act.actual: διακρίνειν
     present.mp1.generated: διακρίνεσθαι
@@ -2251,8 +2251,8 @@
     present.act.generated: ἐμπιμπλάναι
     present.mp1.generated: ἐμπίμπλασθαι
 ἐμπίμπρημι:
-    present.act.generated: ἐμπιμπρῆναι
-    present.mp1.generated: ἐμπίμπρησθαι
+    present.act.generated: ἐμπιμπράναι
+    present.mp1.generated: ἐμπίμπρασθαι
 ἐμπίπτω:
     aorist.act.actual: ἐμπεσεῖν
     aorist.mp1.generated: ἐμπεσέσθαι
@@ -2550,7 +2550,7 @@
     present.mp1.generated: ἐπαινεῖσθαι
 ἐπαίρω:
     aorist.act.actual: ἐπᾶραι
-    aorist.mp1.generated: ἐπᾱ́ρασθαι
+    aorist.mp1.generated: ἐπάρασθαι
     present.act.generated: ἐπαίρειν
     present.mp1.generated: ἐπαίρεσθαι
 ἐπαισχύνομαι:
@@ -2665,8 +2665,8 @@
     present.act.generated: ἐπιγινώσκειν
     present.mp1.generated: ἐπιγινώσκεσθαι
 ἐπιγράφω:
-    present.act.generated: ἐπιγρᾰ́φειν
-    present.mp1.generated: ἐπιγρᾰ́φεσθαι
+    present.act.generated: ἐπιγράφειν
+    present.mp1.generated: ἐπιγράφεσθαι
 ἐπιδείκνυμι:
     aorist.act.actual: ἐπιδεῖξαι
     aorist.mp1.generated: ἐπιδείξασθαι
@@ -3168,7 +3168,7 @@
     present.mp1.generated: θαρρεῖσθαι
 θαυμάζω:
     aorist.act.actual: θαυμάσαι
-    aorist.mp1.generated: θαυμᾰ́σασθαι
+    aorist.mp1.generated: θαυμάσασθαι
     aorist.mp2.actual: θαυμασθῆναι
     present.act.actual: θαυμάζειν
     present.mp1.generated: θαυμάζεσθαι
@@ -3226,8 +3226,8 @@
     present.act.generated: θλίβειν
     present.mp1.actual: θλίβεσθαι
 θνῄσκω:
-    aorist.act.generated: θάναι
-    aorist.mp1.generated: θάνασθαι
+    aorist.act.generated: θανεῖν
+    aorist.mp1.generated: θανέσθαι
     present.act.generated: θνῄσκειν
     present.mp1.generated: θνῄσκεσθαι
 θορυβάζω:
@@ -3252,7 +3252,7 @@
     present.mp1.actual: θροεῖσθαι
 θυμιάω:
     aorist.act.actual: θυμιᾶσαι
-    aorist.mp1.generated: θυμιᾱ́σασθαι
+    aorist.mp1.generated: θυμιάσασθαι
     present.act.generated: θυμιᾶν
     present.mp1.generated: θυμιᾶσθαι
 θυμομαχέω:
@@ -3563,7 +3563,7 @@
     present.mp1.generated: καταλλάσσεσθαι
 καταλύω:
     aorist.act.actual: καταλῦσαι
-    aorist.mp1.generated: καταλῡ́σασθαι
+    aorist.mp1.generated: καταλύσασθαι
     present.act.generated: καταλύειν
     present.mp1.generated: καταλύεσθαι
 καταμαρτυρέω:
@@ -3743,7 +3743,7 @@
     present.mp1.generated: κατεσθίεσθαι
 κατευθύνω:
     aorist.act.actual: κατευθῦναι
-    aorist.mp1.generated: κατευθῡ́νασθαι
+    aorist.mp1.generated: κατευθύνασθαι
     present.act.generated: κατευθύνειν
     present.mp1.generated: κατευθύνεσθαι
 κατευλογέω:
@@ -3957,7 +3957,7 @@
     aorist.act.generated: κράξαι
     aorist.mp1.generated: κράξασθαι
     present.act.actual: κράζειν
-    present.mp1.generated: κρᾱ́ζεσθαι
+    present.mp1.generated: κράζεσθαι
 κραταιόομαι:
     aorist.mp2.actual: κραταιωθῆναι
     present.act.generated: κραταιοῦν
@@ -3978,7 +3978,7 @@
     present.mp1.generated: κρέμασθαι
 κρίνω:
     aorist.act.actual: κρῖναι
-    aorist.mp1.generated: κρῑ́νασθαι
+    aorist.mp1.generated: κρίνασθαι
     aorist.mp2.actual: κριθῆναι
     present.act.actual: κρίνειν
     present.mp1.actual: κρίνεσθαι
@@ -4036,7 +4036,7 @@
     present.mp1.generated: κυροῦσθαι
 κωλύω:
     aorist.act.actual: κωλῦσαι
-    aorist.mp1.generated: κωλῡ́σασθαι
+    aorist.mp1.generated: κωλύσασθαι
     aorist.mp2.generated: κωλυθῆναι
     present.act.actual: κωλύειν
     present.mp1.actual: κωλύεσθαι
@@ -4098,7 +4098,7 @@
     present.mp1.generated: λειτουργεῖσθαι
 λευκαίνω:
     aorist.act.actual: λευκᾶναι
-    aorist.mp1.generated: λευκᾱ́νασθαι
+    aorist.mp1.generated: λευκάνασθαι
     present.act.generated: λευκαίνειν
     present.mp1.generated: λευκαίνεσθαι
 λιθάζω:
@@ -4149,7 +4149,7 @@
     present.mp1.actual: λυτροῦσθαι
 λύω:
     aorist.act.actual: λῦσαι
-    aorist.mp1.generated: λῡ́σασθαι
+    aorist.mp1.generated: λύσασθαι
     aorist.mp2.actual: λυθῆναι
     present.act.generated: λύειν
     present.mp1.generated: λύεσθαι
@@ -5253,7 +5253,7 @@
     present.mp1.generated: ποτίζεσθαι
 πράσσω:
     aorist.act.actual: πρᾶξαι
-    aorist.mp1.generated: πρᾱ́ξασθαι
+    aorist.mp1.generated: πράξασθαι
     present.act.actual: πράσσειν
     present.mp1.generated: πράσσεσθαι
 πρέπω:
@@ -5739,7 +5739,7 @@
     present.mp1.generated: σεληνιάζεσθαι
 σημαίνω:
     aorist.act.actual: σημᾶναι
-    aorist.mp1.generated: σημᾱ́νασθαι
+    aorist.mp1.generated: σημάνασθαι
     present.act.generated: σημαίνειν
     present.mp1.generated: σημαίνεσθαι
 σήπω:
@@ -5807,8 +5807,8 @@
     present.act.generated: σκοτοῦν
     present.mp1.generated: σκοτοῦσθαι
 σκύλλω:
-    present.act.generated: σκῠ́λλειν
-    present.mp1.generated: σκῠ́λλεσθαι
+    present.act.generated: σκύλλειν
+    present.mp1.generated: σκύλλεσθαι
 σμυρνίζω:
     present.act.generated: σμυρνίζειν
     present.mp1.generated: σμυρνίζεσθαι
@@ -5981,7 +5981,7 @@
     present.mp1.generated: συγκομίζεσθαι
 συγκρίνω:
     aorist.act.actual: συγκρῖναι
-    aorist.mp1.generated: συγκρῑ́νασθαι
+    aorist.mp1.generated: συγκρίνασθαι
     present.act.generated: συγκρίνειν
     present.mp1.generated: συγκρίνεσθαι
 συγκύπτω:
@@ -6335,8 +6335,8 @@
 συντρίβω:
     aorist.act.generated: συντρίψαι
     aorist.mp1.generated: συντρίψασθαι
-    present.act.generated: συντρῑ́βειν
-    present.mp1.generated: συντρῑ́βεσθαι
+    present.act.generated: συντρίβειν
+    present.mp1.generated: συντρίβεσθαι
 συντυγχάνω:
     aorist.act.actual: συντυχεῖν
     aorist.mp1.generated: συντυχέσθαι
